@@ -8,7 +8,7 @@
   "private": true,
   "files": [ ],
   "license": "MIT",
-  "name": "earthporn",
+  "name": "earthporn-data",
   "scripts": {
     "ci": "./scripts/ci",
     "husky:precommit": "./scripts/husky-precommit",
