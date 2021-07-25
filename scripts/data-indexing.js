@@ -1,10 +1,6 @@
 const indexing = require('algolia-indexing');
 const { glob, readJson } = require('firost');
-const pMap = require('p-map');
-
-// TODO:
-// I should create imoen versions of the templates
-// With a data-localUpdate and a hook
+const { pMap } = require('golgoth');
 
 (async function () {
   const credentials = {
@@ -14,11 +10,7 @@ const pMap = require('p-map');
   };
   const settings = {
     searchableAttributes: ['title', 'author.name'],
-    attributesForFaceting: [
-      'author.name',
-      'tags',
-      'misc.postHint',
-    ],
+    attributesForFaceting: ['author.name', 'tags', 'misc.postHint'],
     customRanking: ['desc(date.day)', 'desc(score.value)', 'desc(score.ratio)'],
   };
 
