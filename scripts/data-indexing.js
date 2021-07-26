@@ -6,7 +6,7 @@ const { pMap } = require('golgoth');
   const credentials = {
     appId: 'O3F8QXYK6R',
     apiKey: process.env.ALGOLIA_API_KEY,
-    indexName: 'earthporn',
+    indexName: 'landscapes',
   };
   const settings = {
     searchableAttributes: ['title', 'author.name'],

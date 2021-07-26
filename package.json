@@ -1,6 +1,7 @@
 {
   "devDependencies": {
-    "aberlaas": "1.24.1"
+    "aberlaas": "1.24.1",
+    "on-circle": "1.0.2"
   },
   "engines": {
     "node": ">=14.17.0"
@@ -8,9 +9,10 @@
   "private": true,
   "files": [],
   "license": "MIT",
-  "name": "earthporn-data",
+  "name": "landscapes-data",
   "scripts": {
     "ci": "./scripts/ci",
+    "ci:dailyUpdate": "node ./scripts/ci-dailyUpdate.js",
     "data:initial": "node ./scripts/data-initial.js",
     "data:incremental": "node ./scripts/data-incremental.js",
     "data:indexing": "node ./scripts/data-indexing.js",
