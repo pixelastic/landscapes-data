@@ -9,21 +9,19 @@
     "month": 1572566400,
     "week": 1574553600
   },
-  "displayPicture": {
-    "filesize": 166179,
-    "hash": "4c496a28bc",
-    "height": 960,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIH/8QAIBAAAgEEAgMBAAAAAAAAAAAAAQIDBAURIQASBjFBYf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIABBEDIf/aAAwDAQACEQMRAD8AHs3ll0qLHdZWkgeSmjBDtTZcMfgwcHQPse+Z7UUk1ZO9RN0lkkOWeUHsT+54jZay422mmjSUIs6hDC8QfvG2yxzoYwCPu9a5bwxyMXanjdm2Wb2eT7NgLiknYyc9Pgn/2Q==",
-    "width": 640
-  },
   "id": "t3_e3k1t9",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/hnjzx39amo141.jpg?auto=webp&s=00bba5f867ac732b4510cee1e667f0ffbf60af3b",
-    "preview": "https://preview.redd.it/hnjzx39amo141.jpg?width=640&crop=smart&auto=webp&s=ef20ae606e2f4f9e506422ba2bb0e0dfddd3f314",
-    "thumbnail": "https://b.thumbs.redditmedia.com/GaG3EEzMBPHBidnqHrBtNbV37ht_a_Os4w4Sm0LbZTo.jpg"
+    "filesize": 166179,
+    "fullUrl": "https://preview.redd.it/hnjzx39amo141.jpg?auto=webp&s=00bba5f867ac732b4510cee1e667f0ffbf60af3b",
+    "hash": "4c496a28bc",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIH/8QAIBAAAgEEAgMBAAAAAAAAAAAAAQIDBAURIQASBjFBYf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIABBEDIf/aAAwDAQACEQMRAD8AHs3ll0qLHdZWkgeSmjBDtTZcMfgwcHQPse+Z7UUk1ZO9RN0lkkOWeUHsT+54jZay422mmjSUIs6hDC8QfvG2yxzoYwCPu9a5bwxyMXanjdm2Wb2eT7NgLiknYyc9Pgn/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/GaG3EEzMBPHBidnqHrBtNbV37ht_a_Os4w4Sm0LbZTo.jpg",
+    "url": "https://preview.redd.it/hnjzx39amo141.jpg?width=640&crop=smart&auto=webp&s=ef20ae606e2f4f9e506422ba2bb0e0dfddd3f314",
+    "width": 640
   },
   "score": {
     "comments": 0,

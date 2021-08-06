@@ -9,21 +9,19 @@
     "month": 1577836800,
     "week": 1578787200
   },
-  "displayPicture": {
-    "filesize": 61954,
-    "hash": "8a7a54572a",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQj/xAAjEAACAQMDBAMAAAAAAAAAAAABAgQDBREAMUEGBxJRExQh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAcEQACAgIDAAAAAAAAAAAAAAACAwEEACEREnH/2gAMAwEAAhEDEQA/AGLH3Ig3VPguttlRrgSxUUArUqijkMzDB4xzxpYX6GaoWHb5ld1HlVHkgNMc5ALHU7dRsYZH1yV8v3BJOCNsZ20x0heZ0FYk+NWKSaYOH3yNiD7B9acFpzandZ8F5rJxVgFsCUanP//Z",
-    "width": 640
-  },
   "id": "t3_eoohjq",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/nu51cvks5sa41.jpg?auto=webp&s=bf6bb3bb61cb8341e062e632c40d3b01f007b25c",
-    "preview": "https://preview.redd.it/nu51cvks5sa41.jpg?width=640&crop=smart&auto=webp&s=5237e05ecb52078216a18cfbbc4dd086c3fdb878",
-    "thumbnail": "https://b.thumbs.redditmedia.com/wnB1WCUqIrO_7JVlRCWsWCLPLs_1tx07ifX3JWLO7bc.jpg"
+    "filesize": 61954,
+    "fullUrl": "https://preview.redd.it/nu51cvks5sa41.jpg?auto=webp&s=bf6bb3bb61cb8341e062e632c40d3b01f007b25c",
+    "hash": "8a7a54572a",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQj/xAAjEAACAQMDBAMAAAAAAAAAAAABAgQDBREAMUEGBxJRExQh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAcEQACAgIDAAAAAAAAAAAAAAACAwEEACEREnH/2gAMAwEAAhEDEQA/AGLH3Ig3VPguttlRrgSxUUArUqijkMzDB4xzxpYX6GaoWHb5ld1HlVHkgNMc5ALHU7dRsYZH1yV8v3BJOCNsZ20x0heZ0FYk+NWKSaYOH3yNiD7B9acFpzandZ8F5rJxVgFsCUanP//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/wnB1WCUqIrO_7JVlRCWsWCLPLs_1tx07ifX3JWLO7bc.jpg",
+    "url": "https://preview.redd.it/nu51cvks5sa41.jpg?width=640&crop=smart&auto=webp&s=5237e05ecb52078216a18cfbbc4dd086c3fdb878",
+    "width": 640
   },
   "score": {
     "comments": 1,

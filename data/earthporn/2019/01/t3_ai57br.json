@@ -9,21 +9,19 @@
     "month": 1546300800,
     "week": 1547942400
   },
-  "displayPicture": {
-    "filesize": 130812,
-    "hash": "21e29230d0",
-    "height": 800,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQH/8QAJhAAAQQBAwMEAwAAAAAAAAAAAQIDBREEABIxBxMhBhQiQVFhcf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQADAQEAAAAAAAAAAAAAAAAAARESQf/aAAwDAQACEQMRAD8AtQqMbj0KgoN1xFgB/JbCUr8/Qu65JJ4GmyIqNfZYclIL2+WpPzSw6hbZ/aSaNazTC62yIShhEXhN4yNqWW+4pHbo3e7g3/PA0fqHrE5IPNHKhsNewHaGcg0m+eAPxpp0LSakP//Z",
-    "width": 640
-  },
   "id": "t3_ai57br",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/ech478h4pob21.jpg?auto=webp&s=cf906fe9bc26b253fd569e692570412199ceb46c",
-    "preview": "https://preview.redd.it/ech478h4pob21.jpg?width=640&crop=smart&auto=webp&s=22dbc1692989d3339f0e9379c80804eb86ce3969",
-    "thumbnail": "https://b.thumbs.redditmedia.com/C0uAuRK7ncOuqpYduvrHArM8wQlpjcU64J7ek7LgFrc.jpg"
+    "filesize": 130812,
+    "fullUrl": "https://preview.redd.it/ech478h4pob21.jpg?auto=webp&s=cf906fe9bc26b253fd569e692570412199ceb46c",
+    "hash": "21e29230d0",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQH/8QAJhAAAQQBAwMEAwAAAAAAAAAAAQIDBREEABIxBxMhBhQiQVFhcf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQADAQEAAAAAAAAAAAAAAAAAARESQf/aAAwDAQACEQMRAD8AtQqMbj0KgoN1xFgB/JbCUr8/Qu65JJ4GmyIqNfZYclIL2+WpPzSw6hbZ/aSaNazTC62yIShhEXhN4yNqWW+4pHbo3e7g3/PA0fqHrE5IPNHKhsNewHaGcg0m+eAPxpp0LSakP//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/C0uAuRK7ncOuqpYduvrHArM8wQlpjcU64J7ek7LgFrc.jpg",
+    "url": "https://preview.redd.it/ech478h4pob21.jpg?width=640&crop=smart&auto=webp&s=22dbc1692989d3339f0e9379c80804eb86ce3969",
+    "width": 640
   },
   "score": {
     "comments": 1,

@@ -9,21 +9,19 @@
     "month": 1604188800,
     "week": 1604793600
   },
-  "displayPicture": {
-    "filesize": 71827,
-    "hash": "ecd62365c1",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACcQAAIBAwEGBwAAAAAAAAAAAAECAwAEEQUGEhMVQaEXISIjMVJh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EAB4RAAICAAcAAAAAAAAAAAAAAAECAAMEERJhceHw/9oADAMBAAIRAxEAPwBrxTWCBOZWNk0DHDNucNmI6jGT2xU3UNulmmhuIIuFGVytugXcYn7scn46ftZW202G5kMUzykL5AhsGiz7MWEHvFppWU+kSMCB2plmKNia1YrsB3BpSVORAPuJ/9k=",
-    "width": 640
-  },
   "id": "t3_jr98u5",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/5konun16vay51.jpg?auto=webp&s=6d4cae73d3114d637c501c5cd23aaf024c2a967a",
-    "preview": "https://preview.redd.it/5konun16vay51.jpg?width=640&crop=smart&auto=webp&s=f3b1412ce3dc622037ce2ba8a99f3d071aad37e8",
-    "thumbnail": "https://b.thumbs.redditmedia.com/Z-5RsiPNKBJ8L2w5k-2_DFBJCTdryS6CWEOKIDEmC9Y.jpg"
+    "filesize": 71827,
+    "fullUrl": "https://preview.redd.it/5konun16vay51.jpg?auto=webp&s=6d4cae73d3114d637c501c5cd23aaf024c2a967a",
+    "hash": "ecd62365c1",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACcQAAIBAwEGBwAAAAAAAAAAAAECAwAEEQUGEhMVQaEXISIjMVJh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EAB4RAAICAAcAAAAAAAAAAAAAAAECAAMEERJhceHw/9oADAMBAAIRAxEAPwBrxTWCBOZWNk0DHDNucNmI6jGT2xU3UNulmmhuIIuFGVytugXcYn7scn46ftZW202G5kMUzykL5AhsGiz7MWEHvFppWU+kSMCB2plmKNia1YrsB3BpSVORAPuJ/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Z-5RsiPNKBJ8L2w5k-2_DFBJCTdryS6CWEOKIDEmC9Y.jpg",
+    "url": "https://preview.redd.it/5konun16vay51.jpg?width=640&crop=smart&auto=webp&s=f3b1412ce3dc622037ce2ba8a99f3d071aad37e8",
+    "width": 640
   },
   "score": {
     "comments": 2,

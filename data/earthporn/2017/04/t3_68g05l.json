@@ -9,21 +9,19 @@
     "month": 1491004800,
     "week": 1493510400
   },
-  "displayPicture": {
-    "filesize": 82939,
-    "hash": "8a1ecf3da9",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJhAAAgECBQIHAAAAAAAAAAAAAQIEAxEABQYSIQdBFCIyUWGh4f/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGREAAwADAAAAAAAAAAAAAAAAAAECBBEx/9oADAMBAAIRAxEAPwC901qvOq+VsrR48uXHUNUVi1MutvUCfKTfi3GCcx6uS4jWoRssom4GyUaykAi+64FtvzfvjOdV6izIO8ZZBWi7UwwHFx7feA6Eys3iSzklOASe1/wYlWVa6CplPR//2Q==",
-    "width": 640
-  },
   "id": "t3_68g05l",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/vljinxfelpuy.jpg?auto=webp&s=7458e93077b3cdf353269f23d1610ece22f28d7d",
-    "preview": "https://preview.redd.it/vljinxfelpuy.jpg?width=640&crop=smart&auto=webp&s=c043f685bd3e4082de12e966646f7f4ddce8909f",
-    "thumbnail": "https://b.thumbs.redditmedia.com/Yn5nenzPlhTDUVlpVJ8O87dAu2leGptdw2FgX6eZE0w.jpg"
+    "filesize": 82939,
+    "fullUrl": "https://preview.redd.it/vljinxfelpuy.jpg?auto=webp&s=7458e93077b3cdf353269f23d1610ece22f28d7d",
+    "hash": "8a1ecf3da9",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJhAAAgECBQIHAAAAAAAAAAAAAQIEAxEABQYSIQdBFCIyUWGh4f/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGREAAwADAAAAAAAAAAAAAAAAAAECBBEx/9oADAMBAAIRAxEAPwC901qvOq+VsrR48uXHUNUVi1MutvUCfKTfi3GCcx6uS4jWoRssom4GyUaykAi+64FtvzfvjOdV6izIO8ZZBWi7UwwHFx7feA6Eys3iSzklOASe1/wYlWVa6CplPR//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Yn5nenzPlhTDUVlpVJ8O87dAu2leGptdw2FgX6eZE0w.jpg",
+    "url": "https://preview.redd.it/vljinxfelpuy.jpg?width=640&crop=smart&auto=webp&s=c043f685bd3e4082de12e966646f7f4ddce8909f",
+    "width": 640
   },
   "score": {
     "comments": 6,

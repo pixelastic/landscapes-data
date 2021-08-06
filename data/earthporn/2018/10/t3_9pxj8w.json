@@ -9,21 +9,19 @@
     "month": 1538352000,
     "week": 1539475200
   },
-  "displayPicture": {
-    "filesize": 61635,
-    "hash": "4b885c9199",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAIxAAAQMDBAIDAAAAAAAAAAAAAQIDBAUGEQAHEiETMRRBof/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAMAwEAAhEDEQA/AFu0VwXDTqI7TbopzjfwUNtx3FsqBcT2McgMKx1o/vJNu26m3aZS6c4mlJW3haOi8rBJyD6Az+au3OuCowqmxS4j/hjOxw6soGFqPIjHL6HXoawq65coTS+mXIStxKSoJcIGQcDQuQG3/9k=",
-    "width": 640
-  },
   "id": "t3_9pxj8w",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/njrzoa78iet11.jpg?auto=webp&s=1f8949914802981af271442c2a47c8c0d6d5b308",
-    "preview": "https://preview.redd.it/njrzoa78iet11.jpg?width=640&crop=smart&auto=webp&s=c49ce37d74acb6125899ba97a790b2fc874670cc",
-    "thumbnail": "https://b.thumbs.redditmedia.com/85raeM6jz63x0VKWdvF2rbzE0QsHWZau0E9RTr4-kXE.jpg"
+    "filesize": 61635,
+    "fullUrl": "https://preview.redd.it/njrzoa78iet11.jpg?auto=webp&s=1f8949914802981af271442c2a47c8c0d6d5b308",
+    "hash": "4b885c9199",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAIxAAAQMDBAIDAAAAAAAAAAAAAQIDBAUGEQAHEiETMRRBof/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAMAwEAAhEDEQA/AFu0VwXDTqI7TbopzjfwUNtx3FsqBcT2McgMKx1o/vJNu26m3aZS6c4mlJW3haOi8rBJyD6Az+au3OuCowqmxS4j/hjOxw6soGFqPIjHL6HXoawq65coTS+mXIStxKSoJcIGQcDQuQG3/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/85raeM6jz63x0VKWdvF2rbzE0QsHWZau0E9RTr4-kXE.jpg",
+    "url": "https://preview.redd.it/njrzoa78iet11.jpg?width=640&crop=smart&auto=webp&s=c49ce37d74acb6125899ba97a790b2fc874670cc",
+    "width": 640
   },
   "score": {
     "comments": 0,

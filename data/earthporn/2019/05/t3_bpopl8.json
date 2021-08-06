@@ -9,21 +9,19 @@
     "month": 1556668800,
     "week": 1557619200
   },
-  "displayPicture": {
-    "filesize": 99002,
-    "hash": "a3f85c3dec",
-    "height": 512,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJRAAAQMDAgYDAAAAAAAAAAAAAQIDBAUGEQAhBxIxQWGBIiNR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAdEQABBAIDAAAAAAAAAAAAAAACAAEDEQUTIjFR/9oADAMBAAIRAxEAPwBbgBdrAtmXEkuF2S08ORCyAot42P6cdPWqu4rqqaUgwWY8dhS8B4jm2xuN+/rvrIF287SHGKlSak9EVLQGnEoQOhVvg+vOn6PIfrVvMyJTqlOs/Uor+XOEqx4wTjJI0NkQGGgayU+iQpe+Pi//2Q==",
-    "width": 640
-  },
   "id": "t3_bpopl8",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/opxptctfgqy21.jpg?auto=webp&s=c778dcd763b215b7433776de89f1ac99b8c0157e",
-    "preview": "https://preview.redd.it/opxptctfgqy21.jpg?width=640&crop=smart&auto=webp&s=f58d1d81f73407f33aa35e3ab9e560cd1fa804e1",
-    "thumbnail": "https://b.thumbs.redditmedia.com/BOWzTyw7n85d4YDvWUCxlROZZwt7w7EpUEUxKGylSaw.jpg"
+    "filesize": 99002,
+    "fullUrl": "https://preview.redd.it/opxptctfgqy21.jpg?auto=webp&s=c778dcd763b215b7433776de89f1ac99b8c0157e",
+    "hash": "a3f85c3dec",
+    "height": 512,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJRAAAQMDAgYDAAAAAAAAAAAAAQIDBAUGEQAhBxIxQWGBIiNR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAdEQABBAIDAAAAAAAAAAAAAAACAAEDEQUTIjFR/9oADAMBAAIRAxEAPwBbgBdrAtmXEkuF2S08ORCyAot42P6cdPWqu4rqqaUgwWY8dhS8B4jm2xuN+/rvrIF287SHGKlSak9EVLQGnEoQOhVvg+vOn6PIfrVvMyJTqlOs/Uor+XOEqx4wTjJI0NkQGGgayU+iQpe+Pi//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/BOWzTyw7n85d4YDvWUCxlROZZwt7w7EpUEUxKGylSaw.jpg",
+    "url": "https://preview.redd.it/opxptctfgqy21.jpg?width=640&crop=smart&auto=webp&s=f58d1d81f73407f33aa35e3ab9e560cd1fa804e1",
+    "width": 640
   },
   "score": {
     "comments": 0,

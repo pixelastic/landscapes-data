@@ -9,21 +9,19 @@
     "month": 1543622400,
     "week": 1543708800
   },
-  "displayPicture": {
-    "filesize": 120783,
-    "hash": "f31a45e40a",
-    "height": 800,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwX/xAAkEAABAwQBAwUAAAAAAAAAAAACAQMEAAURIQYTMZESIiMy4f/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGxEAAgEFAAAAAAAAAAAAAAAAAAECAwQREzH/2gAMAwEAAhEDEQA/AHy5y5T7AOWoAcZMENHy+uF3qi7k/MTt0sGJj6vOIOficQETwm6Phm8ysvTjSWTuUACyYRC9RION4Hunhd1AG8RHnDcfVOt7QNuQGCbVETWF7flTSuHTWWLrUuH/2Q==",
-    "width": 640
-  },
   "id": "t3_a2q3e6",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/v81rafwa83221.jpg?auto=webp&s=916448bc7ecece6bc576d5aea6adc109c9b36051",
-    "preview": "https://preview.redd.it/v81rafwa83221.jpg?width=640&crop=smart&auto=webp&s=086561c39ebce077d73c0d0990d77f1990bb2fa1",
-    "thumbnail": "https://b.thumbs.redditmedia.com/bnXWuPX3scPe6oDUzT6HLTibpeEX7tNmK9Uu0y0TWSs.jpg"
+    "filesize": 120783,
+    "fullUrl": "https://preview.redd.it/v81rafwa83221.jpg?auto=webp&s=916448bc7ecece6bc576d5aea6adc109c9b36051",
+    "hash": "f31a45e40a",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwX/xAAkEAABAwQBAwUAAAAAAAAAAAACAQMEAAURIQYTMZESIiMy4f/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGxEAAgEFAAAAAAAAAAAAAAAAAAECAwQREzH/2gAMAwEAAhEDEQA/AHy5y5T7AOWoAcZMENHy+uF3qi7k/MTt0sGJj6vOIOficQETwm6Phm8ysvTjSWTuUACyYRC9RION4Hunhd1AG8RHnDcfVOt7QNuQGCbVETWF7flTSuHTWWLrUuH/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/bnXWuPX3scPe6oDUzT6HLTibpeEX7tNmK9Uu0y0TWSs.jpg",
+    "url": "https://preview.redd.it/v81rafwa83221.jpg?width=640&crop=smart&auto=webp&s=086561c39ebce077d73c0d0990d77f1990bb2fa1",
+    "width": 640
   },
   "score": {
     "comments": 40,

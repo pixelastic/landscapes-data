@@ -9,21 +9,19 @@
     "month": 1535760000,
     "week": 1536451200
   },
-  "displayPicture": {
-    "filesize": 72655,
-    "hash": "23486f4228",
-    "height": 311,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEE/8QAIhAAAQMCBgMAAAAAAAAAAAAAAQIDBAAFBgcREiFhEzFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAcEQACAgIDAAAAAAAAAAAAAAABAgMRAAQhMfD/2gAMAwEAAhEDEQA/AMWHswLrEusRuVcJL0UAN+Na94P0Hg961cRX+bcXn2wt1iO6vcpsK1UrrpPHoUpUra2ZoUVUci79feLHCnJIz//Z",
-    "width": 640
-  },
   "id": "t3_9fdz79",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/lbd4u9biywl11.jpg?auto=webp&s=6d5d392569ac8456f1cc08e830a31cf22e6c9986",
-    "preview": "https://preview.redd.it/lbd4u9biywl11.jpg?width=640&crop=smart&auto=webp&s=4bacedf52e3ec717f718bd307241d341be509970",
-    "thumbnail": "https://b.thumbs.redditmedia.com/smBTt49wG3ve9psqQJgOSrLh1QwevB7zbkRwgIFN2EY.jpg"
+    "filesize": 72655,
+    "fullUrl": "https://preview.redd.it/lbd4u9biywl11.jpg?auto=webp&s=6d5d392569ac8456f1cc08e830a31cf22e6c9986",
+    "hash": "23486f4228",
+    "height": 311,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEE/8QAIhAAAQMCBgMAAAAAAAAAAAAAAQIDBAAFBgcREiFhEzFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAcEQACAgIDAAAAAAAAAAAAAAABAgMRAAQhMfD/2gAMAwEAAhEDEQA/AMWHswLrEusRuVcJL0UAN+Na94P0Hg961cRX+bcXn2wt1iO6vcpsK1UrrpPHoUpUra2ZoUVUci79feLHCnJIz//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/smBTt49wG3ve9psqQJgOSrLh1QwevB7zbkRwgIFN2EY.jpg",
+    "url": "https://preview.redd.it/lbd4u9biywl11.jpg?width=640&crop=smart&auto=webp&s=4bacedf52e3ec717f718bd307241d341be509970",
+    "width": 640
   },
   "score": {
     "comments": 1,

@@ -9,21 +9,19 @@
     "month": 1572566400,
     "week": 1574553600
   },
-  "displayPicture": {
-    "filesize": 90480,
-    "hash": "876e1712c5",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIxAAAgIBAwUAAwAAAAAAAAAAAQIDBAUAESEGBxIxURMikf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAaEQABBQEAAAAAAAAAAAAAAAADAAECEWEF/9oADAMBAAIRAxEAPwBVe7lWK0kKxCa68jfjCxqzMGI3H6+9jqZlu8NrH37NKbE5WaasPKTwURqvH1jz841nV/JXMZ06L2OnNa0UCtJGoBbf2fXBP0baN9SXrVkrPYsTSSOg3LOdv5ocXQKRqlqRKAUHuGL/2Q==",
-    "width": 640
-  },
   "id": "t3_e1pg87",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/t42cx02hax041.jpg?auto=webp&s=ee8a42473bcb72304eb46a8845a00826216b8953",
-    "preview": "https://preview.redd.it/t42cx02hax041.jpg?width=640&crop=smart&auto=webp&s=d6d0df775e78b80b212ed4e0d1bdeba4441a9a4a",
-    "thumbnail": "https://b.thumbs.redditmedia.com/euCd6iGQy0gyaxft9_--cacBM9TrgOkh8YK91fOrjPA.jpg"
+    "filesize": 90480,
+    "fullUrl": "https://preview.redd.it/t42cx02hax041.jpg?auto=webp&s=ee8a42473bcb72304eb46a8845a00826216b8953",
+    "hash": "876e1712c5",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIxAAAgIBAwUAAwAAAAAAAAAAAQIDBAUAESEGBxIxURMikf/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAaEQABBQEAAAAAAAAAAAAAAAADAAECEWEF/9oADAMBAAIRAxEAPwBVe7lWK0kKxCa68jfjCxqzMGI3H6+9jqZlu8NrH37NKbE5WaasPKTwURqvH1jz841nV/JXMZ06L2OnNa0UCtJGoBbf2fXBP0baN9SXrVkrPYsTSSOg3LOdv5ocXQKRqlqRKAUHuGL/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/euCd6iGQy0gyaxft9_--cacBM9TrgOkh8YK91fOrjPA.jpg",
+    "url": "https://preview.redd.it/t42cx02hax041.jpg?width=640&crop=smart&auto=webp&s=d6d0df775e78b80b212ed4e0d1bdeba4441a9a4a",
+    "width": 640
   },
   "score": {
     "comments": 34,

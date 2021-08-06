@@ -9,21 +9,19 @@
     "month": 1501545600,
     "week": 1501977600
   },
-  "displayPicture": {
-    "filesize": 65049,
-    "hash": "03283da5ca",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQF/8QAIxAAAQQBBAIDAQAAAAAAAAAAAQIDBAURAAYSITFBBxOBsf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEAAwEBAAAAAAAAAAAAAAAAAQIRABL/2gAMAwEAAhEDEQA/ANXZnylV7jjw4U2hskX/AA5OJjRgptWPYJV1133jRtdbvsttWloqNCmxnHnV/YX2+KCokgZBJBx6/uq5G57CvmSmIgYbS02eKg32Mdfn5jRzuWY/Z3r78xxTi1Y8k4GAPA1OilTblY9Cb//Z",
-    "width": 640
-  },
   "id": "t3_6ss6rs",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/kcsche5apvez.jpg?auto=webp&s=1bdb50b9305b5665db5c0998200f4ba4ac3877d6",
-    "preview": "https://preview.redd.it/kcsche5apvez.jpg?width=640&crop=smart&auto=webp&s=324ee445019648c938fa8514906c7380a4895785",
-    "thumbnail": "https://a.thumbs.redditmedia.com/ABkGWclQkRQFfEd8Kro7jxK53bAyCw-EnDhmzUAclY0.jpg"
+    "filesize": 65049,
+    "fullUrl": "https://preview.redd.it/kcsche5apvez.jpg?auto=webp&s=1bdb50b9305b5665db5c0998200f4ba4ac3877d6",
+    "hash": "03283da5ca",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQF/8QAIxAAAQQBBAIDAQAAAAAAAAAAAQIDBAURAAYSITFBBxOBsf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEAAwEBAAAAAAAAAAAAAAAAAQIRABL/2gAMAwEAAhEDEQA/ANXZnylV7jjw4U2hskX/AA5OJjRgptWPYJV1133jRtdbvsttWloqNCmxnHnV/YX2+KCokgZBJBx6/uq5G57CvmSmIgYbS02eKg32Mdfn5jRzuWY/Z3r78xxTi1Y8k4GAPA1OilTblY9Cb//Z",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/ABkGWclQkRQFfEd8Kro7jxK53bAyCw-EnDhmzUAclY0.jpg",
+    "url": "https://preview.redd.it/kcsche5apvez.jpg?width=640&crop=smart&auto=webp&s=324ee445019648c938fa8514906c7380a4895785",
+    "width": 640
   },
   "score": {
     "comments": 0,

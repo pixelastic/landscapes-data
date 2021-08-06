@@ -9,21 +9,19 @@
     "month": 1517443200,
     "week": 1518307200
   },
-  "displayPicture": {
-    "filesize": 86151,
-    "hash": "e91c2131dc",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAiEAABBAICAQUAAAAAAAAAAAABAgMEEQAFBhIhEzFhcbH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABwRAAIBBQEAAAAAAAAAAAAAAAECAAQREyFBof/aAAwDAQACEQMRAD8ADf5ZyspVGRFSH21WVR0OJcrsQBQ+iLHx5xJG/wCYs6p1ZanKYV2CvXY7FNAG7IBybxeQ7KTspspyQsSC0E90kjwD7VdY+5vNrFVbGwkpKk2bXf7kvUlNFj5HB2wn/9k=",
-    "width": 640
-  },
   "id": "t3_7y8jlt",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/odqlfetaltg01.jpg?auto=webp&s=0c6888589f1151e33c22d16b9e1438ca28202de5",
-    "preview": "https://preview.redd.it/odqlfetaltg01.jpg?width=640&crop=smart&auto=webp&s=e628fd6bb8a907348eb5deb6b36cb44f4ea77f15",
-    "thumbnail": "https://b.thumbs.redditmedia.com/CkUqRIkfQswVZVnEGXaAFn3nx8PKhd-nOl7KExH1gXQ.jpg"
+    "filesize": 86151,
+    "fullUrl": "https://preview.redd.it/odqlfetaltg01.jpg?auto=webp&s=0c6888589f1151e33c22d16b9e1438ca28202de5",
+    "hash": "e91c2131dc",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAiEAABBAICAQUAAAAAAAAAAAABAgMEEQAFBhIhEzFhcbH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABwRAAIBBQEAAAAAAAAAAAAAAAECAAQREyFBof/aAAwDAQACEQMRAD8ADf5ZyspVGRFSH21WVR0OJcrsQBQ+iLHx5xJG/wCYs6p1ZanKYV2CvXY7FNAG7IBybxeQ7KTspspyQsSC0E90kjwD7VdY+5vNrFVbGwkpKk2bXf7kvUlNFj5HB2wn/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/CkUqRIkfQswVZVnEGXaAFn3nx8PKhd-nOl7KExH1gXQ.jpg",
+    "url": "https://preview.redd.it/odqlfetaltg01.jpg?width=640&crop=smart&auto=webp&s=e628fd6bb8a907348eb5deb6b36cb44f4ea77f15",
+    "width": 640
   },
   "score": {
     "comments": 4,

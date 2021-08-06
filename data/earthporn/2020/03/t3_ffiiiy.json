@@ -9,21 +9,19 @@
     "month": 1583020800,
     "week": 1583625600
   },
-  "displayPicture": {
-    "filesize": 111745,
-    "hash": "141ee72ac2",
-    "height": 427,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACUQAAECBQMEAwAAAAAAAAAAAAIBAwQFERIhADFRBhMUsSIkYf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAHBEAAQMFAAAAAAAAAAAAAAAAAgABAwQRQXHR/9oADAMBAAIRAxEAPwDKOomJkxAQrptr4zY3KLeyGu5FyiYGv5xpW1JnNEWG+rLxEUO07UM6LlK5otK+tGmDzsTEsC84ZC6I9wa4LKJlNtR3ZhFjI0tiHUudz8uVVPWNRGYzG2eoTUog+1//2Q==",
-    "width": 640
-  },
   "id": "t3_ffiiiy",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/cdu5vsg2dil41.jpg?auto=webp&s=04188c2279ee3a6776706e87c4df1294c851a237",
-    "preview": "https://preview.redd.it/cdu5vsg2dil41.jpg?width=640&crop=smart&auto=webp&s=508baa688ce18869fe92878532aa6440d7d20fe3",
-    "thumbnail": "https://b.thumbs.redditmedia.com/fHNRw1J9rmoQVJSXzDl2HSkmdDIv7XO_6wYipNOuF-Y.jpg"
+    "filesize": 111745,
+    "fullUrl": "https://preview.redd.it/cdu5vsg2dil41.jpg?auto=webp&s=04188c2279ee3a6776706e87c4df1294c851a237",
+    "hash": "141ee72ac2",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACUQAAECBQMEAwAAAAAAAAAAAAIBAwQFERIhADFRBhMUsSIkYf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAHBEAAQMFAAAAAAAAAAAAAAAAAgABAwQRQXHR/9oADAMBAAIRAxEAPwDKOomJkxAQrptr4zY3KLeyGu5FyiYGv5xpW1JnNEWG+rLxEUO07UM6LlK5otK+tGmDzsTEsC84ZC6I9wa4LKJlNtR3ZhFjI0tiHUudz8uVVPWNRGYzG2eoTUog+1//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/fHNRw1J9rmoQVJSXzDl2HSkmdDIv7XO_6wYipNOuF-Y.jpg",
+    "url": "https://preview.redd.it/cdu5vsg2dil41.jpg?width=640&crop=smart&auto=webp&s=508baa688ce18869fe92878532aa6440d7d20fe3",
+    "width": 640
   },
   "score": {
     "comments": 0,

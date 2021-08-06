@@ -9,21 +9,19 @@
     "month": 1598918400,
     "week": 1599955200
   },
-  "displayPicture": {
-    "filesize": 85130,
-    "hash": "7c66b1cac9",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIH/8QAIBAAAgIBBAMBAAAAAAAAAAAAAQIDBBEABRIhBzFBIv/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIDE//aAAwDAQACEQMRAD8AP0bMU8Kx24LD2o14QRSRCSQ5OSME4VR0AMcjn3p43kOpuM9ajeeWm1OPisVpiDMR2OXzIwPyffXwHWT04Fs2LkFovMilQCzEHtVPsY+nVbJsybtuKxXLdtljmMKkOMhQMgZI0PIvFNXNn//Z",
-    "width": 640
-  },
   "id": "t3_itew7p",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/fs9ers47xcn51.jpg?auto=webp&s=c1c3031f6f09434b3c5261365622babe3230e5e0",
-    "preview": "https://preview.redd.it/fs9ers47xcn51.jpg?width=640&crop=smart&auto=webp&s=172b8050f4033dd5e11f3c55579221811fa47679",
-    "thumbnail": "https://b.thumbs.redditmedia.com/lcQk7Yme1-ZhgB9GGrkhTVtNHdOJX6NaeLI9DlC3OPs.jpg"
+    "filesize": 85130,
+    "fullUrl": "https://preview.redd.it/fs9ers47xcn51.jpg?auto=webp&s=c1c3031f6f09434b3c5261365622babe3230e5e0",
+    "hash": "7c66b1cac9",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIH/8QAIBAAAgIBBAMBAAAAAAAAAAAAAQIDBBEABRIhBzFBIv/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIDE//aAAwDAQACEQMRAD8AP0bMU8Kx24LD2o14QRSRCSQ5OSME4VR0AMcjn3p43kOpuM9ajeeWm1OPisVpiDMR2OXzIwPyffXwHWT04Fs2LkFovMilQCzEHtVPsY+nVbJsybtuKxXLdtljmMKkOMhQMgZI0PIvFNXNn//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/lcQk7Yme1-ZhgB9GGrkhTVtNHdOJX6NaeLI9DlC3OPs.jpg",
+    "url": "https://preview.redd.it/fs9ers47xcn51.jpg?width=640&crop=smart&auto=webp&s=172b8050f4033dd5e11f3c55579221811fa47679",
+    "width": 640
   },
   "score": {
     "comments": 2,

@@ -9,21 +9,19 @@
     "month": 1548979200,
     "week": 1549756800
   },
-  "displayPicture": {
-    "filesize": 52060,
-    "hash": "8e8543a39a",
-    "height": 451,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAJRAAAQMEAQIHAAAAAAAAAAAAAQIDEQAEBSETBhQVIiNBUXGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMF6dxDysviRLUPXAa2dbMbH7QOUY7c8RcSoo8pCfmYM0xgrt/xCxHIYQ+haR7AhQ3UGfaQMjcwkD1VHX2aD/9k=",
-    "width": 640
-  },
   "id": "t3_api65q",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/mwbs5zmzxyf21.jpg?auto=webp&s=9463471924ca120706f203be2c220081d6dfa251",
-    "preview": "https://preview.redd.it/mwbs5zmzxyf21.jpg?width=640&crop=smart&auto=webp&s=692697ab48efb7cf0d16b82950da370415dd3a97",
-    "thumbnail": "https://a.thumbs.redditmedia.com/V_a-ruDCtH-yvijxgwKHXvSgL-qKeOeam0-HRCqhVd4.jpg"
+    "filesize": 52060,
+    "fullUrl": "https://preview.redd.it/mwbs5zmzxyf21.jpg?auto=webp&s=9463471924ca120706f203be2c220081d6dfa251",
+    "hash": "8e8543a39a",
+    "height": 451,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAJRAAAQMEAQIHAAAAAAAAAAAAAQIDEQAEBSETBhQVIiNBUXGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMF6dxDysviRLUPXAa2dbMbH7QOUY7c8RcSoo8pCfmYM0xgrt/xCxHIYQ+haR7AhQ3UGfaQMjcwkD1VHX2aD/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/V_a-ruDCtH-yvijxgwKHXvSgL-qKeOeam0-HRCqhVd4.jpg",
+    "url": "https://preview.redd.it/mwbs5zmzxyf21.jpg?width=640&crop=smart&auto=webp&s=692697ab48efb7cf0d16b82950da370415dd3a97",
+    "width": 640
   },
   "score": {
     "comments": 3,

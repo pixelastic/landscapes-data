@@ -9,21 +9,19 @@
     "month": 1572566400,
     "week": 1574553600
   },
-  "displayPicture": {
-    "filesize": 77883,
-    "hash": "7df20e417a",
-    "height": 960,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJhAAAQMDAwIHAAAAAAAAAAAAAQIDBAAFEQYHIRJRExQiMUGCkf/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQIRAAP/2gAMAwEAAhEDEQA/AMu0nttLmolmRGW2tDaSnOD4iicJQkdz89gKjzNFeWlOMyGZDbqDhSVtqyPwU6281rZYdnU7erxdGZLa+luDGJCHEgelXXzg5zx7UYues5L1wkOR50dTSlkpMgEufY8c1LzpFaN5crgOd//Z",
-    "width": 640
-  },
   "id": "t3_e3ccid",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/xbfylia3cl141.jpg?auto=webp&s=d29e7854db2ab2b805db0557ab135a5f6f0401a6",
-    "preview": "https://preview.redd.it/xbfylia3cl141.jpg?width=640&crop=smart&auto=webp&s=6ec7fda18cf072775935775263a96c6121958839",
-    "thumbnail": "https://b.thumbs.redditmedia.com/T50_adwyJ0Y5odLCIRMfhDGY1IOz4WZYL_lC8G591rE.jpg"
+    "filesize": 77883,
+    "fullUrl": "https://preview.redd.it/xbfylia3cl141.jpg?auto=webp&s=d29e7854db2ab2b805db0557ab135a5f6f0401a6",
+    "hash": "7df20e417a",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJhAAAQMDAwIHAAAAAAAAAAAAAQIDBAAFEQYHIRJRExQiMUGCkf/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQIRAAP/2gAMAwEAAhEDEQA/AMu0nttLmolmRGW2tDaSnOD4iicJQkdz89gKjzNFeWlOMyGZDbqDhSVtqyPwU6281rZYdnU7erxdGZLa+luDGJCHEgelXXzg5zx7UYues5L1wkOR50dTSlkpMgEufY8c1LzpFaN5crgOd//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/T50_adwyJ0Y5odLCIRMfhDGY1IOz4WZYL_lC8G591rE.jpg",
+    "url": "https://preview.redd.it/xbfylia3cl141.jpg?width=640&crop=smart&auto=webp&s=6ec7fda18cf072775935775263a96c6121958839",
+    "width": 640
   },
   "score": {
     "comments": 60,

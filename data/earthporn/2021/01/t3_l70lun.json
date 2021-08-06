@@ -9,21 +9,19 @@
     "month": 1609459200,
     "week": 1611446400
   },
-  "displayPicture": {
-    "filesize": 25417,
-    "hash": "741d1328a8",
-    "height": 427,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAhEAACAQMEAwEAAAAAAAAAAAABAwIEBREAEiExQVGBof/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECMUH/2gAMAwEAAhEDEQA/AF9dC12iNKChJLcgmXQOYgZP380/sNptVVRJqFKVtYNw48Z1KrS6bkqDtrAMECcRIA++dMbXW1A6aRwegNUrlvGCmkuH/9k=",
-    "width": 640
-  },
   "id": "t3_l70lun",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/iaeuy541j3e61.jpg?auto=webp&s=d3b4db3edc377cdfb7fb700964b0a2daaf48d111",
-    "preview": "https://preview.redd.it/iaeuy541j3e61.jpg?width=640&crop=smart&auto=webp&s=75e5ebd378d10073991da808865de03beaefec5d",
-    "thumbnail": "https://a.thumbs.redditmedia.com/9fP6K9KeQAln14g1lSee9bOXBkYbT8J-eHC52XzNdu0.jpg"
+    "filesize": 25417,
+    "fullUrl": "https://preview.redd.it/iaeuy541j3e61.jpg?auto=webp&s=d3b4db3edc377cdfb7fb700964b0a2daaf48d111",
+    "hash": "741d1328a8",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAhEAACAQMEAwEAAAAAAAAAAAABAwIEBREAEiExQVGBof/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECMUH/2gAMAwEAAhEDEQA/AF9dC12iNKChJLcgmXQOYgZP380/sNptVVRJqFKVtYNw48Z1KrS6bkqDtrAMECcRIA++dMbXW1A6aRwegNUrlvGCmkuH/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/9fP6K9KeQAln14g1lSee9bOXBkYbT8J-eHC52XzNdu0.jpg",
+    "url": "https://preview.redd.it/iaeuy541j3e61.jpg?width=640&crop=smart&auto=webp&s=75e5ebd378d10073991da808865de03beaefec5d",
+    "width": 640
   },
   "score": {
     "comments": 4,

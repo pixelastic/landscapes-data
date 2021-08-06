@@ -9,21 +9,19 @@
     "month": 1569888000,
     "week": 1571529600
   },
-  "displayPicture": {
-    "filesize": 101984,
-    "hash": "415a19551b",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAlEAABAwMEAQUBAAAAAAAAAAABAgMEBQYhABESMVEHEyJBYbH/xAAVAQEBAAAAAAAAAAAAAAAAAAAABP/EABoRAAICAwAAAAAAAAAAAAAAAAERABICISP/2gAMAwEAAhEDEQA/AJm27nYod4MSJOYhUGn1JB5JCuzuO9sHbyMaC9Qrwan1yRGo8p5FJZcX7JJILpI+S1D65fzQlupS/d8Fl4c2lSeSkknZWN8+etH3lHbYu+rNNICWxKWQkYCc9D8zp1oL5OSIFrU//9k=",
-    "width": 640
-  },
   "id": "t3_dkrtdc",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/xgnakb417st31.jpg?auto=webp&s=40a475d5e7bbb15be87a223bf9b2e8635076fd1b",
-    "preview": "https://preview.redd.it/xgnakb417st31.jpg?width=640&crop=smart&auto=webp&s=dbd4569e657cdcdb48cb5cbeaa72b2d6b0dec860",
-    "thumbnail": "https://b.thumbs.redditmedia.com/vf6GvGAbpRBUp4B45E-cwiiogs4F8LFFx94_kWVpoew.jpg"
+    "filesize": 101984,
+    "fullUrl": "https://preview.redd.it/xgnakb417st31.jpg?auto=webp&s=40a475d5e7bbb15be87a223bf9b2e8635076fd1b",
+    "hash": "415a19551b",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAlEAABAwMEAQUBAAAAAAAAAAABAgMEBQYhABESMVEHEyJBYbH/xAAVAQEBAAAAAAAAAAAAAAAAAAAABP/EABoRAAICAwAAAAAAAAAAAAAAAAERABICISP/2gAMAwEAAhEDEQA/AJm27nYod4MSJOYhUGn1JB5JCuzuO9sHbyMaC9Qrwan1yRGo8p5FJZcX7JJILpI+S1D65fzQlupS/d8Fl4c2lSeSkknZWN8+etH3lHbYu+rNNICWxKWQkYCc9D8zp1oL5OSIFrU//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/vf6GvGAbpRBUp4B45E-cwiiogs4F8LFFx94_kWVpoew.jpg",
+    "url": "https://preview.redd.it/xgnakb417st31.jpg?width=640&crop=smart&auto=webp&s=dbd4569e657cdcdb48cb5cbeaa72b2d6b0dec860",
+    "width": 640
   },
   "score": {
     "comments": 0,

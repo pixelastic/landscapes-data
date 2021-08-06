@@ -9,21 +9,19 @@
     "month": 1504224000,
     "week": 1505001600
   },
-  "displayPicture": {
-    "filesize": 73492,
-    "hash": "374e488891",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAb/xAAmEAACAQMCBAcAAAAAAAAAAAABAgMEBREAIRIUMUEGBxMiJDJR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAcEQACAgIDAAAAAAAAAAAAAAABAgADBBIFIWH/2gAMAwEAAhEDEQA/ACVt6t0kkMtdeoqmSNPTVoYWc8PbJAGe++50+zeY3hywWxy9PcWqIwxmanAXmCPqxLSDhPbpsMfmpurSGNz8eBiRjJQdNEKU3uk5KlLsMEmPOdBbz1ti6lQB5Jkw1rbYHuf/2Q==",
-    "width": 640
-  },
   "id": "t3_70dkls",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/kz0noekes4mz.jpg?auto=webp&s=e14ad32dacb43544bea6d45737bf15b6ea3630e1",
-    "preview": "https://preview.redd.it/kz0noekes4mz.jpg?width=640&crop=smart&auto=webp&s=bde11d138d68ef301cc98f316532a149becaf888",
-    "thumbnail": "https://b.thumbs.redditmedia.com/yTboq1lRYeBFLGJd8Y4z_s0968vRCsAx3MMEMxYbxAc.jpg"
+    "filesize": 73492,
+    "fullUrl": "https://preview.redd.it/kz0noekes4mz.jpg?auto=webp&s=e14ad32dacb43544bea6d45737bf15b6ea3630e1",
+    "hash": "374e488891",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAb/xAAmEAACAQMCBAcAAAAAAAAAAAABAgMEBREAIRIUMUEGBxMiJDJR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAcEQACAgIDAAAAAAAAAAAAAAABAgADBBIFIWH/2gAMAwEAAhEDEQA/ACVt6t0kkMtdeoqmSNPTVoYWc8PbJAGe++50+zeY3hywWxy9PcWqIwxmanAXmCPqxLSDhPbpsMfmpurSGNz8eBiRjJQdNEKU3uk5KlLsMEmPOdBbz1ti6lQB5Jkw1rbYHuf/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/yTboq1lRYeBFLGJd8Y4z_s0968vRCsAx3MMEMxYbxAc.jpg",
+    "url": "https://preview.redd.it/kz0noekes4mz.jpg?width=640&crop=smart&auto=webp&s=bde11d138d68ef301cc98f316532a149becaf888",
+    "width": 640
   },
   "score": {
     "comments": 1,

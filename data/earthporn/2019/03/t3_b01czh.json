@@ -9,21 +9,19 @@
     "month": 1551398400,
     "week": 1552176000
   },
-  "displayPicture": {
-    "filesize": 107655,
-    "hash": "4260b5e917",
-    "height": 783,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgUGB//EACYQAAEDAwIFBQAAAAAAAAAAAAECAwQABREGBxITIUJhFDFBcYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGxEAAQQDAAAAAAAAAAAAAAAAAQACAxESIUL/2gAMAwEAAhEDEQA/AKew7jXh+X6W42uOqS22C4224Ek4xlQ6/PU+KcSd2dOxFBuQQ293NqdSSk/mRWIo1dFjzuc+7AU6U8BWU8wJB9wB9Ub1y09KIXHuKWj3hLCkJz4AJprrA0UFkmXFL//Z",
-    "width": 640
-  },
   "id": "t3_b01czh",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/tug4w86a5ll21.jpg?auto=webp&s=767b53c8721e8a5750558d7f4aaea2c7dd5015d3",
-    "preview": "https://preview.redd.it/tug4w86a5ll21.jpg?width=640&crop=smart&auto=webp&s=db1af75898e71ca2295d2e0b3bed8224de2471ec",
-    "thumbnail": "https://b.thumbs.redditmedia.com/xKJzAQTC9NudQD6P5s7JaRLwej8TVDRSYEOFX62WEnM.jpg"
+    "filesize": 107655,
+    "fullUrl": "https://preview.redd.it/tug4w86a5ll21.jpg?auto=webp&s=767b53c8721e8a5750558d7f4aaea2c7dd5015d3",
+    "hash": "4260b5e917",
+    "height": 783,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgUGB//EACYQAAEDAwIFBQAAAAAAAAAAAAECAwQABREGBxITIUJhFDFBcYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGxEAAQQDAAAAAAAAAAAAAAAAAQACAxESIUL/2gAMAwEAAhEDEQA/AKew7jXh+X6W42uOqS22C4224Ek4xlQ6/PU+KcSd2dOxFBuQQ293NqdSSk/mRWIo1dFjzuc+7AU6U8BWU8wJB9wB9Ub1y09KIXHuKWj3hLCkJz4AJprrA0UFkmXFL//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/xKJzAQTC9NudQD6P5s7JaRLwej8TVDRSYEOFX62WEnM.jpg",
+    "url": "https://preview.redd.it/tug4w86a5ll21.jpg?width=640&crop=smart&auto=webp&s=db1af75898e71ca2295d2e0b3bed8224de2471ec",
+    "width": 640
   },
   "score": {
     "comments": 63,

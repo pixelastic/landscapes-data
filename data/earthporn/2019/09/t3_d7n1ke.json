@@ -9,21 +9,19 @@
     "month": 1567296000,
     "week": 1569110400
   },
-  "displayPicture": {
-    "filesize": 149786,
-    "hash": "9bbbf80ebc",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIG/8QAJBAAAgEDBAICAwAAAAAAAAAAAQIDBAURAAYSITFBE2EUcbH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBf/EABcRAAMBAAAAAAAAAAAAAAAAAAABAiH/2gAMAwEAAhEDEQA/ACY71JQbwimrqho4piyIaiQSZXoD7A78+u8+CNJ7NqoRe7oonwaduaL8wIC8gOPI4AHf81e49nWq4EVdWszzfkRoMPxAQkZXA8j95P3rM2a7VNonJo1h4tUzRskkSspQN0uD66Gpk0rQazT/2Q==",
-    "width": 640
-  },
   "id": "t3_d7n1ke",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/mudys8zdg3o31.jpg?auto=webp&s=62d6f5f341ecdb417a83b65559dd6e2662ab2e82",
-    "preview": "https://preview.redd.it/mudys8zdg3o31.jpg?width=640&crop=smart&auto=webp&s=cba2e12ba163d4af841a56042fe31782d64c1ab0",
-    "thumbnail": "https://b.thumbs.redditmedia.com/NBrxQXJdtfi93ilFsFYTF4yeiTJlunDMPdrW-moi4LA.jpg"
+    "filesize": 149786,
+    "fullUrl": "https://preview.redd.it/mudys8zdg3o31.jpg?auto=webp&s=62d6f5f341ecdb417a83b65559dd6e2662ab2e82",
+    "hash": "9bbbf80ebc",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIG/8QAJBAAAgEDBAICAwAAAAAAAAAAAQIDBAURAAYSITFBE2EUcbH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBf/EABcRAAMBAAAAAAAAAAAAAAAAAAABAiH/2gAMAwEAAhEDEQA/ACY71JQbwimrqho4piyIaiQSZXoD7A78+u8+CNJ7NqoRe7oonwaduaL8wIC8gOPI4AHf81e49nWq4EVdWszzfkRoMPxAQkZXA8j95P3rM2a7VNonJo1h4tUzRskkSspQN0uD66Gpk0rQazT/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/NBrxQXJdtfi93ilFsFYTF4yeiTJlunDMPdrW-moi4LA.jpg",
+    "url": "https://preview.redd.it/mudys8zdg3o31.jpg?width=640&crop=smart&auto=webp&s=cba2e12ba163d4af841a56042fe31782d64c1ab0",
+    "width": 640
   },
   "score": {
     "comments": 0,

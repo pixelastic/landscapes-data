@@ -9,21 +9,19 @@
     "month": 1543622400,
     "week": 1543708800
   },
-  "displayPicture": {
-    "filesize": 59507,
-    "hash": "01f64bdcf4",
-    "height": 427,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACQQAAEDAwQBBQAAAAAAAAAAAAECAwQAESEFBhITYRQiMUJx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMRBP/aAAwDAQACEQMRAD8Al6ZF2/GdD8Yl4uHiAuGt5Kh4AGD8/lGlmP0LG2dNZdmOBVg/E4pbJFuRKsJHi1zWnaGkRdOYRFHQ2kGyGvanJzgYpRxltPqQlCRxb7BYfYXzSHpsc6TDWhEGAT//2Q==",
-    "width": 640
-  },
   "id": "t3_a48x19",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/jibgfydbg0321.jpg?auto=webp&s=106ce45ed9ef84552359b7ef62bce3153df3affc",
-    "preview": "https://preview.redd.it/jibgfydbg0321.jpg?width=640&crop=smart&auto=webp&s=c00aa2b7c4996938bbc0e410e43337f93973b448",
-    "thumbnail": "https://b.thumbs.redditmedia.com/sIVso71wJ0Pg0fTmhu8UUkAcAR7w5ussC7HNlU23gvg.jpg"
+    "filesize": 59507,
+    "fullUrl": "https://preview.redd.it/jibgfydbg0321.jpg?auto=webp&s=106ce45ed9ef84552359b7ef62bce3153df3affc",
+    "hash": "01f64bdcf4",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACQQAAEDAwQBBQAAAAAAAAAAAAECAwQAESEFBhITYRQiMUJx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMRBP/aAAwDAQACEQMRAD8Al6ZF2/GdD8Yl4uHiAuGt5Kh4AGD8/lGlmP0LG2dNZdmOBVg/E4pbJFuRKsJHi1zWnaGkRdOYRFHQ2kGyGvanJzgYpRxltPqQlCRxb7BYfYXzSHpsc6TDWhEGAT//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/sIVso71wJ0Pg0fTmhu8UUkAcAR7w5ussC7HNlU23gvg.jpg",
+    "url": "https://preview.redd.it/jibgfydbg0321.jpg?width=640&crop=smart&auto=webp&s=c00aa2b7c4996938bbc0e410e43337f93973b448",
+    "width": 640
   },
   "score": {
     "comments": 1,

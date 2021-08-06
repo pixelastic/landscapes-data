@@ -9,21 +9,19 @@
     "month": 1514764800,
     "week": 1515888000
   },
-  "displayPicture": {
-    "filesize": 68949,
-    "hash": "36c564b79b",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIhAAAgIBBAIDAQAAAAAAAAAAAQIDBBEABQYSIVEHMUFS/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAYEQACAwAAAAAAAAAAAAAAAAABAgAhMf/aAAwDAQACEQMRAD8AV4j8irVtEXKFOG8WEcnYYVS39YGPP4Ps6C5lKLu5T27O5zDuMLBWBVEHpRkAazzYNwnorDPCwMkkM7uXHbsQmRkH0fI1Z7fUjt8OqXZC62DAxLKcZIPg496oqArXsCwJFZP/2Q==",
-    "width": 640
-  },
   "id": "t3_7rt062",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/gc1512lwbab01.jpg?auto=webp&s=46ba07b0ec73a3f2300abec9ebb695b10d26e15b",
-    "preview": "https://preview.redd.it/gc1512lwbab01.jpg?width=640&crop=smart&auto=webp&s=9854680f5fabe290b92f4b76760dd7aea38a7354",
-    "thumbnail": "https://b.thumbs.redditmedia.com/Bv9m0lqd4YDO_9ELfLLtuKjSrqUHpLfotufzbkym6JU.jpg"
+    "filesize": 68949,
+    "fullUrl": "https://preview.redd.it/gc1512lwbab01.jpg?auto=webp&s=46ba07b0ec73a3f2300abec9ebb695b10d26e15b",
+    "hash": "36c564b79b",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIhAAAgIBBAIDAQAAAAAAAAAAAQIDBBEABQYSIVEHMUFS/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAYEQACAwAAAAAAAAAAAAAAAAABAgAhMf/aAAwDAQACEQMRAD8AV4j8irVtEXKFOG8WEcnYYVS39YGPP4Ps6C5lKLu5T27O5zDuMLBWBVEHpRkAazzYNwnorDPCwMkkM7uXHbsQmRkH0fI1Z7fUjt8OqXZC62DAxLKcZIPg496oqArXsCwJFZP/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Bv9m0lqd4YDO_9ELfLLtuKjSrqUHpLfotufzbkym6JU.jpg",
+    "url": "https://preview.redd.it/gc1512lwbab01.jpg?width=640&crop=smart&auto=webp&s=9854680f5fabe290b92f4b76760dd7aea38a7354",
+    "width": 640
   },
   "score": {
     "comments": 3,

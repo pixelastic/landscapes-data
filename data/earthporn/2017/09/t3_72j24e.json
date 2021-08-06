@@ -9,21 +9,19 @@
     "month": 1504224000,
     "week": 1506211200
   },
-  "displayPicture": {
-    "filesize": 51272,
-    "hash": "53c516d205",
-    "height": 405,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJBAAAgIABQMFAAAAAAAAAAAAAQIDBAAFBhEhEkFRB2FxodH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAAMBAQAAAAAAAAAAAAAAAAECAwAR/9oADAMBAAIRAxEAPwBDlvqBo+1G6SzxwuqcNNAVVvYEd9/g4sV9XaQe5KEzmpWeNRsnWY0lHkEAj73xlMOV5e1aTqo1T35hX8wK17Vrw55XjhgijjNZmKogA32PO3nFGtqIhYt3DmFYgc3/2Q==",
-    "width": 640
-  },
   "id": "t3_72j24e",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/8moegf6kw6oz.jpg?auto=webp&s=5597de9096b3b1627df01ba7a09f6d8202e1a135",
-    "preview": "https://preview.redd.it/8moegf6kw6oz.jpg?width=640&crop=smart&auto=webp&s=364843c595844db5470747fd74b9ed5076b07534",
-    "thumbnail": "https://b.thumbs.redditmedia.com/dCH3kUVj-UrLyPYeODBGo6Autn83wWyw_2NKyRVCVMs.jpg"
+    "filesize": 51272,
+    "fullUrl": "https://preview.redd.it/8moegf6kw6oz.jpg?auto=webp&s=5597de9096b3b1627df01ba7a09f6d8202e1a135",
+    "hash": "53c516d205",
+    "height": 405,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJBAAAgIABQMFAAAAAAAAAAAAAQIDBAAFBhEhEkFRB2FxodH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABgRAAMBAQAAAAAAAAAAAAAAAAECAwAR/9oADAMBAAIRAxEAPwBDlvqBo+1G6SzxwuqcNNAVVvYEd9/g4sV9XaQe5KEzmpWeNRsnWY0lHkEAj73xlMOV5e1aTqo1T35hX8wK17Vrw55XjhgijjNZmKogA32PO3nFGtqIhYt3DmFYgc3/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/dCH3kUVj-UrLyPYeODBGo6Autn83wWyw_2NKyRVCVMs.jpg",
+    "url": "https://preview.redd.it/8moegf6kw6oz.jpg?width=640&crop=smart&auto=webp&s=364843c595844db5470747fd74b9ed5076b07534",
+    "width": 640
   },
   "score": {
     "comments": 0,

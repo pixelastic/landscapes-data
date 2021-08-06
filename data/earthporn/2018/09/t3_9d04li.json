@@ -9,21 +9,19 @@
     "month": 1535760000,
     "week": 1535846400
   },
-  "displayPicture": {
-    "filesize": 117727,
-    "hash": "6e19395977",
-    "height": 800,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACYQAAIBAgQFBQAAAAAAAAAAAAECAwQFAAYREgcTIUFhFCIycfH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABwRAAEFAAMAAAAAAAAAAAAAAAEAAgMEERIxkf/aAAwDAQACEQMRAD8AfZUuF0uhkSw0Yr6ZSF5s68tF76Fj38DGI8QLnV0+c7mpgFPIGVHi2/EqP3AGuCxU+kVdPD7gSI1Ygnz1xOXmUvcJH9Rv3aHcepP3iL74sAN456hsBjPer//Z",
-    "width": 640
-  },
   "id": "t3_9d04li",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/pnhjf7epmak11.jpg?auto=webp&s=8e9a6b2ad060cf924aacd15b771101b5a236f5b5",
-    "preview": "https://preview.redd.it/pnhjf7epmak11.jpg?width=640&crop=smart&auto=webp&s=4a9e1eb3fb9d6d1e498890a83205eb688c5d27bb",
-    "thumbnail": "https://a.thumbs.redditmedia.com/KOGDQMLv8Ta2VcckITvssnhWIKa41o_FgJLBnHFSjS0.jpg"
+    "filesize": 117727,
+    "fullUrl": "https://preview.redd.it/pnhjf7epmak11.jpg?auto=webp&s=8e9a6b2ad060cf924aacd15b771101b5a236f5b5",
+    "hash": "6e19395977",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACYQAAIBAgQFBQAAAAAAAAAAAAECAwQFAAYREgcTIUFhFCIycfH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABwRAAEFAAMAAAAAAAAAAAAAAAEAAgMEERIxkf/aAAwDAQACEQMRAD8AfZUuF0uhkSw0Yr6ZSF5s68tF76Fj38DGI8QLnV0+c7mpgFPIGVHi2/EqP3AGuCxU+kVdPD7gSI1Ygnz1xOXmUvcJH9Rv3aHcepP3iL74sAN456hsBjPer//Z",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/KOGDQMLv8Ta2VcckITvssnhWIKa41o_FgJLBnHFSjS0.jpg",
+    "url": "https://preview.redd.it/pnhjf7epmak11.jpg?width=640&crop=smart&auto=webp&s=4a9e1eb3fb9d6d1e498890a83205eb688c5d27bb",
+    "width": 640
   },
   "score": {
     "comments": 0,

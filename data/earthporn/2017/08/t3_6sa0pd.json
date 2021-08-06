@@ -9,21 +9,19 @@
     "month": 1501545600,
     "week": 1501977600
   },
-  "displayPicture": {
-    "filesize": 53092,
-    "hash": "bd2832fc23",
-    "height": 360,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACEQAAEDAwQDAAAAAAAAAAAAAAECAwUABBEGITSBEzFx/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABkRAAIDAQAAAAAAAAAAAAAAAAABAxEhMf/aAAwDAQACEQMRAD8ACG1fOmzb8smw4MbqctEknv0aTmNa3qWnAJCxUcE72aVHrBrAyPDRUZzip+Uqpa4gxQ3rZ//Z",
-    "width": 640
-  },
   "id": "t3_6sa0pd",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/bk990hw4weez.jpg?auto=webp&s=3f444bc88134248a873fe05b65a3896101e7c621",
-    "preview": "https://preview.redd.it/bk990hw4weez.jpg?width=640&crop=smart&auto=webp&s=12a0d46cfaa9e02cc849ef96e9f6339fa0c722b5",
-    "thumbnail": "https://b.thumbs.redditmedia.com/41QMDaSre-ep00smW0QoNqIkAsgXbjsElEEpCX1Ev1E.jpg"
+    "filesize": 53092,
+    "fullUrl": "https://preview.redd.it/bk990hw4weez.jpg?auto=webp&s=3f444bc88134248a873fe05b65a3896101e7c621",
+    "hash": "bd2832fc23",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACEQAAEDAwQDAAAAAAAAAAAAAAECAwUABBEGITSBEzFx/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABkRAAIDAQAAAAAAAAAAAAAAAAABAxEhMf/aAAwDAQACEQMRAD8ACG1fOmzb8smw4MbqctEknv0aTmNa3qWnAJCxUcE72aVHrBrAyPDRUZzip+Uqpa4gxQ3rZ//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/41QMDaSre-ep00smW0QoNqIkAsgXbjsElEEpCX1Ev1E.jpg",
+    "url": "https://preview.redd.it/bk990hw4weez.jpg?width=640&crop=smart&auto=webp&s=12a0d46cfaa9e02cc849ef96e9f6339fa0c722b5",
+    "width": 640
   },
   "score": {
     "comments": 0,

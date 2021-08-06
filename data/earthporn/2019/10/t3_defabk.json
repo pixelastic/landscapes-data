@@ -9,21 +9,19 @@
     "month": 1569888000,
     "week": 1570320000
   },
-  "displayPicture": {
-    "filesize": 108781,
-    "hash": "56e365a84e",
-    "height": 599,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACgQAAECAwcDBQAAAAAAAAAAAAECAwQFIQAGERIUMUETUYEVIkJh0f/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAAwQSEf/aAAwDAQACEQMRAD8ANIb7yONjCiaMuQSkhSguJSpwL9uFSKpwO1PNqZuZS55qHXL7xNttH5aRSupxQnb9th3qKYqEbbQ0h1xNEhQPP3iDx3w7WclV4HIfTwr7a22UnKMhByDfzzZ6tbg8uZPblXzpRP/Z",
-    "width": 640
-  },
   "id": "t3_defabk",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/h90fijao42r31.jpg?auto=webp&s=5d7176c27b872f2ace5461298f13d62b343b68f3",
-    "preview": "https://preview.redd.it/h90fijao42r31.jpg?width=640&crop=smart&auto=webp&s=25380fdaa847edeb60afc8bafcddef818698b5f2",
-    "thumbnail": "https://b.thumbs.redditmedia.com/rkV0YRolvOtXrseOqkO3rLk5v9seqQLaBwo5Fzzu6oI.jpg"
+    "filesize": 108781,
+    "fullUrl": "https://preview.redd.it/h90fijao42r31.jpg?auto=webp&s=5d7176c27b872f2ace5461298f13d62b343b68f3",
+    "hash": "56e365a84e",
+    "height": 599,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACgQAAECAwcDBQAAAAAAAAAAAAECAwQFIQAGERIUMUETUYEVIkJh0f/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAAwQSEf/aAAwDAQACEQMRAD8ANIb7yONjCiaMuQSkhSguJSpwL9uFSKpwO1PNqZuZS55qHXL7xNttH5aRSupxQnb9th3qKYqEbbQ0h1xNEhQPP3iDx3w7WclV4HIfTwr7a22UnKMhByDfzzZ6tbg8uZPblXzpRP/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/rkV0YRolvOtXrseOqkO3rLk5v9seqQLaBwo5Fzzu6oI.jpg",
+    "url": "https://preview.redd.it/h90fijao42r31.jpg?width=640&crop=smart&auto=webp&s=25380fdaa847edeb60afc8bafcddef818698b5f2",
+    "width": 640
   },
   "score": {
     "comments": 0,

@@ -9,21 +9,19 @@
     "month": 1548979200,
     "week": 1550361600
   },
-  "displayPicture": {
-    "filesize": 112415,
-    "hash": "3f9b16cc45",
-    "height": 512,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAJhAAAQQBAgUFAQAAAAAAAAAAAgEDBBESAAUGByExURQWInGBsf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAaEQACAgMAAAAAAAAAAAAAAAABAgAEISKh/9oADAMBAAIRAxEAPwC/DHNNstjZiQyYYmKS0j14iqr2FPH8uvvVxDzYmbZt6lE9NMFxTLImiPFLSlvpdrdIvSk0GzOme3xnNv4EpLbaCmP5407F4gbY2simQBmGGfyN0kUq8900UstgMvYnrA7K0//Z",
-    "width": 640
-  },
   "id": "t3_aryc8c",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/xepfm0boich21.jpg?auto=webp&s=7e4d888b08386a8c72c89191a6184ab473fd9baf",
-    "preview": "https://preview.redd.it/xepfm0boich21.jpg?width=640&crop=smart&auto=webp&s=7601e4d709528ecf3b7d5451e0c2b17554178b97",
-    "thumbnail": "https://b.thumbs.redditmedia.com/w8F06wk0tpmD7y5lPtpoyDYMTkkf-Cd6DfjrDexYJpE.jpg"
+    "filesize": 112415,
+    "fullUrl": "https://preview.redd.it/xepfm0boich21.jpg?auto=webp&s=7e4d888b08386a8c72c89191a6184ab473fd9baf",
+    "hash": "3f9b16cc45",
+    "height": 512,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAJhAAAQQBAgUFAQAAAAAAAAAAAgEDBBESAAUGByExURQWInGBsf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAaEQACAgMAAAAAAAAAAAAAAAABAgAEISKh/9oADAMBAAIRAxEAPwC/DHNNstjZiQyYYmKS0j14iqr2FPH8uvvVxDzYmbZt6lE9NMFxTLImiPFLSlvpdrdIvSk0GzOme3xnNv4EpLbaCmP5407F4gbY2simQBmGGfyN0kUq8900UstgMvYnrA7K0//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/w8F06wk0tpmD7y5lPtpoyDYMTkkf-Cd6DfjrDexYJpE.jpg",
+    "url": "https://preview.redd.it/xepfm0boich21.jpg?width=640&crop=smart&auto=webp&s=7601e4d709528ecf3b7d5451e0c2b17554178b97",
+    "width": 640
   },
   "score": {
     "comments": 4,

@@ -9,21 +9,19 @@
     "month": 1501545600,
     "week": 1503792000
   },
-  "displayPicture": {
-    "filesize": 47518,
-    "hash": "0305a23263",
-    "height": 960,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACAQAAIBBAEFAAAAAAAAAAAAAAECEQADBCESBSIxcbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGBEAAgMAAAAAAAAAAAAAAAAAAQIABEL/2gAMAwEAAhEDEQA/AMZbDAHbDMfBkb9UE4bzsGpm3kcQvFmVhBmYimC9fzVACXyVGgSAT8pBbg0Ic9A4af/Z",
-    "width": 640
-  },
   "id": "t3_6wtdcp",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/7eoyh34w1qiz.jpg?auto=webp&s=cf71339dbd79e5c860513240d9d27099a020380d",
-    "preview": "https://preview.redd.it/7eoyh34w1qiz.jpg?width=640&crop=smart&auto=webp&s=86f72d6c810ecdbf2c1912d7012084cc0ae081fb",
-    "thumbnail": "https://a.thumbs.redditmedia.com/cL0cduIESOrzaDf8O3zBKUhFZANnxcdeuAMXnoSu7a0.jpg"
+    "filesize": 47518,
+    "fullUrl": "https://preview.redd.it/7eoyh34w1qiz.jpg?auto=webp&s=cf71339dbd79e5c860513240d9d27099a020380d",
+    "hash": "0305a23263",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACAQAAIBBAEFAAAAAAAAAAAAAAECEQADBCESBSIxcbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGBEAAgMAAAAAAAAAAAAAAAAAAQIABEL/2gAMAwEAAhEDEQA/AMZbDAHbDMfBkb9UE4bzsGpm3kcQvFmVhBmYimC9fzVACXyVGgSAT8pBbg0Ic9A4af/Z",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/cL0cduIESOrzaDf8O3zBKUhFZANnxcdeuAMXnoSu7a0.jpg",
+    "url": "https://preview.redd.it/7eoyh34w1qiz.jpg?width=640&crop=smart&auto=webp&s=86f72d6c810ecdbf2c1912d7012084cc0ae081fb",
+    "width": 640
   },
   "score": {
     "comments": 1,

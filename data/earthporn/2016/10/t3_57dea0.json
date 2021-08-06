@@ -9,21 +9,19 @@
     "month": 1475280000,
     "week": 1475971200
   },
-  "displayPicture": {
-    "filesize": 90637,
-    "hash": "c615ffb4c4",
-    "height": 427,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACEQAAICAgICAwEAAAAAAAAAAAECAxEEBQAhEkEGMXFh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABwRAAICAgMAAAAAAAAAAAAAAAECAAMEERIhMf/aAAwDAQACEQMRAD8ALWGd48XKTSxRwgink8XJBb6KmiO/f7xn5FsIMre42BmYuLLJKCoWFQjoasUegQaN3/Pzm21QXIQwTqskStQVlB675WydVglbGNGpC+YK9G6r1xLZVhblvyHXCqCFNdGf/9k=",
-    "width": 640
-  },
   "id": "t3_57dea0",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/6orvrgnutbrx.jpg?auto=webp&s=32f94d235b1a4cadccd4dddd704a6af1c05b89ec",
-    "preview": "https://preview.redd.it/6orvrgnutbrx.jpg?width=640&crop=smart&auto=webp&s=1a70ebf6a34c83de5975d748fe39b587e4ce7604",
-    "thumbnail": "https://b.thumbs.redditmedia.com/QI1i1JQkNpRlKiCvmZLdFNrcC0vFCpvnhiH8DGhdcUg.jpg"
+    "filesize": 90637,
+    "fullUrl": "https://preview.redd.it/6orvrgnutbrx.jpg?auto=webp&s=32f94d235b1a4cadccd4dddd704a6af1c05b89ec",
+    "hash": "c615ffb4c4",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACEQAAICAgICAwEAAAAAAAAAAAECAxEEBQAhEkEGMXFh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABwRAAICAgMAAAAAAAAAAAAAAAECAAMEERIhMf/aAAwDAQACEQMRAD8ALWGd48XKTSxRwgink8XJBb6KmiO/f7xn5FsIMre42BmYuLLJKCoWFQjoasUegQaN3/Pzm21QXIQwTqskStQVlB675WydVglbGNGpC+YK9G6r1xLZVhblvyHXCqCFNdGf/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/QI1i1JQkNpRlKiCvmZLdFNrcC0vFCpvnhiH8DGhdcUg.jpg",
+    "url": "https://preview.redd.it/6orvrgnutbrx.jpg?width=640&crop=smart&auto=webp&s=1a70ebf6a34c83de5975d748fe39b587e4ce7604",
+    "width": 640
   },
   "score": {
     "comments": 1,

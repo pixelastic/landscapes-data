@@ -9,21 +9,19 @@
     "month": 1609459200,
     "week": 1609632000
   },
-  "displayPicture": {
-    "filesize": 56042,
-    "hash": "fdd660bb1c",
-    "height": 426,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACUQAAICAQMCBwEAAAAAAAAAAAECAwQRABIhBRMGFCIxQVFxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAHhEAAQEJAAAAAAAAAAAAAAAAAAEDBAUSFTFSobH/2gAMAwEAAhEDEQA/ALle5LYR5K8VLy8a9ySV5zhV+D7fz90B6wIa8c9qOtDHISEDuyu+F3cIVzzrRQ9C6a/h+tRasDVUr6d7ZO1ty5OcnB55Om6araqQi0qz7jIW7g3E4bjk/Wpyxl5vNpB6ewx6f//Z",
-    "width": 640
-  },
   "id": "t3_krvagt",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/ixeztvdrkr961.jpg?auto=webp&s=c5864c1277a0486eb7e1e133667c2a3b01c21cc2",
-    "preview": "https://preview.redd.it/ixeztvdrkr961.jpg?width=640&crop=smart&auto=webp&s=b33a39ab1842107a1ca6e1d2e4fe3320e7659020",
-    "thumbnail": "https://b.thumbs.redditmedia.com/BMSO6baWUHfiO1AslHFdsWfJxh5D_E4yq0OrRxmtrtc.jpg"
+    "filesize": 56042,
+    "fullUrl": "https://preview.redd.it/ixeztvdrkr961.jpg?auto=webp&s=c5864c1277a0486eb7e1e133667c2a3b01c21cc2",
+    "hash": "fdd660bb1c",
+    "height": 426,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACUQAAICAQMCBwEAAAAAAAAAAAECAwQRABIhBRMGFCIxQVFxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAHhEAAQEJAAAAAAAAAAAAAAAAAAEDBAUSFTFSobH/2gAMAwEAAhEDEQA/ALle5LYR5K8VLy8a9ySV5zhV+D7fz90B6wIa8c9qOtDHISEDuyu+F3cIVzzrRQ9C6a/h+tRasDVUr6d7ZO1ty5OcnB55Om6araqQi0qz7jIW7g3E4bjk/Wpyxl5vNpB6ewx6f//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/BMSO6baWUHfiO1AslHFdsWfJxh5D_E4yq0OrRxmtrtc.jpg",
+    "url": "https://preview.redd.it/ixeztvdrkr961.jpg?width=640&crop=smart&auto=webp&s=b33a39ab1842107a1ca6e1d2e4fe3320e7659020",
+    "width": 640
   },
   "score": {
     "comments": 3,

@@ -8,21 +8,19 @@
     "month": 1596240000,
     "week": 1598140800
   },
-  "displayPicture": {
-    "filesize": 187401,
-    "hash": "b6e10eb63e",
-    "height": 962,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFBv/EACQQAAICAQMCBwAAAAAAAAAAAAECAwQRAAYhBTEUIiMyQVFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAWEQEBAQAAAAAAAAAAAAAAAAABAAP/2gAMAwEAAhEDEQA/AEWH3S9wXRu4LLGcq3gyqqRk44ft+ayHUNu9YuW3nt7nuyTsFDOsIAbAAz7voaKp1J7tcw150V0rLIsUqESWsgn00z5jx3yOCNUo6V2zFHPCEKSIrYa8iMpxypBIIIOQc/I1ObrO5Bf/2Q==",
-    "width": 640
-  },
   "id": "t3_ih2l45",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/hmtzbm5endj51.jpg?auto=webp&s=356bfc2ee72c4e302af20906471b5b87526c3f7b",
-    "preview": "https://preview.redd.it/hmtzbm5endj51.jpg?width=640&crop=smart&auto=webp&s=4e0cea4857c9e6449252eb299d5891ed9fd0ba83",
-    "thumbnail": "https://b.thumbs.redditmedia.com/8yvVkR76aH2dgq5C577AtzFoj8vTnrykV2LniP1_ANU.jpg"
+    "filesize": 187401,
+    "fullUrl": "https://preview.redd.it/hmtzbm5endj51.jpg?auto=webp&s=356bfc2ee72c4e302af20906471b5b87526c3f7b",
+    "hash": "b6e10eb63e",
+    "height": 962,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFBv/EACQQAAICAQMCBwAAAAAAAAAAAAECAwQRAAYhBTEUIiMyQVFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAWEQEBAQAAAAAAAAAAAAAAAAABAAP/2gAMAwEAAhEDEQA/AEWH3S9wXRu4LLGcq3gyqqRk44ft+ayHUNu9YuW3nt7nuyTsFDOsIAbAAz7voaKp1J7tcw150V0rLIsUqESWsgn00z5jx3yOCNUo6V2zFHPCEKSIrYa8iMpxypBIIIOQc/I1ObrO5Bf/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/8yvVkR76aH2dgq5C577AtzFoj8vTnrykV2LniP1_ANU.jpg",
+    "url": "https://preview.redd.it/hmtzbm5endj51.jpg?width=640&crop=smart&auto=webp&s=4e0cea4857c9e6449252eb299d5891ed9fd0ba83",
+    "width": 640
   },
   "score": {
     "comments": 2,

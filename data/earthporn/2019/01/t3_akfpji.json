@@ -9,21 +9,19 @@
     "month": 1546300800,
     "week": 1548547200
   },
-  "displayPicture": {
-    "filesize": 68806,
-    "hash": "df500292b2",
-    "height": 1137,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIH/8QAJBAAAgAFAQkAAAAAAAAAAAAAAQIAAwQRElEGExQVITJTYaL/xAAUAQEAAAAAAAAAAAAAAAAAAAAG/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQQAEQIDIf/aAAwDAQACEQMRAD8AytKMW7YrghpBJm0dLORVoZiBsgW3inKw6kW093hPO5Xj+TDQOaDfYQyXZFGp/9k=",
-    "width": 640
-  },
   "id": "t3_akfpji",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/17r2md0h41d21.jpg?auto=webp&s=856fe86fe5665772c8ce158c517f045af03a32b6",
-    "preview": "https://preview.redd.it/17r2md0h41d21.jpg?width=640&crop=smart&auto=webp&s=445c29f4be960128c82cd7fda330ba31c745e528",
-    "thumbnail": "https://b.thumbs.redditmedia.com/Khyj2Qus9qqv3a5599GxHoAmfDxsGeUFJTOBJeifgwQ.jpg"
+    "filesize": 68806,
+    "fullUrl": "https://preview.redd.it/17r2md0h41d21.jpg?auto=webp&s=856fe86fe5665772c8ce158c517f045af03a32b6",
+    "hash": "df500292b2",
+    "height": 1137,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIH/8QAJBAAAgAFAQkAAAAAAAAAAAAAAQIAAwQRElEGExQVITJTYaL/xAAUAQEAAAAAAAAAAAAAAAAAAAAG/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQQAEQIDIf/aAAwDAQACEQMRAD8AytKMW7YrghpBJm0dLORVoZiBsgW3inKw6kW093hPO5Xj+TDQOaDfYQyXZFGp/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Khyj2Qus9qqv3a5599GxHoAmfDxsGeUFJTOBJeifgwQ.jpg",
+    "url": "https://preview.redd.it/17r2md0h41d21.jpg?width=640&crop=smart&auto=webp&s=445c29f4be960128c82cd7fda330ba31c745e528",
+    "width": 640
   },
   "score": {
     "comments": 3,

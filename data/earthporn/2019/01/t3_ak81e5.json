@@ -9,21 +9,19 @@
     "month": 1546300800,
     "week": 1548547200
   },
-  "displayPicture": {
-    "filesize": 77928,
-    "hash": "98591cd994",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAACAYH/8QAJRAAAQMCBgEFAAAAAAAAAAAAAQIDBQQRAAYSMUFRExQhIiOh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQACAwEAAAAAAAAAAAAAAAABAwACEnH/2gAMAwEAAhEDEQA/AMnyzKS8vmurmYZqnRJoKajQ2hDTZAI1/Do8gdnCMyW/CVTbkzMxz1HN1J+5rzeRCCNii+w5sLH3wVslPvR73rKR1Tb5JbJHKdN7fmLjI07WmdeoFKSpt7W8tayVLuDa1ydubd4VLDU9k7KaM//Z",
-    "width": 640
-  },
   "id": "t3_ak81e5",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://external-preview.redd.it/5TJT_ocf5STHhoW1BxRxBCs02qboiUGdNmioteIqsC4.jpg?auto=webp&s=3cc3d7cba742d681e96938bb6c921e1fec7b190a",
-    "preview": "https://external-preview.redd.it/5TJT_ocf5STHhoW1BxRxBCs02qboiUGdNmioteIqsC4.jpg?width=640&crop=smart&auto=webp&s=74281c5ddcf2c152e4d64797997c913b3c8512fd",
-    "thumbnail": "https://b.thumbs.redditmedia.com/qW3abFPEBdpCGJaFsZw3324134i0GUAYqdR3bnPgZaQ.jpg"
+    "filesize": 77928,
+    "fullUrl": "https://external-preview.redd.it/5TJT_ocf5STHhoW1BxRxBCs02qboiUGdNmioteIqsC4.jpg?auto=webp&s=3cc3d7cba742d681e96938bb6c921e1fec7b190a",
+    "hash": "98591cd994",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAACAYH/8QAJRAAAQMCBgEFAAAAAAAAAAAAAQIDBQQRAAYSMUFRExQhIiOh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAZEQACAwEAAAAAAAAAAAAAAAABAwACEnH/2gAMAwEAAhEDEQA/AMnyzKS8vmurmYZqnRJoKajQ2hDTZAI1/Do8gdnCMyW/CVTbkzMxz1HN1J+5rzeRCCNii+w5sLH3wVslPvR73rKR1Tb5JbJHKdN7fmLjI07WmdeoFKSpt7W8tayVLuDa1ydubd4VLDU9k7KaM//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/qW3abFPEBdpCGJaFsZw3324134i0GUAYqdR3bnPgZaQ.jpg",
+    "url": "https://external-preview.redd.it/5TJT_ocf5STHhoW1BxRxBCs02qboiUGdNmioteIqsC4.jpg?width=640&crop=smart&auto=webp&s=74281c5ddcf2c152e4d64797997c913b3c8512fd",
+    "width": 640
   },
   "score": {
     "comments": 2,

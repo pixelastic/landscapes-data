@@ -9,21 +9,19 @@
     "month": 1546300800,
     "week": 1546732800
   },
-  "displayPicture": {
-    "filesize": 32913,
-    "hash": "4ccb547d7d",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAIxAAAQMDAwUBAAAAAAAAAAAAAQIDEQAEBQYhQRITMlFTwf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEBAQADAAAAAAAAAAAAAAAAAQACAxH/2gAMAwEAAhEDEQA/AE3G58otUkpZkj7T+VnNc59s2KypDSnIPSA5zxtG9BllqnKNB5CXgQkiJHuoc/mb+5LPduVkeUAwAanNiPJnAS//2Q==",
-    "width": 640
-  },
   "id": "t3_af4knc",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/re7l3ge5mx921.jpg?auto=webp&s=799caf7524348318b9d2b020ac2b90ec29cc66ad",
-    "preview": "https://preview.redd.it/re7l3ge5mx921.jpg?width=640&crop=smart&auto=webp&s=3b876e10bf34d8f4da39e95bfd3cc094a64d30ea",
-    "thumbnail": "https://b.thumbs.redditmedia.com/SrjYdbFon9WHazc2kd67xbAlVmQS_kgWaX1G-cVk1_E.jpg"
+    "filesize": 32913,
+    "fullUrl": "https://preview.redd.it/re7l3ge5mx921.jpg?auto=webp&s=799caf7524348318b9d2b020ac2b90ec29cc66ad",
+    "hash": "4ccb547d7d",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAIxAAAQMDAwUBAAAAAAAAAAAAAQIDEQAEBQYhQRITMlFTwf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEBAQADAAAAAAAAAAAAAAAAAQACAxH/2gAMAwEAAhEDEQA/AE3G58otUkpZkj7T+VnNc59s2KypDSnIPSA5zxtG9BllqnKNB5CXgQkiJHuoc/mb+5LPduVkeUAwAanNiPJnAS//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/SrjYdbFon9WHazc2kd67xbAlVmQS_kgWaX1G-cVk1_E.jpg",
+    "url": "https://preview.redd.it/re7l3ge5mx921.jpg?width=640&crop=smart&auto=webp&s=3b876e10bf34d8f4da39e95bfd3cc094a64d30ea",
+    "width": 640
   },
   "score": {
     "comments": 2,

@@ -9,21 +9,19 @@
     "month": 1577836800,
     "week": 1579392000
   },
-  "displayPicture": {
-    "filesize": 54918,
-    "hash": "06b0260c07",
-    "height": 427,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAJRAAAgEEAQMEAwAAAAAAAAAAAQIDBAUGEQAHEiITFBVBUWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIxUf/aAAwDAQACEQMRAD8AJwLqrlFVM0Etqt87rpld3NGV2wUDZ2G2SOOZ51Yye2usNRilvWIL4z1W6pSfshl0uv7zL79l9+agmi+SlVFqu4diqpHn+QN6/XIMtvFxrI4vcVk7+rEJJPLXcxbZJ1yW5V0iC9n/2Q==",
-    "width": 640
-  },
   "id": "t3_erhcnj",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/gnzo54049zb41.jpg?auto=webp&s=e07620e7a328eb454364baecf03172fe30a0759b",
-    "preview": "https://preview.redd.it/gnzo54049zb41.jpg?width=640&crop=smart&auto=webp&s=0974467d7701e009d17d9fac5863dfde6a7fa124",
-    "thumbnail": "https://b.thumbs.redditmedia.com/KddkF4HgoXRWvXDaMnj6g2dzP0sHJ8ivtpk00h0wsYQ.jpg"
+    "filesize": 54918,
+    "fullUrl": "https://preview.redd.it/gnzo54049zb41.jpg?auto=webp&s=e07620e7a328eb454364baecf03172fe30a0759b",
+    "hash": "06b0260c07",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAJRAAAgEEAQMEAwAAAAAAAAAAAQIDBAUGEQAHEiITFBVBUWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIxUf/aAAwDAQACEQMRAD8AJwLqrlFVM0Etqt87rpld3NGV2wUDZ2G2SOOZ51Yye2usNRilvWIL4z1W6pSfshl0uv7zL79l9+agmi+SlVFqu4diqpHn+QN6/XIMtvFxrI4vcVk7+rEJJPLXcxbZJ1yW5V0iC9n/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/KddkF4HgoXRWvXDaMnj6g2dzP0sHJ8ivtpk00h0wsYQ.jpg",
+    "url": "https://preview.redd.it/gnzo54049zb41.jpg?width=640&crop=smart&auto=webp&s=0974467d7701e009d17d9fac5863dfde6a7fa124",
+    "width": 640
   },
   "score": {
     "comments": 0,

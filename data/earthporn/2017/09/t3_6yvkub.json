@@ -9,21 +9,19 @@
     "month": 1504224000,
     "week": 1504396800
   },
-  "displayPicture": {
-    "filesize": 122542,
-    "hash": "d7e2db73eb",
-    "height": 853,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQUGB//EACgQAAEDBAACCwAAAAAAAAAAAAECAwQABREhBjETFCIjMkFRgZGhsf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACAzEy/9oADAMBAAIRAxEAPwBm/ItUqAG2phZCnkry4ek2B4dYxs86qFcYXZpKG27k0UoSEjDjSfopP7WXOv3aIyD1SDJ7QHeEthSfUHHPPkfmii4XVxORZIOtHEsHfsKNtW3pGVrkHCf/2Q==",
-    "width": 640
-  },
   "id": "t3_6yvkub",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/240j3ostjokz.jpg?auto=webp&s=70661ec8cb3afccfd1b71e7cc4d8ea3146c22dfc",
-    "preview": "https://preview.redd.it/240j3ostjokz.jpg?width=640&crop=smart&auto=webp&s=8e2a82e02cf9a08a6cc1ec2748dc1660bd145bb1",
-    "thumbnail": "https://b.thumbs.redditmedia.com/9iZTIgDQizt5ZKSDeOHDa1eOUzZOeOgj2vzzCK5xIWY.jpg"
+    "filesize": 122542,
+    "fullUrl": "https://preview.redd.it/240j3ostjokz.jpg?auto=webp&s=70661ec8cb3afccfd1b71e7cc4d8ea3146c22dfc",
+    "hash": "d7e2db73eb",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQUGB//EACgQAAEDBAACCwAAAAAAAAAAAAECAwQABREhBjETFCIjMkFRgZGhsf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACAzEy/9oADAMBAAIRAxEAPwBm/ItUqAG2phZCnkry4ek2B4dYxs86qFcYXZpKG27k0UoSEjDjSfopP7WXOv3aIyD1SDJ7QHeEthSfUHHPPkfmii4XVxORZIOtHEsHfsKNtW3pGVrkHCf/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/9iZTIgDQizt5ZKSDeOHDa1eOUzZOeOgj2vzzCK5xIWY.jpg",
+    "url": "https://preview.redd.it/240j3ostjokz.jpg?width=640&crop=smart&auto=webp&s=8e2a82e02cf9a08a6cc1ec2748dc1660bd145bb1",
+    "width": 640
   },
   "score": {
     "comments": 8,

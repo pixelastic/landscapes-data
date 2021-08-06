@@ -9,21 +9,19 @@
     "month": 1546300800,
     "week": 1547337600
   },
-  "displayPicture": {
-    "filesize": 159061,
-    "hash": "c4657aea45",
-    "height": 853,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgUGCP/EACMQAAIBAwQCAwEAAAAAAAAAAAECAwQFEQASITEGQQciUZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAAxEx/9oADAMBAAIRAxEAPwAafy+r8miNFcpZGmjUOIlPaDrGeMZA1b2Ogt9Jbo1ktUlZvAdWVy+wED65x2CD/dZ9o7rsqRJGtPVsqbeSQ6c84PrPI/edObd8g3alSaKe4CNlkOEMSnaOMD10NDdrnUbEkVoxA5P/2Q==",
-    "width": 640
-  },
   "id": "t3_agg9l2",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/yjdzkmi20pa21.jpg?auto=webp&s=83af6e88f60b60e4f78b08930862baff4afbc9da",
-    "preview": "https://preview.redd.it/yjdzkmi20pa21.jpg?width=640&crop=smart&auto=webp&s=657c06a6eea4d2b4389d0ead820b657af82690b0",
-    "thumbnail": "https://b.thumbs.redditmedia.com/hW1_8gflcWN8Owz3qXyIY1HXeyPleh-Te25uWXqEC3E.jpg"
+    "filesize": 159061,
+    "fullUrl": "https://preview.redd.it/yjdzkmi20pa21.jpg?auto=webp&s=83af6e88f60b60e4f78b08930862baff4afbc9da",
+    "hash": "c4657aea45",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgUGCP/EACMQAAIBAwQCAwEAAAAAAAAAAAECAwQFEQASITEGQQciUZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAAxEx/9oADAMBAAIRAxEAPwAafy+r8miNFcpZGmjUOIlPaDrGeMZA1b2Ogt9Jbo1ktUlZvAdWVy+wED65x2CD/dZ9o7rsqRJGtPVsqbeSQ6c84PrPI/edObd8g3alSaKe4CNlkOEMSnaOMD10NDdrnUbEkVoxA5P/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/hW1_8gflcWN8Owz3qXyIY1HXeyPleh-Te25uWXqEC3E.jpg",
+    "url": "https://preview.redd.it/yjdzkmi20pa21.jpg?width=640&crop=smart&auto=webp&s=657c06a6eea4d2b4389d0ead820b657af82690b0",
+    "width": 640
   },
   "score": {
     "comments": 6,

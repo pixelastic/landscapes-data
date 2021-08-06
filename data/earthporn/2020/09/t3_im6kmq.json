@@ -9,21 +9,19 @@
     "month": 1598918400,
     "week": 1598745600
   },
-  "displayPicture": {
-    "filesize": 131574,
-    "hash": "a514106ba4",
-    "height": 853,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwT/xAAmEAACAQIEBQUAAAAAAAAAAAABAwIEEQAFBkEHEyEiURIxYXGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABoRAAICAwAAAAAAAAAAAAAAAAECAAMEEjH/2gAMAwEAAhEDEQA/ADrhzqBFJmN6+oKaFipl0R3dYi8SB52/cLqNd6UQqME5yiC7dI8tnT77ffAvlmWUVO+KqmnQznA+lYjK42EgbedxitGX0C1iLqVk57kTJt8XBwfJpe9FrdjqOCIx7RSxdQNj0z//2Q==",
-    "width": 640
-  },
   "id": "t3_im6kmq",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/lgcjydp991l51.jpg?auto=webp&s=ea7bd93538c39210b3f12cc3f921449956f6c584",
-    "preview": "https://preview.redd.it/lgcjydp991l51.jpg?width=640&crop=smart&auto=webp&s=562df5bd154cddf608261e313988e1f46db39ca8",
-    "thumbnail": "https://b.thumbs.redditmedia.com/25d2aHtQMLhL2q4JrPG5YBesuH2houjzDL1RoJri6yc.jpg"
+    "filesize": 131574,
+    "fullUrl": "https://preview.redd.it/lgcjydp991l51.jpg?auto=webp&s=ea7bd93538c39210b3f12cc3f921449956f6c584",
+    "hash": "a514106ba4",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwT/xAAmEAACAQIEBQUAAAAAAAAAAAABAwIEEQAFBkEHEyEiURIxYXGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABoRAAICAwAAAAAAAAAAAAAAAAECAAMEEjH/2gAMAwEAAhEDEQA/ADrhzqBFJmN6+oKaFipl0R3dYi8SB52/cLqNd6UQqME5yiC7dI8tnT77ffAvlmWUVO+KqmnQznA+lYjK42EgbedxitGX0C1iLqVk57kTJt8XBwfJpe9FrdjqOCIx7RSxdQNj0z//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/25d2aHtQMLhL2q4JrPG5YBesuH2houjzDL1RoJri6yc.jpg",
+    "url": "https://preview.redd.it/lgcjydp991l51.jpg?width=640&crop=smart&auto=webp&s=562df5bd154cddf608261e313988e1f46db39ca8",
+    "width": 640
   },
   "score": {
     "comments": 1,

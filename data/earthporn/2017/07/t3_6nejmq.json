@@ -9,21 +9,19 @@
     "month": 1498867200,
     "week": 1499558400
   },
-  "displayPicture": {
-    "filesize": 53878,
-    "hash": "69120e52ff",
-    "height": 427,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIG/8QAJRAAAQMDAwMFAAAAAAAAAAAAAQIDBAAFEQYHIRIiMVFhgqGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAcEQABAwUAAAAAAAAAAAAAAAARAAGRAgMFFGH/2gAMAwEAAhEDEQA/AGM7yyZEeU7AtUJxuKkLcK5AaSc+EjJ7ifQVMvedyNHS7JtTbJWnBCiF49uCcitLC0ZpqYCmRYbYoceIyB+ClTNu9IvRVNOafgdAScFKOlQ+Q5+6mbKVEhoQ0LfZX//Z",
-    "width": 640
-  },
   "id": "t3_6nejmq",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/op69tv2kap9z.jpg?auto=webp&s=0af2215c28b3b4a7b728fa3f78d998df4d2377be",
-    "preview": "https://preview.redd.it/op69tv2kap9z.jpg?width=640&crop=smart&auto=webp&s=ec32966c6b96636adc15fa4cb1570980c87e2b4d",
-    "thumbnail": "https://b.thumbs.redditmedia.com/sxJ6o0krk1KgJc-DZYudhSx9upXceFfwkoe9hL87EwY.jpg"
+    "filesize": 53878,
+    "fullUrl": "https://preview.redd.it/op69tv2kap9z.jpg?auto=webp&s=0af2215c28b3b4a7b728fa3f78d998df4d2377be",
+    "hash": "69120e52ff",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIG/8QAJRAAAQMDAwMFAAAAAAAAAAAAAQIDBAAFEQYHIRIiMVFhgqGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAcEQABAwUAAAAAAAAAAAAAAAARAAGRAgMFFGH/2gAMAwEAAhEDEQA/AGM7yyZEeU7AtUJxuKkLcK5AaSc+EjJ7ifQVMvedyNHS7JtTbJWnBCiF49uCcitLC0ZpqYCmRYbYoceIyB+ClTNu9IvRVNOafgdAScFKOlQ+Q5+6mbKVEhoQ0LfZX//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/sxJ6o0krk1KgJc-DZYudhSx9upXceFfwkoe9hL87EwY.jpg",
+    "url": "https://preview.redd.it/op69tv2kap9z.jpg?width=640&crop=smart&auto=webp&s=ec32966c6b96636adc15fa4cb1570980c87e2b4d",
+    "width": 640
   },
   "score": {
     "comments": 2,

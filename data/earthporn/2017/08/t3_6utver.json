@@ -9,21 +9,19 @@
     "month": 1501545600,
     "week": 1503187200
   },
-  "displayPicture": {
-    "filesize": 152561,
-    "hash": "dedee12c4f",
-    "height": 800,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgUGB//EACMQAAEDAwQCAwAAAAAAAAAAAAECAwQFBhEAByFREnETFEH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGREAAgMBAAAAAAAAAAAAAAAAAAIDEiEi/9oADAMBAAIRAxEAPwANtN3ZdC2+ZjFCJYhupa8nMkobJOCB0NZBu5eMq9ryfqUzCmW0JYjN4wlDaeh2SSo+9M7TpqLgadis1aIwtxAR9ZxwR/kPXlg55AOP3UzckZNFqSoLzUVbjY5KiSc+wedESTqgt48sf//Z",
-    "width": 640
-  },
   "id": "t3_6utver",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/dnfsu985ntgz.jpg?auto=webp&s=9ad28002fd9e46a9d211ac911c64f12964f652f0",
-    "preview": "https://preview.redd.it/dnfsu985ntgz.jpg?width=640&crop=smart&auto=webp&s=560c785390a2bfdc67a41cd4f7e95ac547ec3690",
-    "thumbnail": "https://b.thumbs.redditmedia.com/JLAkdKQVQpEROxwuXp0Rds1uFj-zynPUjjMRTYkIMts.jpg"
+    "filesize": 152561,
+    "fullUrl": "https://preview.redd.it/dnfsu985ntgz.jpg?auto=webp&s=9ad28002fd9e46a9d211ac911c64f12964f652f0",
+    "hash": "dedee12c4f",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgUGB//EACMQAAEDAwQCAwAAAAAAAAAAAAECAwQFBhEAByFREnETFEH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGREAAgMBAAAAAAAAAAAAAAAAAAIDEiEi/9oADAMBAAIRAxEAPwANtN3ZdC2+ZjFCJYhupa8nMkobJOCB0NZBu5eMq9ryfqUzCmW0JYjN4wlDaeh2SSo+9M7TpqLgadis1aIwtxAR9ZxwR/kPXlg55AOP3UzckZNFqSoLzUVbjY5KiSc+wedESTqgt48sf//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/JLAkdKQVQpEROxwuXp0Rds1uFj-zynPUjjMRTYkIMts.jpg",
+    "url": "https://preview.redd.it/dnfsu985ntgz.jpg?width=640&crop=smart&auto=webp&s=560c785390a2bfdc67a41cd4f7e95ac547ec3690",
+    "width": 640
   },
   "score": {
     "comments": 1,

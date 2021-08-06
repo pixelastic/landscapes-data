@@ -9,21 +9,19 @@
     "month": 1564617600,
     "week": 1565481600
   },
-  "displayPicture": {
-    "filesize": 58686,
-    "hash": "911dd8c96d",
-    "height": 384,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDBBEABiFRBQcxQWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGxEAAgMAAwAAAAAAAAAAAAAAAQMAAhIRE5H/2gAMAwEAAhEDEQA/AEngt+bht361a5bRZ5VaRUKKMqOMA/bfnXOrru9fMRXrNLMM0yIHUtEBnvJHWgVxFbb1l2UM0WGQkZKHnkdHWt67hjk2dLYkjRrDzMrSsoLMOifk6Is5mCzmMClO0KyPJ//Z",
-    "width": 640
-  },
   "id": "t3_cpitrk",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/5unm9rmf43g31.jpg?auto=webp&s=2153a9388eb9760e7022e10e08040d1f3878280c",
-    "preview": "https://preview.redd.it/5unm9rmf43g31.jpg?width=640&crop=smart&auto=webp&s=115ec258d2d2abf2c9d36e7ce738164a8df3142e",
-    "thumbnail": "https://b.thumbs.redditmedia.com/vJXw05ZbniayTn91Wv3aiCwVqFi-5VmOHpBItj4S2mE.jpg"
+    "filesize": 58686,
+    "fullUrl": "https://preview.redd.it/5unm9rmf43g31.jpg?auto=webp&s=2153a9388eb9760e7022e10e08040d1f3878280c",
+    "hash": "911dd8c96d",
+    "height": 384,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIRAAAgIBBAIDAAAAAAAAAAAAAQIDBBEABiFRBQcxQWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGxEAAgMAAwAAAAAAAAAAAAAAAQMAAhIRE5H/2gAMAwEAAhEDEQA/AEngt+bht361a5bRZ5VaRUKKMqOMA/bfnXOrru9fMRXrNLMM0yIHUtEBnvJHWgVxFbb1l2UM0WGQkZKHnkdHWt67hjk2dLYkjRrDzMrSsoLMOifk6Is5mCzmMClO0KyPJ//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/vJXw05ZbniayTn91Wv3aiCwVqFi-5VmOHpBItj4S2mE.jpg",
+    "url": "https://preview.redd.it/5unm9rmf43g31.jpg?width=640&crop=smart&auto=webp&s=115ec258d2d2abf2c9d36e7ce738164a8df3142e",
+    "width": 640
   },
   "score": {
     "comments": 0,

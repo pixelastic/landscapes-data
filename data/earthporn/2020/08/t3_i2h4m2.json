@@ -9,21 +9,19 @@
     "month": 1596240000,
     "week": 1596326400
   },
-  "displayPicture": {
-    "filesize": 177038,
-    "hash": "760741cc55",
-    "height": 960,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIxAAAQMDAwUBAAAAAAAAAAAAAgEEEQADBRIhMQYTFCJBI//EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACESEi/9oADAMBAAIRAxEAPwAXS+PuWCbI7EvDgrh3UvIIFqAvifN0hV3ob1pjAv6Dc+wgAqkIUQKJExvHFU+lBxWbwL5HTm42cB+QdwUtRA8qsrEqvMRWTd4MrLgraMxcaYTu+dOvbmUhKZW2eSRU3rP/2Q==",
-    "width": 640
-  },
   "id": "t3_i2h4m2",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/pcrcs61pvme51.jpg?auto=webp&s=8db72b19044faa18ae1f52410485dc3ccee170a6",
-    "preview": "https://preview.redd.it/pcrcs61pvme51.jpg?width=640&crop=smart&auto=webp&s=af68ba27c4cb1f5729b9c4fa71a8e5e8d50846f4",
-    "thumbnail": "https://b.thumbs.redditmedia.com/0g9UpdbpJS5DXElmGoKj-ViwB4kf5iy8dTtn5JZlDUA.jpg"
+    "filesize": 177038,
+    "fullUrl": "https://preview.redd.it/pcrcs61pvme51.jpg?auto=webp&s=8db72b19044faa18ae1f52410485dc3ccee170a6",
+    "hash": "760741cc55",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIxAAAQMDAwUBAAAAAAAAAAAAAgEEEQADBRIhMQYTFCJBI//EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACESEi/9oADAMBAAIRAxEAPwAXS+PuWCbI7EvDgrh3UvIIFqAvifN0hV3ob1pjAv6Dc+wgAqkIUQKJExvHFU+lBxWbwL5HTm42cB+QdwUtRA8qsrEqvMRWTd4MrLgraMxcaYTu+dOvbmUhKZW2eSRU3rP/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/0g9UpdbpJS5DXElmGoKj-ViwB4kf5iy8dTtn5JZlDUA.jpg",
+    "url": "https://preview.redd.it/pcrcs61pvme51.jpg?width=640&crop=smart&auto=webp&s=af68ba27c4cb1f5729b9c4fa71a8e5e8d50846f4",
+    "width": 640
   },
   "score": {
     "comments": 2,

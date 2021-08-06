@@ -9,21 +9,19 @@
     "month": 1543622400,
     "week": 1543708800
   },
-  "displayPicture": {
-    "filesize": 234827,
-    "hash": "1698f1416c",
-    "height": 853,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgUG/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDAAQREiExE0FhBQYycYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEBAQACAwAAAAAAAAAAAAAAAQIAAxETof/aAAwDAQACEQMRAD8Azvty8VZunPJLHEwYSqh3wR8sHn674oC6Hp93eRQGSSFpiyMZGQsukAEjPJxn9qfbX9q6l0jlEcb4aWNco/bpqNwSefG5zRub8Qy6QwUkaioViAT5OaF3XqkB8xTM3TyZ/9k=",
-    "width": 640
-  },
   "id": "t3_a2b10c",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/gekjtvch5t121.jpg?auto=webp&s=bd5ef87545b4beb56ea33083078c58a2290f8c16",
-    "preview": "https://preview.redd.it/gekjtvch5t121.jpg?width=640&crop=smart&auto=webp&s=dd4da4e72e3220bdc0541fea800537405f0e0b5c",
-    "thumbnail": "https://b.thumbs.redditmedia.com/WFDzZNq1pLGZqm5-h-2P6U1kkCeomqz4Rs432rtR-vw.jpg"
+    "filesize": 234827,
+    "fullUrl": "https://preview.redd.it/gekjtvch5t121.jpg?auto=webp&s=bd5ef87545b4beb56ea33083078c58a2290f8c16",
+    "hash": "1698f1416c",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgUG/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDAAQREiExE0FhBQYycYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEBAQACAwAAAAAAAAAAAAAAAQIAAxETof/aAAwDAQACEQMRAD8Azvty8VZunPJLHEwYSqh3wR8sHn674oC6Hp93eRQGSSFpiyMZGQsukAEjPJxn9qfbX9q6l0jlEcb4aWNco/bpqNwSefG5zRub8Qy6QwUkaioViAT5OaF3XqkB8xTM3TyZ/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/WFDzZNq1pLGZqm5-h-2P6U1kkCeomqz4Rs432rtR-vw.jpg",
+    "url": "https://preview.redd.it/gekjtvch5t121.jpg?width=640&crop=smart&auto=webp&s=dd4da4e72e3220bdc0541fea800537405f0e0b5c",
+    "width": 640
   },
   "score": {
     "comments": 8,

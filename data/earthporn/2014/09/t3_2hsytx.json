@@ -9,21 +9,19 @@
     "month": 1409529600,
     "week": 1411862400
   },
-  "displayPicture": {
-    "filesize": 43411,
-    "hash": "151715d852",
-    "height": 242,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAGABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAgEAABBAMAAgMAAAAAAAAAAAABAgMEEQAFEgYUFXKh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAbEQACAQUAAAAAAAAAAAAAAAAAAgEDERQyUf/aAAwDAQACEQMRAD8AnNr59t5MH1WYGljslXZWInbnV3dk1+ZKL2+2VKW78ipsrPRShpAST9QAKxjI2VVtsJhV4f/Z",
-    "width": 640
-  },
   "id": "t3_2hsytx",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://external-preview.redd.it/Bk2W_kkPoXSgU71rqXCD3Zmk2OtYulDM7Ss-V5YmHtE.jpg?auto=webp&s=56cfce6761c19121634462886ff9cd34871e9135",
-    "preview": "https://external-preview.redd.it/Bk2W_kkPoXSgU71rqXCD3Zmk2OtYulDM7Ss-V5YmHtE.jpg?width=640&crop=smart&auto=webp&s=31e959b7006d6cd9ae32060d9588eae9d1817a22",
-    "thumbnail": "https://b.thumbs.redditmedia.com/eP_7wMnbL4A5iHTBcFmMTSmz4iMW7ISSbbnCd-d6i2o.jpg"
+    "filesize": 43411,
+    "fullUrl": "https://external-preview.redd.it/Bk2W_kkPoXSgU71rqXCD3Zmk2OtYulDM7Ss-V5YmHtE.jpg?auto=webp&s=56cfce6761c19121634462886ff9cd34871e9135",
+    "hash": "151715d852",
+    "height": 242,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAGABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAgEAABBAMAAgMAAAAAAAAAAAABAgMEEQAFEgYUFXKh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAbEQACAQUAAAAAAAAAAAAAAAAAAgEDERQyUf/aAAwDAQACEQMRAD8AnNr59t5MH1WYGljslXZWInbnV3dk1+ZKL2+2VKW78ipsrPRShpAST9QAKxjI2VVtsJhV4f/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/eP_7wMnbL4A5iHTBcFmMTSmz4iMW7ISSbbnCd-d6i2o.jpg",
+    "url": "https://external-preview.redd.it/Bk2W_kkPoXSgU71rqXCD3Zmk2OtYulDM7Ss-V5YmHtE.jpg?width=640&crop=smart&auto=webp&s=31e959b7006d6cd9ae32060d9588eae9d1817a22",
+    "width": 640
   },
   "score": {
     "comments": 0,

@@ -9,21 +9,19 @@
     "month": 1538352000,
     "week": 1540080000
   },
-  "displayPicture": {
-    "filesize": 56005,
-    "hash": "0091d02be0",
-    "height": 960,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAjEAABBAEDBAMAAAAAAAAAAAABAgMEBREABkEHEjJRIUJh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAdEQABAgcAAAAAAAAAAAAAAAACAAEDERIiMWHw/9oADAMBAAIRAxEAPwBLR7x6eXdVGfcntQJTiMLjykKQps8gqx249HONGLOz2WJ7wRcwCkH4IdGhVbebYqKZyFCjw1ScEsy3ojbi2iR++XPl741HG5KkjMqDWSH/ALuohobCj77eNIEQ2wrnEKb5P2l//9k=",
-    "width": 640
-  },
   "id": "t3_9qlohr",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/ataa8omx7vt11.jpg?auto=webp&s=8bf44d1303a7fbc701bcf6e867772f48e7fa7c4b",
-    "preview": "https://preview.redd.it/ataa8omx7vt11.jpg?width=640&crop=smart&auto=webp&s=318f3190a443bca0f3497970ae8d6e642532c891",
-    "thumbnail": "https://b.thumbs.redditmedia.com/p_qyzCCsygi94_opeIU99ZHvFJlp5AB90lOr3hxu3gU.jpg"
+    "filesize": 56005,
+    "fullUrl": "https://preview.redd.it/ataa8omx7vt11.jpg?auto=webp&s=8bf44d1303a7fbc701bcf6e867772f48e7fa7c4b",
+    "hash": "0091d02be0",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAjEAABBAEDBAMAAAAAAAAAAAABAgMEBREABkEHEjJRIUJh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAdEQABAgcAAAAAAAAAAAAAAAACAAEDERIiMWHw/9oADAMBAAIRAxEAPwBLR7x6eXdVGfcntQJTiMLjykKQps8gqx249HONGLOz2WJ7wRcwCkH4IdGhVbebYqKZyFCjw1ScEsy3ojbi2iR++XPl741HG5KkjMqDWSH/ALuohobCj77eNIEQ2wrnEKb5P2l//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/p_qyzCCsygi94_opeIU99ZHvFJlp5AB90lOr3hxu3gU.jpg",
+    "url": "https://preview.redd.it/ataa8omx7vt11.jpg?width=640&crop=smart&auto=webp&s=318f3190a443bca0f3497970ae8d6e642532c891",
+    "width": 640
   },
   "score": {
     "comments": 7,

@@ -9,21 +9,19 @@
     "month": 1491004800,
     "week": 1492905600
   },
-  "displayPicture": {
-    "filesize": 64160,
-    "hash": "c0c7a636da",
-    "height": 360,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACMQAAEDAwMFAQAAAAAAAAAAAAECAwQAESEFBkEiMjNRcXL/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABwRAAIABwAAAAAAAAAAAAAAAAABAgMREhNBQv/aAAwDAQACEQMRAD8An4u91xWFInKgz7EkLcw6gA8qRg/bH1zTNzdzTmloTpzMJQPVZLyTY3uVWwrJ4rEY/lP5FFg9x+VTPM6dQ2Q6R//Z",
-    "width": 640
-  },
   "id": "t3_679kl2",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/hlf7zlpjmity.jpg?auto=webp&s=bc0a55f8345275112975da590c41393bad8d6017",
-    "preview": "https://preview.redd.it/hlf7zlpjmity.jpg?width=640&crop=smart&auto=webp&s=cbcd95c42bf46607d6275d464a36a8ac933388de",
-    "thumbnail": "https://b.thumbs.redditmedia.com/ZW0O7l0UHjIKphug8HWir42eoOEmjAcEIix_CabnzCI.jpg"
+    "filesize": 64160,
+    "fullUrl": "https://preview.redd.it/hlf7zlpjmity.jpg?auto=webp&s=bc0a55f8345275112975da590c41393bad8d6017",
+    "hash": "c0c7a636da",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACMQAAEDAwMFAQAAAAAAAAAAAAECAwQAESEFBkEiMjNRcXL/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABwRAAIABwAAAAAAAAAAAAAAAAABAgMREhNBQv/aAAwDAQACEQMRAD8An4u91xWFInKgz7EkLcw6gA8qRg/bH1zTNzdzTmloTpzMJQPVZLyTY3uVWwrJ4rEY/lP5FFg9x+VTPM6dQ2Q6R//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/ZW0O7l0UHjIKphug8HWir42eoOEmjAcEIix_CabnzCI.jpg",
+    "url": "https://preview.redd.it/hlf7zlpjmity.jpg?width=640&crop=smart&auto=webp&s=cbcd95c42bf46607d6275d464a36a8ac933388de",
+    "width": 640
   },
   "score": {
     "comments": 0,

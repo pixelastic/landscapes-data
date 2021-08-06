@@ -9,21 +9,19 @@
     "month": 1538352000,
     "week": 1539475200
   },
-  "displayPicture": {
-    "filesize": 33667,
-    "hash": "76a3e6742f",
-    "height": 361,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAkEAACAAUBCQAAAAAAAAAAAAABAgADBAURByExMjRBUYGx8P/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAZEQACAwEAAAAAAAAAAAAAAAABAgAEMUH/2gAMAwEAAhEDEQA/AJKZrdeFQrLYsMb2CZ9QVU6y32odsBQp7rnb4EStj5OZ90hdOCF7zDAIrVB7P//Z",
-    "width": 640
-  },
   "id": "t3_9pf7f9",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/64wxt0qcm1t11.jpg?auto=webp&s=73564e54fbc6b2335cfefcbf79cfb39c6951709b",
-    "preview": "https://preview.redd.it/64wxt0qcm1t11.jpg?width=640&crop=smart&auto=webp&s=88400f969f430def10bd66413317624604679ca1",
-    "thumbnail": "https://b.thumbs.redditmedia.com/1HbpRa7-Xv1WLOBtQbSG6oD9IzuXEnGFYETGpiPwITg.jpg"
+    "filesize": 33667,
+    "fullUrl": "https://preview.redd.it/64wxt0qcm1t11.jpg?auto=webp&s=73564e54fbc6b2335cfefcbf79cfb39c6951709b",
+    "hash": "76a3e6742f",
+    "height": 361,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAkEAACAAUBCQAAAAAAAAAAAAABAgADBAURByExMjRBUYGx8P/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAZEQACAwEAAAAAAAAAAAAAAAABAgAEMUH/2gAMAwEAAhEDEQA/AJKZrdeFQrLYsMb2CZ9QVU6y32odsBQp7rnb4EStj5OZ90hdOCF7zDAIrVB7P//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/1HbpRa7-Xv1WLOBtQbSG6oD9IzuXEnGFYETGpiPwITg.jpg",
+    "url": "https://preview.redd.it/64wxt0qcm1t11.jpg?width=640&crop=smart&auto=webp&s=88400f969f430def10bd66413317624604679ca1",
+    "width": 640
   },
   "score": {
     "comments": 0,

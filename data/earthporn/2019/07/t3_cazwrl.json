@@ -9,21 +9,19 @@
     "month": 1561939200,
     "week": 1562457600
   },
-  "displayPicture": {
-    "filesize": 109142,
-    "hash": "7d932f11cf",
-    "height": 853,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIE/8QAKRAAAQMCBAMJAAAAAAAAAAAAAQIDBAURACEiMQYTQQcSFSMkUmFxof/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAdEQAABQUAAAAAAAAAAAAAAAAAAQIDERIxQoGR/9oADAMBAAIRAxEAPwA2jdrsCY2PE4vLdS2AEJVkV+656bZb/OM8/j+GmR6aEzy1Dvec9qufrLA1HpESA2E1RyOtxTd0BLYNldQb9Ns8W89TVL0NxikC2tAB/BhE3H8TjgJW5RdE7H//2Q==",
-    "width": 640
-  },
   "id": "t3_cazwrl",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/lbvmbor1p9931.jpg?auto=webp&s=92b0b20324a40d92f7f94010521437b250a4387c",
-    "preview": "https://preview.redd.it/lbvmbor1p9931.jpg?width=640&crop=smart&auto=webp&s=83bf5e875646b84bcea14f1fb359708a2feb24d6",
-    "thumbnail": "https://a.thumbs.redditmedia.com/PaWMwR8J436OSN2q4ZwU9jOBamYFWcPZbuZups6vTG4.jpg"
+    "filesize": 109142,
+    "fullUrl": "https://preview.redd.it/lbvmbor1p9931.jpg?auto=webp&s=92b0b20324a40d92f7f94010521437b250a4387c",
+    "hash": "7d932f11cf",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIE/8QAKRAAAQMCBAMJAAAAAAAAAAAAAQIDBAURACEiMQYTQQcSFSMkUmFxof/EABQBAQAAAAAAAAAAAAAAAAAAAAX/xAAdEQAABQUAAAAAAAAAAAAAAAAAAQIDERIxQoGR/9oADAMBAAIRAxEAPwA2jdrsCY2PE4vLdS2AEJVkV+656bZb/OM8/j+GmR6aEzy1Dvec9qufrLA1HpESA2E1RyOtxTd0BLYNldQb9Ns8W89TVL0NxikC2tAB/BhE3H8TjgJW5RdE7H//2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/PaWMwR8J436OSN2q4ZwU9jOBamYFWcPZbuZups6vTG4.jpg",
+    "url": "https://preview.redd.it/lbvmbor1p9931.jpg?width=640&crop=smart&auto=webp&s=83bf5e875646b84bcea14f1fb359708a2feb24d6",
+    "width": 640
   },
   "score": {
     "comments": 16,

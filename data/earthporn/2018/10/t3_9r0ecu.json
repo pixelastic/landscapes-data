@@ -9,21 +9,19 @@
     "month": 1538352000,
     "week": 1540080000
   },
-  "displayPicture": {
-    "filesize": 62370,
-    "hash": "89e1fe35e7",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwT/xAAlEAACAQIFAwUAAAAAAAAAAAABAgMEBQAGESExBxJhFCIyQXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEAAgMAAAAAAAAAAAAAAAAAAREAAgP/2gAMAwEAAhEDEQA/ADbLeacxWueOG0PNKkEatLGnuRY05I1+AP35ww3bqzbIsnrVVtB23+ogb03dvo/GrsOQOdD+YLbdZKZFmBeZxUL2yAsNxzpsBi6ss1tuUEVJVUURRCSrqWDjXnfXwMNzzVWy4I3LRn//2Q==",
-    "width": 640
-  },
   "id": "t3_9r0ecu",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/n930ksmfd5u11.jpg?auto=webp&s=b205422fe915f1bece219bb41fdfe90d966cfa5e",
-    "preview": "https://preview.redd.it/n930ksmfd5u11.jpg?width=640&crop=smart&auto=webp&s=54e286724cc49c25320c2b91552746326501bebe",
-    "thumbnail": "https://b.thumbs.redditmedia.com/X8Lrwyx9uqoMfgbBXVthTAAGsHIX4EhA7nhYNwvOgSU.jpg"
+    "filesize": 62370,
+    "fullUrl": "https://preview.redd.it/n930ksmfd5u11.jpg?auto=webp&s=b205422fe915f1bece219bb41fdfe90d966cfa5e",
+    "hash": "89e1fe35e7",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwT/xAAlEAACAQIFAwUAAAAAAAAAAAABAgMEBQAGESExBxJhFCIyQXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEAAgMAAAAAAAAAAAAAAAAAAREAAgP/2gAMAwEAAhEDEQA/ADbLeacxWueOG0PNKkEatLGnuRY05I1+AP35ww3bqzbIsnrVVtB23+ogb03dvo/GrsOQOdD+YLbdZKZFmBeZxUL2yAsNxzpsBi6ss1tuUEVJVUURRCSrqWDjXnfXwMNzzVWy4I3LRn//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/X8Lrwyx9uqoMfgbBXVthTAAGsHIX4EhA7nhYNwvOgSU.jpg",
+    "url": "https://preview.redd.it/n930ksmfd5u11.jpg?width=640&crop=smart&auto=webp&s=54e286724cc49c25320c2b91552746326501bebe",
+    "width": 640
   },
   "score": {
     "comments": 3,

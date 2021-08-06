@@ -9,21 +9,19 @@
     "month": 1567296000,
     "week": 1567296000
   },
-  "displayPicture": {
-    "filesize": 61911,
-    "hash": "1bfea67b68",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIH/8QAJBAAAgIBAwIHAAAAAAAAAAAAAQIDBBEABQYSIQcUMUFTgZL/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EAB4RAAIBAwUAAAAAAAAAAAAAAAECAAME4RESFaGx/9oADAMBAAIRAxEAPwBMXiDwrcpFVbF2Fm+SoxA/OdXe5NxSisTme1ZMoyqRV2U/fVgayrf+RbjRmhWpKkIc9+hAMdvbGgQcj3G1Sl81Ks4SLrUSqGAOceh0vLuaZZT1mTCwTdofcT//2Q==",
-    "width": 640
-  },
   "id": "t3_czf8so",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/gugfajdmuhk31.jpg?auto=webp&s=d7787474b4f977aa3fd73f61b88c98d455881249",
-    "preview": "https://preview.redd.it/gugfajdmuhk31.jpg?width=640&crop=smart&auto=webp&s=a0b2bc0248ff34051d7c0ad50741514b32bd4663",
-    "thumbnail": "https://b.thumbs.redditmedia.com/GYQsVIMjmt1RFiwJaCmIKHY2th39I8yGO-SoGyBItkc.jpg"
+    "filesize": 61911,
+    "fullUrl": "https://preview.redd.it/gugfajdmuhk31.jpg?auto=webp&s=d7787474b4f977aa3fd73f61b88c98d455881249",
+    "hash": "1bfea67b68",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIH/8QAJBAAAgIBAwIHAAAAAAAAAAAAAQIDBBEABQYSIQcUMUFTgZL/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EAB4RAAIBAwUAAAAAAAAAAAAAAAECAAME4RESFaGx/9oADAMBAAIRAxEAPwBMXiDwrcpFVbF2Fm+SoxA/OdXe5NxSisTme1ZMoyqRV2U/fVgayrf+RbjRmhWpKkIc9+hAMdvbGgQcj3G1Sl81Ks4SLrUSqGAOceh0vLuaZZT1mTCwTdofcT//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/GYQsVIMjmt1RFiwJaCmIKHY2th39I8yGO-SoGyBItkc.jpg",
+    "url": "https://preview.redd.it/gugfajdmuhk31.jpg?width=640&crop=smart&auto=webp&s=a0b2bc0248ff34051d7c0ad50741514b32bd4663",
+    "width": 640
   },
   "score": {
     "comments": 1,

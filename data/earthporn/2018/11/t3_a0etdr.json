@@ -9,21 +9,19 @@
     "month": 1541030400,
     "week": 1543104000
   },
-  "displayPicture": {
-    "filesize": 62834,
-    "hash": "af37172cae",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUH/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQMCBAURABIhBhNBMTJRcZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAHREAAQMFAQAAAAAAAAAAAAAAAgABAwQFERJhMf/aAAwDAQACEQMRAD8AHom42vqqKkoUxNXKG6S5DgY9cHyPOdQL5eqBV0rKGkhvkk4DQQYz+caz21XR1tpJtUtLJe092GcjA4+udEbmyuetpShE5Z3dkEZ/SdMmvtYYPHvjreokdnpQNpNc8X//2Q==",
-    "width": 640
-  },
   "id": "t3_a0etdr",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/avlre4fazk021.jpg?auto=webp&s=a1e3e7bece19413b3782711bb7bbc54246c64842",
-    "preview": "https://preview.redd.it/avlre4fazk021.jpg?width=640&crop=smart&auto=webp&s=d6ca5add4362df139a42f657eab2ec8864fa9c99",
-    "thumbnail": "https://b.thumbs.redditmedia.com/Cey_4KSOE4KwyHk30Hquxe0hnucfTWNt21wV_mUd_6Y.jpg"
+    "filesize": 62834,
+    "fullUrl": "https://preview.redd.it/avlre4fazk021.jpg?auto=webp&s=a1e3e7bece19413b3782711bb7bbc54246c64842",
+    "hash": "af37172cae",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUH/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQMCBAURABIhBhNBMTJRcZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAHREAAQMFAQAAAAAAAAAAAAAAAgABAwQFERJhMf/aAAwDAQACEQMRAD8AHom42vqqKkoUxNXKG6S5DgY9cHyPOdQL5eqBV0rKGkhvkk4DQQYz+caz21XR1tpJtUtLJe092GcjA4+udEbmyuetpShE5Z3dkEZ/SdMmvtYYPHvjreokdnpQNpNc8X//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Cey_4KSOE4KwyHk30Hquxe0hnucfTWNt21wV_mUd_6Y.jpg",
+    "url": "https://preview.redd.it/avlre4fazk021.jpg?width=640&crop=smart&auto=webp&s=d6ca5add4362df139a42f657eab2ec8864fa9c99",
+    "width": 640
   },
   "score": {
     "comments": 2,

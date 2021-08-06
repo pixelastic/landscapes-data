@@ -9,21 +9,19 @@
     "month": 1519862400,
     "week": 1520726400
   },
-  "displayPicture": {
-    "filesize": 99944,
-    "hash": "a3f081a5fe",
-    "height": 959,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAmEAABAwIFAwUAAAAAAAAAAAABAgMEBREABhQhQRIxcQckMjRR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABwRAQACAQUAAAAAAAAAAAAAAAEAAgMEISNR8P/aAAwDAQACEQMRAD8AQ54TlaiytFoJMxbdg8Y/SUNDnncjxgDUGci6xz3St7H6rnI8Yu56ayxVp65katSKel1wKeZQw0pBTvcJIAsfy97b98FZivT1UhXQ9U0JAAAEscAC/wAee+F1tqamzG3cOV5AX3U//9k=",
-    "width": 640
-  },
   "id": "t3_84t3df",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/drr145h272m01.jpg?auto=webp&s=66aa55e6121d4e63c2ff6c768a3a4dc87b75eb94",
-    "preview": "https://preview.redd.it/drr145h272m01.jpg?width=640&crop=smart&auto=webp&s=571079c208ec3224df1a0c64f6b4fb57821a366c",
-    "thumbnail": "https://b.thumbs.redditmedia.com/E2NoXaqq4zDRiEwtWBxJdc77gce0JEti2qHXZsRoH_A.jpg"
+    "filesize": 99944,
+    "fullUrl": "https://preview.redd.it/drr145h272m01.jpg?auto=webp&s=66aa55e6121d4e63c2ff6c768a3a4dc87b75eb94",
+    "hash": "a3f081a5fe",
+    "height": 959,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAmEAABAwIFAwUAAAAAAAAAAAABAgMEBREABhQhQRIxcQckMjRR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABwRAQACAQUAAAAAAAAAAAAAAAEAAgMEISNR8P/aAAwDAQACEQMRAD8AQ54TlaiytFoJMxbdg8Y/SUNDnncjxgDUGci6xz3St7H6rnI8Yu56ayxVp65katSKel1wKeZQw0pBTvcJIAsfy97b98FZivT1UhXQ9U0JAAAEscAC/wAee+F1tqamzG3cOV5AX3U//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/E2NoXaqq4zDRiEwtWBxJdc77gce0JEti2qHXZsRoH_A.jpg",
+    "url": "https://preview.redd.it/drr145h272m01.jpg?width=640&crop=smart&auto=webp&s=571079c208ec3224df1a0c64f6b4fb57821a366c",
+    "width": 640
   },
   "score": {
     "comments": 23,

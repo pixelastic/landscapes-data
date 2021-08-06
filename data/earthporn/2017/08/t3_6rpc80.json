@@ -8,21 +8,19 @@
     "month": 1501545600,
     "week": 1501372800
   },
-  "displayPicture": {
-    "filesize": 93613,
-    "hash": "fc2ca66a69",
-    "height": 640,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAJhAAAgEDAgQHAAAAAAAAAAAAAQIDBAYRAAUHEhNxFSEiQVFhsf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGxEBAAICAwAAAAAAAAAAAAAAAQADApEEITP/2gAMAwEAAhEDEQA/AEeK87Rq5Om7OCfZoT+6z/EK5ra2u3aqo2ox+JlQIWEQYKSR5nP1nQ5R3BCOeodOqc8iwMPWx+e2oW6V1RX1ctK87BEyWdsFs5GW7ADAGnZzA813J8KF7sDU/9k=",
-    "width": 640
-  },
   "id": "t3_6rpc80",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/3idj7ea61udz.jpg?auto=webp&s=52571741e65028261131cde148c3b8ba0bd9bf97",
-    "preview": "https://preview.redd.it/3idj7ea61udz.jpg?width=640&crop=smart&auto=webp&s=a4124a936af1548a28a53990e513ab89b85962ba",
-    "thumbnail": "https://b.thumbs.redditmedia.com/0yaKX_nr8wmQ9CRMb9MwcGySQOMypeGn_1aon0v730U.jpg"
+    "filesize": 93613,
+    "fullUrl": "https://preview.redd.it/3idj7ea61udz.jpg?auto=webp&s=52571741e65028261131cde148c3b8ba0bd9bf97",
+    "hash": "fc2ca66a69",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAJhAAAgEDAgQHAAAAAAAAAAAAAQIDBAYRAAUHEhNxFSEiQVFhsf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGxEBAAICAwAAAAAAAAAAAAAAAQADApEEITP/2gAMAwEAAhEDEQA/AEeK87Rq5Om7OCfZoT+6z/EK5ra2u3aqo2ox+JlQIWEQYKSR5nP1nQ5R3BCOeodOqc8iwMPWx+e2oW6V1RX1ctK87BEyWdsFs5GW7ADAGnZzA813J8KF7sDU/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/0yaKX_nr8wmQ9CRMb9MwcGySQOMypeGn_1aon0v730U.jpg",
+    "url": "https://preview.redd.it/3idj7ea61udz.jpg?width=640&crop=smart&auto=webp&s=a4124a936af1548a28a53990e513ab89b85962ba",
+    "width": 640
   },
   "score": {
     "comments": 0,

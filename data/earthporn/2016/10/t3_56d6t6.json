@@ -9,21 +9,19 @@
     "month": 1475280000,
     "week": 1475366400
   },
-  "displayPicture": {
-    "filesize": 38162,
-    "hash": "06839a3039",
-    "height": 272,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAHhAAAgEEAwEAAAAAAAAAAAAAAQMCAAQRIQUHEmH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABkRAAIDAQAAAAAAAAAAAAAAABESAAEDAv/aAAwDAQACEQMRAD8AyXJdwscGMfxdg+Zj6BVGS9ZxoHVSL7hfbiQsbJAlCImJMj93jAFKUrXRQ1yU5JE//9k=",
-    "width": 640
-  },
   "id": "t3_56d6t6",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/7fki9bapt3qx.jpg?auto=webp&s=df7b128e9b2638555e245c93b7c8e54280457465",
-    "preview": "https://preview.redd.it/7fki9bapt3qx.jpg?width=640&crop=smart&auto=webp&s=85864ba6e67072f475d47802772b1d70721ea21d",
-    "thumbnail": "https://b.thumbs.redditmedia.com/mqMA6BnXBxkRiIEPB0oCUI0O_Y2JQmD4VWquBh3S9xQ.jpg"
+    "filesize": 38162,
+    "fullUrl": "https://preview.redd.it/7fki9bapt3qx.jpg?auto=webp&s=df7b128e9b2638555e245c93b7c8e54280457465",
+    "hash": "06839a3039",
+    "height": 272,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAHhAAAgEEAwEAAAAAAAAAAAAAAQMCAAQRIQUHEmH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABkRAAIDAQAAAAAAAAAAAAAAABESAAEDAv/aAAwDAQACEQMRAD8AyXJdwscGMfxdg+Zj6BVGS9ZxoHVSL7hfbiQsbJAlCImJMj93jAFKUrXRQ1yU5JE//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/mqMA6BnXBxkRiIEPB0oCUI0O_Y2JQmD4VWquBh3S9xQ.jpg",
+    "url": "https://preview.redd.it/7fki9bapt3qx.jpg?width=640&crop=smart&auto=webp&s=85864ba6e67072f475d47802772b1d70721ea21d",
+    "width": 640
   },
   "score": {
     "comments": 3,

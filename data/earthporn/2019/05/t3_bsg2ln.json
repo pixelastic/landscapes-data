@@ -9,21 +9,19 @@
     "month": 1556668800,
     "week": 1558224000
   },
-  "displayPicture": {
-    "filesize": 105562,
-    "hash": "383b19ad04",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEG/8QAIRAAAgEDBQADAAAAAAAAAAAAAQIDBAURABITITFBUZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAFBv/EAB4RAAIBAwUAAAAAAAAAAAAAAAERAwACQQUTFiFR/9oADAMBAAIRAxEAPwDPJYa6dBPTohgZcFth8x6PgjSY7HerUI62ppTNRnGZNxUhT0CMHv0fui2TlmtJZqioVWpguxJCFAyRjH12dSaSVbfxNNJIkSqIw7Z29jzS3O5xFtCMNJk59xU7bopJZu6r/9k=",
-    "width": 640
-  },
   "id": "t3_bsg2ln",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/rhccr8wxf5031.jpg?auto=webp&s=61656205d3c1ab25c452450b4db9c8decb27625b",
-    "preview": "https://preview.redd.it/rhccr8wxf5031.jpg?width=640&crop=smart&auto=webp&s=9965affb4c22e920380bed0136b602cfe3d96e6d",
-    "thumbnail": "https://b.thumbs.redditmedia.com/OPVOaMyVYcTrZcBtCRahIvYYT9dFxmExpcDtOCEIDmI.jpg"
+    "filesize": 105562,
+    "fullUrl": "https://preview.redd.it/rhccr8wxf5031.jpg?auto=webp&s=61656205d3c1ab25c452450b4db9c8decb27625b",
+    "hash": "383b19ad04",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEG/8QAIRAAAgEDBQADAAAAAAAAAAAAAQIDBAURABITITFBUZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAFBv/EAB4RAAIBAwUAAAAAAAAAAAAAAAERAwACQQUTFiFR/9oADAMBAAIRAxEAPwDPJYa6dBPTohgZcFth8x6PgjSY7HerUI62ppTNRnGZNxUhT0CMHv0fui2TlmtJZqioVWpguxJCFAyRjH12dSaSVbfxNNJIkSqIw7Z29jzS3O5xFtCMNJk59xU7bopJZu6r/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/OPVOaMyVYcTrZcBtCRahIvYYT9dFxmExpcDtOCEIDmI.jpg",
+    "url": "https://preview.redd.it/rhccr8wxf5031.jpg?width=640&crop=smart&auto=webp&s=9965affb4c22e920380bed0136b602cfe3d96e6d",
+    "width": 640
   },
   "score": {
     "comments": 1,

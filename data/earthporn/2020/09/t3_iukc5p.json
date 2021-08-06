@@ -9,21 +9,19 @@
     "month": 1598918400,
     "week": 1599955200
   },
-  "displayPicture": {
-    "filesize": 118135,
-    "hash": "284cf74fdd",
-    "height": 960,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACMQAAEEAQMEAwAAAAAAAAAAAAIBAwQRBQAGIRITUXExYZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAHREBAAIBBQEAAAAAAAAAAAAAAQIDABExYZHB8P/aAAwDAQACEQMRAD8AHsDG41hpVkOsGCL1d5t8CFRq05Xj9rVGfn8bGluswJW0UigtB3pACdeVT3rM9vT8VFBWn4EQml+e4HUS8Va/fqtOSwxhyDKJhW3GFrpJZhhfHi+NBVtmy3+5cdGwjWEdDvwz/9k=",
-    "width": 640
-  },
   "id": "t3_iukc5p",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/uujdc036vpn51.jpg?auto=webp&s=594b02ad8075516af7d46cae05b5453fb15f7375",
-    "preview": "https://preview.redd.it/uujdc036vpn51.jpg?width=640&crop=smart&auto=webp&s=2d7a1728e4c963a843200c9dff850eb69c355dd3",
-    "thumbnail": "https://b.thumbs.redditmedia.com/v9-M62DKR6SeRUriemiP3a0uGn44o1__c5Gh7uzd07c.jpg"
+    "filesize": 118135,
+    "fullUrl": "https://preview.redd.it/uujdc036vpn51.jpg?auto=webp&s=594b02ad8075516af7d46cae05b5453fb15f7375",
+    "hash": "284cf74fdd",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACMQAAEEAQMEAwAAAAAAAAAAAAIBAwQRBQAGIRITUXExYZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAHREBAAIBBQEAAAAAAAAAAAAAAQIDABExYZHB8P/aAAwDAQACEQMRAD8AHsDG41hpVkOsGCL1d5t8CFRq05Xj9rVGfn8bGluswJW0UigtB3pACdeVT3rM9vT8VFBWn4EQml+e4HUS8Va/fqtOSwxhyDKJhW3GFrpJZhhfHi+NBVtmy3+5cdGwjWEdDvwz/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/v9-M62DKR6SeRUriemiP3a0uGn44o1__c5Gh7uzd07c.jpg",
+    "url": "https://preview.redd.it/uujdc036vpn51.jpg?width=640&crop=smart&auto=webp&s=2d7a1728e4c963a843200c9dff850eb69c355dd3",
+    "width": 640
   },
   "score": {
     "comments": 34,

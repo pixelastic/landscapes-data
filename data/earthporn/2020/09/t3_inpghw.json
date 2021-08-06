@@ -9,21 +9,19 @@
     "month": 1598918400,
     "week": 1599350400
   },
-  "displayPicture": {
-    "filesize": 124489,
-    "hash": "0d34626a5d",
-    "height": 960,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAHhAAAgICAwEBAAAAAAAAAAAAAQIDEQAEITFhBRL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABgRAAIDAAAAAAAAAAAAAAAAAAARAQIx/9oADAMBAAIRAxEAPwDIdBpIJAdYyBxDIGKmqtTfXmQSFvkYj+TNPFrTzQSMrMhTlbFEUcOlmQ/muvMV0lKD/9k=",
-    "width": 640
-  },
   "id": "t3_inpghw",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/0yy7xlcc5kl51.jpg?auto=webp&s=c1808ba694308c93413dd31f222161dfe1ba5aae",
-    "preview": "https://preview.redd.it/0yy7xlcc5kl51.jpg?width=640&crop=smart&auto=webp&s=c98202b9161432c22ec01500c5e6d454f70c70df",
-    "thumbnail": "https://b.thumbs.redditmedia.com/I1ffJhW27lVb4PbGeUa_02Lgy1SMBoYwk9vxmE50y2I.jpg"
+    "filesize": 124489,
+    "fullUrl": "https://preview.redd.it/0yy7xlcc5kl51.jpg?auto=webp&s=c1808ba694308c93413dd31f222161dfe1ba5aae",
+    "hash": "0d34626a5d",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAHhAAAgICAwEBAAAAAAAAAAAAAQIDEQAEITFhBRL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABgRAAIDAAAAAAAAAAAAAAAAAAARAQIx/9oADAMBAAIRAxEAPwDIdBpIJAdYyBxDIGKmqtTfXmQSFvkYj+TNPFrTzQSMrMhTlbFEUcOlmQ/muvMV0lKD/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/I1ffJhW27lVb4PbGeUa_02Lgy1SMBoYwk9vxmE50y2I.jpg",
+    "url": "https://preview.redd.it/0yy7xlcc5kl51.jpg?width=640&crop=smart&auto=webp&s=c98202b9161432c22ec01500c5e6d454f70c70df",
+    "width": 640
   },
   "score": {
     "comments": 2,

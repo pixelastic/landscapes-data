@@ -9,21 +9,19 @@
     "month": 1551398400,
     "week": 1552780800
   },
-  "displayPicture": {
-    "filesize": 73797,
-    "hash": "ee709c312e",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAACAUG/8QAJBAAAgIBAwQCAwAAAAAAAAAAAQIDBCEABhEFBxIxE0EiYXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAxP/2gAMAwEAAhEDEQA/AM92z7o9U2zaDWLMstRpADTeTmMJ6xyPxb+aSmw+5e3t727lbo0s4nqqHKzx+BdCePJc5AOPr2NEGnQgkgnJBDRP8YYHJGcn96obOqtFcqvWt2q8jsyu8MngzDn1yPrHrQLdSsbkf//Z",
-    "width": 640
-  },
   "id": "t3_b27g6h",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/hzdoegt2qpm21.jpg?auto=webp&s=8d063f2fe4d6c37d2ba2975b75385984b085f819",
-    "preview": "https://preview.redd.it/hzdoegt2qpm21.jpg?width=640&crop=smart&auto=webp&s=57981f381fb5afa7bf5ae58e602cb04c8f1a350e",
-    "thumbnail": "https://b.thumbs.redditmedia.com/6r-7cvWYSF0KCWzxxaSrpVzsDK1jKDOoQeVBVohv7Tc.jpg"
+    "filesize": 73797,
+    "fullUrl": "https://preview.redd.it/hzdoegt2qpm21.jpg?auto=webp&s=8d063f2fe4d6c37d2ba2975b75385984b085f819",
+    "hash": "ee709c312e",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAACAUG/8QAJBAAAgIBAwQCAwAAAAAAAAAAAQIDBCEABhEFBxIxE0EiYXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERAxP/2gAMAwEAAhEDEQA/AM92z7o9U2zaDWLMstRpADTeTmMJ6xyPxb+aSmw+5e3t727lbo0s4nqqHKzx+BdCePJc5AOPr2NEGnQgkgnJBDRP8YYHJGcn96obOqtFcqvWt2q8jsyu8MngzDn1yPrHrQLdSsbkf//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/6r-7cvWYSF0KCWzxxaSrpVzsDK1jKDOoQeVBVohv7Tc.jpg",
+    "url": "https://preview.redd.it/hzdoegt2qpm21.jpg?width=640&crop=smart&auto=webp&s=57981f381fb5afa7bf5ae58e602cb04c8f1a350e",
+    "width": 640
   },
   "score": {
     "comments": 2,

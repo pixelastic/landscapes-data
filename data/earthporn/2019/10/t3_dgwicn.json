@@ -9,21 +9,19 @@
     "month": 1569888000,
     "week": 1570320000
   },
-  "displayPicture": {
-    "filesize": 205707,
-    "hash": "01d9a964ea",
-    "height": 853,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQIDBBExAAUGIRNBYSL/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EAB0RAAEEAgMAAAAAAAAAAAAAAAEAAgMRExQhUcH/2gAMAwEAAhEDEQA/AJ8A5ZVba3mjdauJnYPE7Fr4tZs3+41pU3JdvkMrTlfIGCkTIGK2RQRcerg6JJyGaSrE0ssYiRbqlOhjEhtYhjk++tGtzp66v3ConR4lQvZVCN+fnWeye9Rh3BCHEjnu78S7FkLQv//Z",
-    "width": 640
-  },
   "id": "t3_dgwicn",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/gan72ndzn4s31.jpg?auto=webp&s=0a3273825380880bfc0ebbe077e6f5409eebed18",
-    "preview": "https://preview.redd.it/gan72ndzn4s31.jpg?width=640&crop=smart&auto=webp&s=4b8613654903a4d575a58e6c276e81d37409e6f0",
-    "thumbnail": "https://b.thumbs.redditmedia.com/sEFVQVtesfDorThVmkRiY_1IX2Bj_t5BV-ZZsRiUacQ.jpg"
+    "filesize": 205707,
+    "fullUrl": "https://preview.redd.it/gan72ndzn4s31.jpg?auto=webp&s=0a3273825380880bfc0ebbe077e6f5409eebed18",
+    "hash": "01d9a964ea",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQIDBBExAAUGIRNBYSL/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EAB0RAAEEAgMAAAAAAAAAAAAAAAEAAgMRExQhUcH/2gAMAwEAAhEDEQA/AJ8A5ZVba3mjdauJnYPE7Fr4tZs3+41pU3JdvkMrTlfIGCkTIGK2RQRcerg6JJyGaSrE0ssYiRbqlOhjEhtYhjk++tGtzp66v3ConR4lQvZVCN+fnWeye9Rh3BCHEjnu78S7FkLQv//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/sEFVQVtesfDorThVmkRiY_1IX2Bj_t5BV-ZZsRiUacQ.jpg",
+    "url": "https://preview.redd.it/gan72ndzn4s31.jpg?width=640&crop=smart&auto=webp&s=4b8613654903a4d575a58e6c276e81d37409e6f0",
+    "width": 640
   },
   "score": {
     "comments": 5,

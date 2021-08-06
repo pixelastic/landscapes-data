@@ -9,21 +9,19 @@
     "month": 1333238400,
     "week": 1335052800
   },
-  "displayPicture": {
-    "filesize": 103979,
-    "hash": "f234bb551b",
-    "height": 610,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYI/8QAKBAAAQMCBAQHAAAAAAAAAAAAAQIDBQQRABMhMQZBYYEHEhUiIzIz/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABsRAQACAgMAAAAAAAAAAAAAAAECEQADBBIT/9oADAMBAAIRAxEAPwBsPx5LpQhuSp6StbKSk5y/eQeRUNT3xVK8RIOkpFokKFNMhemWk5h2vcEDTY74z1Aep8TtKczxHxiF/LUI1cIH2sO+DcXSbdORCxiDlN/q84SXFDfyk9bAm2nLrg4ciQ+Y240tIneqM//Z",
-    "width": 640
-  },
   "id": "t3_spw84",
   "misc": {
     "postHint": "link"
   },
   "picture": {
-    "full": "https://external-preview.redd.it/5ovZonjYcd0rHS4w2RrfrSyJdNOAi3Qmmtzyyb85IEU.jpg?auto=webp&s=f03060311649aaa31667fd7e1da731f3cc14077d",
-    "preview": "https://external-preview.redd.it/5ovZonjYcd0rHS4w2RrfrSyJdNOAi3Qmmtzyyb85IEU.jpg?width=640&crop=smart&auto=webp&s=e7ccb11b21b01818cbcb68320f995661282785e8",
-    "thumbnail": "https://a.thumbs.redditmedia.com/axcvcpZplRfcZZ9oOHBknwywIXcJdKr1ygPFQycH7K4.jpg"
+    "filesize": 103979,
+    "fullUrl": "https://external-preview.redd.it/5ovZonjYcd0rHS4w2RrfrSyJdNOAi3Qmmtzyyb85IEU.jpg?auto=webp&s=f03060311649aaa31667fd7e1da731f3cc14077d",
+    "hash": "f234bb551b",
+    "height": 610,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYI/8QAKBAAAQMCBAQHAAAAAAAAAAAAAQIDBQQRABMhMQZBYYEHEhUiIzIz/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABsRAQACAgMAAAAAAAAAAAAAAAECEQADBBIT/9oADAMBAAIRAxEAPwBsPx5LpQhuSp6StbKSk5y/eQeRUNT3xVK8RIOkpFokKFNMhemWk5h2vcEDTY74z1Aep8TtKczxHxiF/LUI1cIH2sO+DcXSbdORCxiDlN/q84SXFDfyk9bAm2nLrg4ciQ+Y240tIneqM//Z",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/axcvcpZplRfcZZ9oOHBknwywIXcJdKr1ygPFQycH7K4.jpg",
+    "url": "https://external-preview.redd.it/5ovZonjYcd0rHS4w2RrfrSyJdNOAi3Qmmtzyyb85IEU.jpg?width=640&crop=smart&auto=webp&s=e7ccb11b21b01818cbcb68320f995661282785e8",
+    "width": 640
   },
   "score": {
     "comments": 0,

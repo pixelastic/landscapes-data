@@ -9,21 +9,19 @@
     "month": 1475280000,
     "week": 1476576000
   },
-  "displayPicture": {
-    "filesize": 71244,
-    "hash": "aa9da3e61d",
-    "height": 427,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAJBAAAgIBAwQCAwAAAAAAAAAAAQIDBBEABiEFEhMiMUEUYYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAAwQRMf/aAAwDAQACEQMRAD8Ap7H3uYriVLcYsRIPaRQC7c8duTzjHxom9dzWr8lr8ZKdaESMFIceUfQ7gOf5rJVZpYulU5EkcPIvcxJzkjIHz+tA6pO92VTZEbtIqB38ahjlWz7AZ+hoW03ooYt7GGasnnJ//9k=",
-    "width": 640
-  },
   "id": "t3_58muki",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/dsm74x2bjtsx.jpg?auto=webp&s=947999e6b59d694ebd2e4f62cacf8474fc8f4e20",
-    "preview": "https://preview.redd.it/dsm74x2bjtsx.jpg?width=640&crop=smart&auto=webp&s=e9364878bb4c206600783151ccfc6417169ffa91",
-    "thumbnail": "https://b.thumbs.redditmedia.com/7o9rzZzaBsmV3Nf3ZjML5qACg2OhU3J_CMWoxFWpKnk.jpg"
+    "filesize": 71244,
+    "fullUrl": "https://preview.redd.it/dsm74x2bjtsx.jpg?auto=webp&s=947999e6b59d694ebd2e4f62cacf8474fc8f4e20",
+    "hash": "aa9da3e61d",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAJBAAAgIBAwQCAwAAAAAAAAAAAQIDBBEABiEFEhMiMUEUYYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAAwQRMf/aAAwDAQACEQMRAD8Ap7H3uYriVLcYsRIPaRQC7c8duTzjHxom9dzWr8lr8ZKdaESMFIceUfQ7gOf5rJVZpYulU5EkcPIvcxJzkjIHz+tA6pO92VTZEbtIqB38ahjlWz7AZ+hoW03ooYt7GGasnnJ//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/7o9rzZzaBsmV3Nf3ZjML5qACg2OhU3J_CMWoxFWpKnk.jpg",
+    "url": "https://preview.redd.it/dsm74x2bjtsx.jpg?width=640&crop=smart&auto=webp&s=e9364878bb4c206600783151ccfc6417169ffa91",
+    "width": 640
   },
   "score": {
     "comments": 0,

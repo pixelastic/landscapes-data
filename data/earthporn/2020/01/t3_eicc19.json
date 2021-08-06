@@ -9,21 +9,19 @@
     "month": 1577836800,
     "week": 1577577600
   },
-  "displayPicture": {
-    "filesize": 135505,
-    "hash": "e20fa581e9",
-    "height": 800,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFB//EACcQAAECBQMCBwAAAAAAAAAAAAIBAwAFERIhBAYTB1EUIiNBUpGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABoRAQEAAgMAAAAAAAAAAAAAAAIBAAQhMZH/2gAMAwEAAhEDEQA/AKGp6jbITjJWNUHJkbxRK/sLPfu3AESLSvNAVbVcol1O2cxjEqZ1jTZrJJaHiwJPO21eC4+Z4xT2gZm9MVVldwyiZPv2+m60SJUey0Ra0+8w1sOzhX3AAZ2Zn//Z",
-    "width": 640
-  },
   "id": "t3_eicc19",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/kcfyirrfp2841.jpg?auto=webp&s=cef503c6c97d0c1c800003277b4e64d17796078e",
-    "preview": "https://preview.redd.it/kcfyirrfp2841.jpg?width=640&crop=smart&auto=webp&s=54bbf8731e7119639af42a24844ea28d70116e4a",
-    "thumbnail": "https://b.thumbs.redditmedia.com/dp13jWHo5qxkMnK_IkZL4ZZhayzwqnD2_bD1NyscF-s.jpg"
+    "filesize": 135505,
+    "fullUrl": "https://preview.redd.it/kcfyirrfp2841.jpg?auto=webp&s=cef503c6c97d0c1c800003277b4e64d17796078e",
+    "hash": "e20fa581e9",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFB//EACcQAAECBQMCBwAAAAAAAAAAAAIBAwAFERIhBAYTB1EUIiNBUpGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABoRAQEAAgMAAAAAAAAAAAAAAAIBAAQhMZH/2gAMAwEAAhEDEQA/AKGp6jbITjJWNUHJkbxRK/sLPfu3AESLSvNAVbVcol1O2cxjEqZ1jTZrJJaHiwJPO21eC4+Z4xT2gZm9MVVldwyiZPv2+m60SJUey0Ra0+8w1sOzhX3AAZ2Zn//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/dp13jWHo5qxkMnK_IkZL4ZZhayzwqnD2_bD1NyscF-s.jpg",
+    "url": "https://preview.redd.it/kcfyirrfp2841.jpg?width=640&crop=smart&auto=webp&s=54bbf8731e7119639af42a24844ea28d70116e4a",
+    "width": 640
   },
   "score": {
     "comments": 10,

@@ -9,21 +9,19 @@
     "month": 1506816000,
     "week": 1507420800
   },
-  "displayPicture": {
-    "filesize": 148563,
-    "hash": "48181f29d5",
-    "height": 960,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgEE/8QAJxAAAgEDAgMJAAAAAAAAAAAAAQIDBBEhAAUHEoEGExQWMUFCcXL/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAHREAAQMFAQAAAAAAAAAAAAAAAQACEQMhMXHB8P/aAAwDAQACEQMRAD8AUVnEzZI6bu6QoUHKEJBYgYubD79PfWOfinsaysFo5nUfLlYX6W0STynudLJ4cNRyKyhI5rpcYvkZtjpqzbR2OaQlNymRTYhRMSBj9aOypOO8TSHG4j21/9k=",
-    "width": 640
-  },
   "id": "t3_75jmst",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/v4e5rc1f42rz.jpg?auto=webp&s=6bcef345a192d7bcaee4b2029045557a54a96f3e",
-    "preview": "https://preview.redd.it/v4e5rc1f42rz.jpg?width=640&crop=smart&auto=webp&s=debd99957bfce071c8b0b89e99034b615505b95c",
-    "thumbnail": "https://b.thumbs.redditmedia.com/QM9XHn0CySBXeo_odvyNLp5Ojk7s1s08yiPvLMEbYkI.jpg"
+    "filesize": 148563,
+    "fullUrl": "https://preview.redd.it/v4e5rc1f42rz.jpg?auto=webp&s=6bcef345a192d7bcaee4b2029045557a54a96f3e",
+    "hash": "48181f29d5",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgEE/8QAJxAAAgEDAgMJAAAAAAAAAAAAAQIDBBEhAAUHEoEGExQWMUFCcXL/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAHREAAQMFAQAAAAAAAAAAAAAAAQACEQMhMXHB8P/aAAwDAQACEQMRAD8AUVnEzZI6bu6QoUHKEJBYgYubD79PfWOfinsaysFo5nUfLlYX6W0STynudLJ4cNRyKyhI5rpcYvkZtjpqzbR2OaQlNymRTYhRMSBj9aOypOO8TSHG4j21/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/QM9XHn0CySBXeo_odvyNLp5Ojk7s1s08yiPvLMEbYkI.jpg",
+    "url": "https://preview.redd.it/v4e5rc1f42rz.jpg?width=640&crop=smart&auto=webp&s=debd99957bfce071c8b0b89e99034b615505b95c",
+    "width": 640
   },
   "score": {
     "comments": 37,

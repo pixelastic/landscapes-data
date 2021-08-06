@@ -9,21 +9,19 @@
     "month": 1546300800,
     "week": 1547337600
   },
-  "displayPicture": {
-    "filesize": 77569,
-    "hash": "82120f8d0b",
-    "height": 504,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEE/8QAJBAAAgECBQQDAAAAAAAAAAAAAQIDBAUAERITIQYiMUFRgcH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EAB0RAAEDBQEAAAAAAAAAAAAAAAEAAhEDEhMhMaH/2gAMAwEAAhEDEQA/ABOlaxKS1RrdLPV7LDRGwCMW49dwODOpGt89I7wW2vKHjVtrkD8HJjzi2y6S1MES1C6tpSFZWKsOfGY9Y0VtxSit80UFPxL3yFpCSx/PrCZapdBi31Qy8P5pf//Z",
-    "width": 640
-  },
   "id": "t3_ah37fx",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/n2shqxig42b21.jpg?auto=webp&s=477b08a5f977077a315adf309903ef120defed8b",
-    "preview": "https://preview.redd.it/n2shqxig42b21.jpg?width=640&crop=smart&auto=webp&s=3ec453965e56f51c345208b99fce6bbdd1e3feb2",
-    "thumbnail": "https://b.thumbs.redditmedia.com/E9MbqL4YSIwcSRJ0b_VKxZogbkvzmIBT6hpIKJEnGbw.jpg"
+    "filesize": 77569,
+    "fullUrl": "https://preview.redd.it/n2shqxig42b21.jpg?auto=webp&s=477b08a5f977077a315adf309903ef120defed8b",
+    "hash": "82120f8d0b",
+    "height": 504,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEE/8QAJBAAAgECBQQDAAAAAAAAAAAAAQIDBAUAERITIQYiMUFRgcH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EAB0RAAEDBQEAAAAAAAAAAAAAAAEAAhEDEhMhMaH/2gAMAwEAAhEDEQA/ABOlaxKS1RrdLPV7LDRGwCMW49dwODOpGt89I7wW2vKHjVtrkD8HJjzi2y6S1MES1C6tpSFZWKsOfGY9Y0VtxSit80UFPxL3yFpCSx/PrCZapdBi31Qy8P5pf//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/E9MbqL4YSIwcSRJ0b_VKxZogbkvzmIBT6hpIKJEnGbw.jpg",
+    "url": "https://preview.redd.it/n2shqxig42b21.jpg?width=640&crop=smart&auto=webp&s=3ec453965e56f51c345208b99fce6bbdd1e3feb2",
+    "width": 640
   },
   "score": {
     "comments": 9,

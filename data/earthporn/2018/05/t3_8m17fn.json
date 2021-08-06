@@ -9,21 +9,19 @@
     "month": 1525132800,
     "week": 1526774400
   },
-  "displayPicture": {
-    "filesize": 71677,
-    "hash": "fa45b59237",
-    "height": 640,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJBAAAgEEAAUFAAAAAAAAAAAAAQIDAAQFEQYSEzFRFCEiMkH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EAB0RAAEDBQEAAAAAAAAAAAAAAAIAAzIBBBEUIYH/2gAMAwEAAhEDEQA/AH/EMOInMsovLcRjZOgQAPJJNBr2wxY1KbpfTsOYSKBog9vcmsLyXFOeznUWFriGJ2+qnlUDxv8Aas4OTJNjWtb+GNySCjO5YDXb4jdIXrjIy74o0xeKOKL/2Q==",
-    "width": 640
-  },
   "id": "t3_8m17fn",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/q4owecg8szz01.jpg?auto=webp&s=c1740d15e67509fc333820d9d29992e0b8200588",
-    "preview": "https://preview.redd.it/q4owecg8szz01.jpg?width=640&crop=smart&auto=webp&s=5edbd414405349fb7b071ad314f26aab5b38315e",
-    "thumbnail": "https://b.thumbs.redditmedia.com/fCKAppRV20MqqHNmhZptdGKUwPQKO_l3y4xcZEDSYNE.jpg"
+    "filesize": 71677,
+    "fullUrl": "https://preview.redd.it/q4owecg8szz01.jpg?auto=webp&s=c1740d15e67509fc333820d9d29992e0b8200588",
+    "hash": "fa45b59237",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJBAAAgEEAAUFAAAAAAAAAAAAAQIDAAQFEQYSEzFRFCEiMkH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EAB0RAAEDBQEAAAAAAAAAAAAAAAIAAzIBBBEUIYH/2gAMAwEAAhEDEQA/AH/EMOInMsovLcRjZOgQAPJJNBr2wxY1KbpfTsOYSKBog9vcmsLyXFOeznUWFriGJ2+qnlUDxv8Aas4OTJNjWtb+GNySCjO5YDXb4jdIXrjIy74o0xeKOKL/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/fCKAppRV20MqqHNmhZptdGKUwPQKO_l3y4xcZEDSYNE.jpg",
+    "url": "https://preview.redd.it/q4owecg8szz01.jpg?width=640&crop=smart&auto=webp&s=5edbd414405349fb7b071ad314f26aab5b38315e",
+    "width": 640
   },
   "score": {
     "comments": 1,

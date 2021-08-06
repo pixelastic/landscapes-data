@@ -9,21 +9,19 @@
     "month": 1564617600,
     "week": 1566086400
   },
-  "displayPicture": {
-    "filesize": 128214,
-    "hash": "e889cc940c",
-    "height": 853,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACgQAAICAQIDCAMAAAAAAAAAAAECAwUEAAYREiIHExUhMTJBgUJRsf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIABBEx/9oADAMBAAIRAxEAPwAvaVpt6iqcY513FHLKBK4kJLEj0Ht6ioIH1qjyu1PaLS9VmkhAA5lxnP8ABrHq66mrsfwuxrcbLwVdm7jJTmaM/kUb4+jpiabZdiq5McUsQccTGrcAp/XmdIlwOO4RJ3VlOYZ//9k=",
-    "width": 640
-  },
   "id": "t3_csrd4d",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/32s1gjaxhih31.jpg?auto=webp&s=6c30ec2c6ddfa31e5bda19a5c6072115c6155826",
-    "preview": "https://preview.redd.it/32s1gjaxhih31.jpg?width=640&crop=smart&auto=webp&s=226cadb819e97696c0aac0d5f19c2ed56f92bebd",
-    "thumbnail": "https://b.thumbs.redditmedia.com/YXpAy1_ii5FkNgezM30lpgNB81WdmwCkUkaJSJbGvXE.jpg"
+    "filesize": 128214,
+    "fullUrl": "https://preview.redd.it/32s1gjaxhih31.jpg?auto=webp&s=6c30ec2c6ddfa31e5bda19a5c6072115c6155826",
+    "hash": "e889cc940c",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACgQAAICAQIDCAMAAAAAAAAAAAECAwUEAAYREiIHExUhMTJBgUJRsf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIABBEx/9oADAMBAAIRAxEAPwAvaVpt6iqcY513FHLKBK4kJLEj0Ht6ioIH1qjyu1PaLS9VmkhAA5lxnP8ABrHq66mrsfwuxrcbLwVdm7jJTmaM/kUb4+jpiabZdiq5McUsQccTGrcAp/XmdIlwOO4RJ3VlOYZ//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/YXpAy1_ii5FkNgezM30lpgNB81WdmwCkUkaJSJbGvXE.jpg",
+    "url": "https://preview.redd.it/32s1gjaxhih31.jpg?width=640&crop=smart&auto=webp&s=226cadb819e97696c0aac0d5f19c2ed56f92bebd",
+    "width": 640
   },
   "score": {
     "comments": 2,

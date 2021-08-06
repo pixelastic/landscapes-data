@@ -8,21 +8,19 @@
     "month": 1548979200,
     "week": 1549756800
   },
-  "displayPicture": {
-    "filesize": 146451,
-    "hash": "dc104638ba",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAJhAAAgECBAUFAAAAAAAAAAAAAQIDBBEABSFBBhITIoEUI1FhYv/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAHREAAgIBBQAAAAAAAAAAAAAAAQIAAwQREiGR8P/aAAwDAQACEQMRAD8AinyPPpaCqjqcsflntOXcJ2BW0K3P62+sH6jhYNUQeqjSkeWSw6zAagE3Ot9jjUK5SQjTu1RdQSJu8b20PxbAPOq+qqlmjlmf2ZSqOpsw8+cTZODsXUMfdQqrwq8Cf//Z",
-    "width": 640
-  },
   "id": "t3_ap2s8t",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/yqlx461fwpf21.jpg?auto=webp&s=8d966417a1148b26958a4bc934010dfc2a363b63",
-    "preview": "https://preview.redd.it/yqlx461fwpf21.jpg?width=640&crop=smart&auto=webp&s=819a03df93674454559300813f3617cc5df96b61",
-    "thumbnail": "https://b.thumbs.redditmedia.com/2mc9qb58iusQlwFaU49gPYwssWRNXyT_LbvIR6N3fwk.jpg"
+    "filesize": 146451,
+    "fullUrl": "https://preview.redd.it/yqlx461fwpf21.jpg?auto=webp&s=8d966417a1148b26958a4bc934010dfc2a363b63",
+    "hash": "dc104638ba",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAJhAAAgECBAUFAAAAAAAAAAAAAQIDBBEABSFBBhITIoEUI1FhYv/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAHREAAgIBBQAAAAAAAAAAAAAAAQIAAwQREiGR8P/aAAwDAQACEQMRAD8AinyPPpaCqjqcsflntOXcJ2BW0K3P62+sH6jhYNUQeqjSkeWSw6zAagE3Ot9jjUK5SQjTu1RdQSJu8b20PxbAPOq+qqlmjlmf2ZSqOpsw8+cTZODsXUMfdQqrwq8Cf//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/2mc9qb58iusQlwFaU49gPYwssWRNXyT_LbvIR6N3fwk.jpg",
+    "url": "https://preview.redd.it/yqlx461fwpf21.jpg?width=640&crop=smart&auto=webp&s=819a03df93674454559300813f3617cc5df96b61",
+    "width": 640
   },
   "score": {
     "comments": 8,

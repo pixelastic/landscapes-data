@@ -8,21 +8,19 @@
     "month": 1514764800,
     "week": 1514678400
   },
-  "displayPicture": {
-    "filesize": 60733,
-    "hash": "0e89098553",
-    "height": 320,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAP/xAAiEAABAwQBBQEAAAAAAAAAAAABAgMRAAQFIRMGEiMxQYL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAA//EABcRAQEBAQAAAAAAAAAAAAAAAAEAAhH/2gAMAwEAAhEDEQA/AKWN91U6htu1zPKU6THjP6EbqmcYzauAqyNwXgSIWCpPfBjevnqlKOkpgdv/2Q==",
-    "width": 640
-  },
   "id": "t3_7ojxtz",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/3ixs2jkpxg801.jpg?auto=webp&s=5a5c679349130955b0de954ab0c30e93686bd946",
-    "preview": "https://preview.redd.it/3ixs2jkpxg801.jpg?width=640&crop=smart&auto=webp&s=d89a4475d3666bb603aa3c57960e7585c98d68ec",
-    "thumbnail": "https://b.thumbs.redditmedia.com/KDi_JD3t9LbvDpliWj0zCo2cJ96_lYpqKEdw0aBMUvM.jpg"
+    "filesize": 60733,
+    "fullUrl": "https://preview.redd.it/3ixs2jkpxg801.jpg?auto=webp&s=5a5c679349130955b0de954ab0c30e93686bd946",
+    "hash": "0e89098553",
+    "height": 320,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAP/xAAiEAABAwQBBQEAAAAAAAAAAAABAgMRAAQFIRMGEiMxQYL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAA//EABcRAQEBAQAAAAAAAAAAAAAAAAEAAhH/2gAMAwEAAhEDEQA/AKWN91U6htu1zPKU6THjP6EbqmcYzauAqyNwXgSIWCpPfBjevnqlKOkpgdv/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/KDi_JD3t9LbvDpliWj0zCo2cJ96_lYpqKEdw0aBMUvM.jpg",
+    "url": "https://preview.redd.it/3ixs2jkpxg801.jpg?width=640&crop=smart&auto=webp&s=d89a4475d3666bb603aa3c57960e7585c98d68ec",
+    "width": 640
   },
   "score": {
     "comments": 0,

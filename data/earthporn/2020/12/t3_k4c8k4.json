@@ -9,21 +9,19 @@
     "month": 1606780800,
     "week": 1606608000
   },
-  "displayPicture": {
-    "filesize": 129372,
-    "hash": "17c704f8bd",
-    "height": 805,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgAF/8QAJBAAAQMDAwUBAQAAAAAAAAAAAgEDBAURIQASUQYHIjFBEyT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAIDAQAAAAAAAAAAAAAAAAECAAQRIv/aAAwDAQACEQMRAD8Au3M2E8LFFmfzSWmt7ROr4vDklsq+lTjjWvVO4LVOmnD6dGLKYaw4+WRI+Bt8Tn7o9V6bLOmgyKo/Hsv6iwwKnlLLtQsW+20VTp+bFFBpzJyoyqu1xfAscivpdEsavRlDVAfRP//Z",
-    "width": 640
-  },
   "id": "t3_k4c8k4",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/nd1hote9sh261.jpg?auto=webp&s=1ac51dd95790682f59070c2cab3e587067a5c563",
-    "preview": "https://preview.redd.it/nd1hote9sh261.jpg?width=640&crop=smart&auto=webp&s=93d60af2f7c2c339f922aeb2f9d42b3f107f9749",
-    "thumbnail": "https://b.thumbs.redditmedia.com/367mbZB5B7dV7cFoX1kGehB1bPWVF03sC5-9VTeCm2s.jpg"
+    "filesize": 129372,
+    "fullUrl": "https://preview.redd.it/nd1hote9sh261.jpg?auto=webp&s=1ac51dd95790682f59070c2cab3e587067a5c563",
+    "hash": "17c704f8bd",
+    "height": 805,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgAF/8QAJBAAAQMDAwUBAQAAAAAAAAAAAgEDBAURIQASUQYHIjFBEyT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAIDAQAAAAAAAAAAAAAAAAECAAQRIv/aAAwDAQACEQMRAD8Au3M2E8LFFmfzSWmt7ROr4vDklsq+lTjjWvVO4LVOmnD6dGLKYaw4+WRI+Bt8Tn7o9V6bLOmgyKo/Hsv6iwwKnlLLtQsW+20VTp+bFFBpzJyoyqu1xfAscivpdEsavRlDVAfRP//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/367mbZB5B7dV7cFoX1kGehB1bPWVF03sC5-9VTeCm2s.jpg",
+    "url": "https://preview.redd.it/nd1hote9sh261.jpg?width=640&crop=smart&auto=webp&s=93d60af2f7c2c339f922aeb2f9d42b3f107f9749",
+    "width": 640
   },
   "score": {
     "comments": 7,

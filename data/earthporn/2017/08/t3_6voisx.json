@@ -9,21 +9,19 @@
     "month": 1501545600,
     "week": 1503187200
   },
-  "displayPicture": {
-    "filesize": 111850,
-    "hash": "e77ca3a723",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgP/xAAjEAACAQMEAgMBAAAAAAAAAAABAgMEBREABhIxIUETJDJR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAbEQEAAgIDAAAAAAAAAAAAAAABAgMABREUI//aAAwDAQACEQMRAD8AnablbaawfPO1MZFY5imbjkD2rYx76OgFy3dJW3545oo6OjC5SmDhhxI7JHZP8OncVDxhrvsSFIJjGiFI+IUjyPzoduLbdBV1rvxaFlcKDDxXHnvrvUpsLJVFE5KOLpRPUDnP/9k=",
-    "width": 640
-  },
   "id": "t3_6voisx",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/qo8bh9a35mhz.jpg?auto=webp&s=30d65445a343a703e17b952cbde1cad59ffed773",
-    "preview": "https://preview.redd.it/qo8bh9a35mhz.jpg?width=640&crop=smart&auto=webp&s=c67fb3a9ef0890f176212720271ce3eade0cf5e2",
-    "thumbnail": "https://b.thumbs.redditmedia.com/MK1rKrIBFicvC_sSILVkOh3JWnvflBRUqgUW9RJndgc.jpg"
+    "filesize": 111850,
+    "fullUrl": "https://preview.redd.it/qo8bh9a35mhz.jpg?auto=webp&s=30d65445a343a703e17b952cbde1cad59ffed773",
+    "hash": "e77ca3a723",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgP/xAAjEAACAQMEAgMBAAAAAAAAAAABAgMEBREABhIxIUETJDJR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAbEQEAAgIDAAAAAAAAAAAAAAABAgMABREUI//aAAwDAQACEQMRAD8AnablbaawfPO1MZFY5imbjkD2rYx76OgFy3dJW3545oo6OjC5SmDhhxI7JHZP8OncVDxhrvsSFIJjGiFI+IUjyPzoduLbdBV1rvxaFlcKDDxXHnvrvUpsLJVFE5KOLpRPUDnP/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/MK1rKrIBFicvC_sSILVkOh3JWnvflBRUqgUW9RJndgc.jpg",
+    "url": "https://preview.redd.it/qo8bh9a35mhz.jpg?width=640&crop=smart&auto=webp&s=c67fb3a9ef0890f176212720271ce3eade0cf5e2",
+    "width": 640
   },
   "score": {
     "comments": 0,

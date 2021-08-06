@@ -9,21 +9,19 @@
     "month": 1535760000,
     "week": 1535846400
   },
-  "displayPicture": {
-    "filesize": 166852,
-    "hash": "6e86ba49b8",
-    "height": 853,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAJxAAAQMCBAUFAAAAAAAAAAAAAQIDBAURABIhIgYHEzFBUVJhgeH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBf/EAB0RAAICAQUAAAAAAAAAAAAAAAECAAMSBTGRodH/2gAMAwEAAhEDEQA/AL8y+KxRKQwilMFuoSFBCXshs15URpYnUAfmMnE5hyi1lmPz2nkbVdFGZKz7ht0v6YXxBIk1iEhiodIMpOZDiVXtbW4+jrgDVNpUdsJcqMdKlDNuT3+e+GKQV37kyzUmV8cDwfJ//9k=",
-    "width": 640
-  },
   "id": "t3_9d032j",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/easoi8ullak11.jpg?auto=webp&s=c40c9873b7ffc0231cc2ca4f418bb2b5789fe031",
-    "preview": "https://preview.redd.it/easoi8ullak11.jpg?width=640&crop=smart&auto=webp&s=acd192f2b764be3eeb36970f17f941ba45275666",
-    "thumbnail": "https://b.thumbs.redditmedia.com/0i1i0XYujjeeq8dFYLU6Vx710TEJy4_ud0OByiKPUZc.jpg"
+    "filesize": 166852,
+    "fullUrl": "https://preview.redd.it/easoi8ullak11.jpg?auto=webp&s=c40c9873b7ffc0231cc2ca4f418bb2b5789fe031",
+    "hash": "6e86ba49b8",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAJxAAAQMCBAUFAAAAAAAAAAAAAQIDBAURABIhIgYHEzFBUVJhgeH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBf/EAB0RAAICAQUAAAAAAAAAAAAAAAECAAMSBTGRodH/2gAMAwEAAhEDEQA/AL8y+KxRKQwilMFuoSFBCXshs15URpYnUAfmMnE5hyi1lmPz2nkbVdFGZKz7ht0v6YXxBIk1iEhiodIMpOZDiVXtbW4+jrgDVNpUdsJcqMdKlDNuT3+e+GKQV37kyzUmV8cDwfJ//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/0i1i0XYujjeeq8dFYLU6Vx710TEJy4_ud0OByiKPUZc.jpg",
+    "url": "https://preview.redd.it/easoi8ullak11.jpg?width=640&crop=smart&auto=webp&s=acd192f2b764be3eeb36970f17f941ba45275666",
+    "width": 640
   },
   "score": {
     "comments": 6,

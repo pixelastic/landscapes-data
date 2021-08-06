@@ -9,21 +9,19 @@
     "month": 1551398400,
     "week": 1553385600
   },
-  "displayPicture": {
-    "filesize": 66158,
-    "hash": "cff615e252",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAkEAACAQMDAwUAAAAAAAAAAAABAwIEBREAB0EGISISE0Jhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAHREAAQQCAwAAAAAAAAAAAAAAAgABAwQFERMhIv/aAAwDAQACEQMRAD8Ac9Mb2InZKAXGkL6mChFr4SADCO3qA4yMH9yNAt0906q/XCSrfNlPbFeK1Z8pnmUsc/XGpFaEphVqAV3AlLPuTBzgniWkca+C6ebWW+iqGBKmiToyODInPy0BzFeHvjfakOjPN5Y9Cv/Z",
-    "width": 640
-  },
   "id": "t3_b63qia",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/ky2gn132lno21.jpg?auto=webp&s=016769135c8617f1a90508b8e3eb33b36f04e378",
-    "preview": "https://preview.redd.it/ky2gn132lno21.jpg?width=640&crop=smart&auto=webp&s=3f2bf95ec83a7ea9e44f30a6810a3e563e312bc1",
-    "thumbnail": "https://a.thumbs.redditmedia.com/Yc65NucwupzxGIfYp32cN925W0SVxhHdsTxAtY5KGA4.jpg"
+    "filesize": 66158,
+    "fullUrl": "https://preview.redd.it/ky2gn132lno21.jpg?auto=webp&s=016769135c8617f1a90508b8e3eb33b36f04e378",
+    "hash": "cff615e252",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAkEAACAQMDAwUAAAAAAAAAAAABAwIEBREAB0EGISISE0Jhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAHREAAQQCAwAAAAAAAAAAAAAAAgABAwQFERMhIv/aAAwDAQACEQMRAD8Ac9Mb2InZKAXGkL6mChFr4SADCO3qA4yMH9yNAt0906q/XCSrfNlPbFeK1Z8pnmUsc/XGpFaEphVqAV3AlLPuTBzgniWkca+C6ebWW+iqGBKmiToyODInPy0BzFeHvjfakOjPN5Y9Cv/Z",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/Yc65NucwupzxGIfYp32cN925W0SVxhHdsTxAtY5KGA4.jpg",
+    "url": "https://preview.redd.it/ky2gn132lno21.jpg?width=640&crop=smart&auto=webp&s=3f2bf95ec83a7ea9e44f30a6810a3e563e312bc1",
+    "width": 640
   },
   "score": {
     "comments": 0,

@@ -9,21 +9,19 @@
     "month": 1522540800,
     "week": 1524355200
   },
-  "displayPicture": {
-    "filesize": 93622,
-    "hash": "3eee150cd6",
-    "height": 428,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIxAAAQMEAgEFAAAAAAAAAAAAAQIDBAAFERIGIYETFDFCkf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAHBEAAQQDAQAAAAAAAAAAAAAAAgABBBMDEiFB/9oADAMBAAIRAxEAPwADxi5P2dbcee0qTER8arCFtpB71yMHzUHNJN5uU5yRKU8zbSfUitE7Bts9DOMDbFbvF2kSpUT3KQ6CvsK7H5RC5S5Ey8ylyXVOKQohJP1AUQAPAAqAz5GQanLjI0iJb+uv/9k=",
-    "width": 640
-  },
   "id": "t3_8ecpo7",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/21vt2km3pot01.jpg?auto=webp&s=5f609af61ff897106ef4877347f35ec376e4ec86",
-    "preview": "https://preview.redd.it/21vt2km3pot01.jpg?width=640&crop=smart&auto=webp&s=9d7f0fe93a2894b803959203509f838fad01d454",
-    "thumbnail": "https://a.thumbs.redditmedia.com/KD1gEsQDGbWPZH7I798Cx8u0lOhT8an9DgKEZJu4FB4.jpg"
+    "filesize": 93622,
+    "fullUrl": "https://preview.redd.it/21vt2km3pot01.jpg?auto=webp&s=5f609af61ff897106ef4877347f35ec376e4ec86",
+    "hash": "3eee150cd6",
+    "height": 428,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIxAAAQMEAgEFAAAAAAAAAAAAAQIDBAAFERIGIYETFDFCkf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAHBEAAQQDAQAAAAAAAAAAAAAAAgABBBMDEiFB/9oADAMBAAIRAxEAPwADxi5P2dbcee0qTER8arCFtpB71yMHzUHNJN5uU5yRKU8zbSfUitE7Bts9DOMDbFbvF2kSpUT3KQ6CvsK7H5RC5S5Ey8ylyXVOKQohJP1AUQAPAAqAz5GQanLjI0iJb+uv/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/KD1gEsQDGbWPZH7I798Cx8u0lOhT8an9DgKEZJu4FB4.jpg",
+    "url": "https://preview.redd.it/21vt2km3pot01.jpg?width=640&crop=smart&auto=webp&s=9d7f0fe93a2894b803959203509f838fad01d454",
+    "width": 640
   },
   "score": {
     "comments": 3,

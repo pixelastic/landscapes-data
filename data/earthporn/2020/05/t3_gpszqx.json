@@ -8,21 +8,19 @@
     "month": 1588291200,
     "week": 1590278400
   },
-  "displayPicture": {
-    "filesize": 61783,
-    "hash": "25d216f218",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwf/xAAlEAABBAEDAgcAAAAAAAAAAAABAgMEBREABhIhMQciMkGBkaH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABkRAQACAwAAAAAAAAAAAAAAAAIAAQMhMf/aAAwDAQACEQMRAD8AWohWVOsLnzZ1hyPKGy1kmUMZKVoWOaSR6cdzod43UJFSWYtvKh7gTJVzbLSkpQ2B0SMjBOffQ+E1hJuLaqTZOqk4ktpCnDk45Ed/j9OqVv8Ap4MF7EBhMYpHRTY832cnUcjQPYkFXqp//9k=",
-    "width": 640
-  },
   "id": "t3_gpszqx",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/liby23e1tq051.jpg?auto=webp&s=d89677b053a2162a0d0262fc28cee075a0b8efba",
-    "preview": "https://preview.redd.it/liby23e1tq051.jpg?width=640&crop=smart&auto=webp&s=db96f2625322e46191f75065c619da9a706acde3",
-    "thumbnail": "https://a.thumbs.redditmedia.com/mRF7NmQrEL3qZlEH6ih0oRIy5se1N1Hd0HuSHB_xS98.jpg"
+    "filesize": 61783,
+    "fullUrl": "https://preview.redd.it/liby23e1tq051.jpg?auto=webp&s=d89677b053a2162a0d0262fc28cee075a0b8efba",
+    "hash": "25d216f218",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwf/xAAlEAABBAEDAgcAAAAAAAAAAAABAgMEBREABhIhMQciMkGBkaH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABkRAQACAwAAAAAAAAAAAAAAAAIAAQMhMf/aAAwDAQACEQMRAD8AWohWVOsLnzZ1hyPKGy1kmUMZKVoWOaSR6cdzod43UJFSWYtvKh7gTJVzbLSkpQ2B0SMjBOffQ+E1hJuLaqTZOqk4ktpCnDk45Ed/j9OqVv8Ap4MF7EBhMYpHRTY832cnUcjQPYkFXqp//9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/mRF7NmQrEL3qZlEH6ih0oRIy5se1N1Hd0HuSHB_xS98.jpg",
+    "url": "https://preview.redd.it/liby23e1tq051.jpg?width=640&crop=smart&auto=webp&s=db96f2625322e46191f75065c619da9a706acde3",
+    "width": 640
   },
   "score": {
     "comments": 2,

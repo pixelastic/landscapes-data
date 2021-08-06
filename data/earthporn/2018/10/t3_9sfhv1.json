@@ -9,21 +9,19 @@
     "month": 1538352000,
     "week": 1540684800
   },
-  "displayPicture": {
-    "filesize": 204028,
-    "hash": "b5c871be34",
-    "height": 801,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJBAAAgEDAwQDAQAAAAAAAAAAAQIDBAVBABEhBxIUMSJRceH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABwRAQABBAMAAAAAAAAAAAAAAAECAAMRMSFhgf/aAAwDAQACEQMRAD8Ak6XV9vs99nmuKqsUdO0YUMrdjFWzuePXH5rAXgeYyz+XKsbO/asMBbYce/Qzj60j08qbMKktcaWOcvHt84yIo+M7E5ORoS5X232qpkp4qMzqXZ+6TZxucAjH81IbMiIW3Lnr3dLZo86r/9k=",
-    "width": 640
-  },
   "id": "t3_9sfhv1",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/ux241ehux5v11.jpg?auto=webp&s=5ffe14f11a9346b994fe1e17716461d16b4f0d9a",
-    "preview": "https://preview.redd.it/ux241ehux5v11.jpg?width=640&crop=smart&auto=webp&s=cdd7907cdff9be014930cb9377127c28ac2eda12",
-    "thumbnail": "https://b.thumbs.redditmedia.com/-dgP1EX8ivjlIOoDYPSTbgl1lPABBJEDIEHYOWjc-GY.jpg"
+    "filesize": 204028,
+    "fullUrl": "https://preview.redd.it/ux241ehux5v11.jpg?auto=webp&s=5ffe14f11a9346b994fe1e17716461d16b4f0d9a",
+    "hash": "b5c871be34",
+    "height": 801,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJBAAAgEDAwQDAQAAAAAAAAAAAQIDBAVBABEhBxIUMSJRceH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABwRAQABBAMAAAAAAAAAAAAAAAECAAMRMSFhgf/aAAwDAQACEQMRAD8Ak6XV9vs99nmuKqsUdO0YUMrdjFWzuePXH5rAXgeYyz+XKsbO/asMBbYce/Qzj60j08qbMKktcaWOcvHt84yIo+M7E5ORoS5X232qpkp4qMzqXZ+6TZxucAjH81IbMiIW3Lnr3dLZo86r/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/-dgP1EX8ivjlIOoDYPSTbgl1lPABBJEDIEHYOWjc-GY.jpg",
+    "url": "https://preview.redd.it/ux241ehux5v11.jpg?width=640&crop=smart&auto=webp&s=cdd7907cdff9be014930cb9377127c28ac2eda12",
+    "width": 640
   },
   "score": {
     "comments": 2,

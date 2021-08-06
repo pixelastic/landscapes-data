@@ -9,21 +9,19 @@
     "month": 1612137600,
     "week": 1612656000
   },
-  "displayPicture": {
-    "filesize": 181137,
-    "hash": "8a4f3adbd9",
-    "height": 853,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIE/8QAJRAAAQQBAgUFAAAAAAAAAAAAAQIDBBEFACEGEzFBUQcSFEJh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQEAAwEAAAAAAAAAAAAAAAABABEiMf/aAAwDAQACEQMRAD8Ax8ZcXKzOajKkPExlRkrAcWoUSTSkiuvnRBeVluvvcqMyUoWUbk9vH5ppN9MXp6YDrEmMl1LNO/ItwqVd+5J+tiunbU5jAjHOx4jrWLk8pkBLklS1LoknyNrJrbQ3dsoBwn//2Q==",
-    "width": 640
-  },
   "id": "t3_lfm2ty",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/vbg3beralbg61.jpg?auto=webp&s=81e130ac639b38a63cc47a9ff34df320be3a6038",
-    "preview": "https://preview.redd.it/vbg3beralbg61.jpg?width=640&crop=smart&auto=webp&s=b0758b774da7a26d2f0a170aa5fa08f4143f9eb8",
-    "thumbnail": "https://b.thumbs.redditmedia.com/J6SYK7kycZJ8IryrhODJYBPbldSqukhBr_yGJSkhmLg.jpg"
+    "filesize": 181137,
+    "fullUrl": "https://preview.redd.it/vbg3beralbg61.jpg?auto=webp&s=81e130ac639b38a63cc47a9ff34df320be3a6038",
+    "hash": "8a4f3adbd9",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIE/8QAJRAAAQQBAgUFAAAAAAAAAAAAAQIDBBEFACEGEzFBUQcSFEJh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQEAAwEAAAAAAAAAAAAAAAABABEiMf/aAAwDAQACEQMRAD8Ax8ZcXKzOajKkPExlRkrAcWoUSTSkiuvnRBeVluvvcqMyUoWUbk9vH5ppN9MXp6YDrEmMl1LNO/ItwqVd+5J+tiunbU5jAjHOx4jrWLk8pkBLklS1LoknyNrJrbQ3dsoBwn//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/J6SYK7kycZJ8IryrhODJYBPbldSqukhBr_yGJSkhmLg.jpg",
+    "url": "https://preview.redd.it/vbg3beralbg61.jpg?width=640&crop=smart&auto=webp&s=b0758b774da7a26d2f0a170aa5fa08f4143f9eb8",
+    "width": 640
   },
   "score": {
     "comments": 2,

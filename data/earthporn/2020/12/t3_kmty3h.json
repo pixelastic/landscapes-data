@@ -9,21 +9,19 @@
     "month": 1606780800,
     "week": 1609027200
   },
-  "displayPicture": {
-    "filesize": 170308,
-    "hash": "aa80303950",
-    "height": 853,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAJRAAAgEDAgUFAAAAAAAAAAAAAQIDBAURACEGEhMVIhRCYWJx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABcRAQEBAQAAAAAAAAAAAAAAAAECABH/2gAMAwEAAhEDEQA/AK8J2VbteZLnSsGhUpEySsD0sxBjyk/Y4/CdCs9j7lTzVMNYUjaomCom4UByMbjbRbXZq+miuLV61axdUtBIj+LIYx5ZU4GCuN9tZvCs69hpR6qrTC+0FQSdzjDDO5Iz8aF3SccpgHu//9k=",
-    "width": 640
-  },
   "id": "t3_kmty3h",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/lpozsus2u8861.jpg?auto=webp&s=40cc60efc9da2356d247f97be76e7fdb229c83f2",
-    "preview": "https://preview.redd.it/lpozsus2u8861.jpg?width=640&crop=smart&auto=webp&s=ce80e2de6540a0ded59a275ccc25c2b67b696fe5",
-    "thumbnail": "https://b.thumbs.redditmedia.com/PAv4dzdkMuW42-WyTqa5WGL5BN5HJ4pbsDU8RtzM83I.jpg"
+    "filesize": 170308,
+    "fullUrl": "https://preview.redd.it/lpozsus2u8861.jpg?auto=webp&s=40cc60efc9da2356d247f97be76e7fdb229c83f2",
+    "hash": "aa80303950",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAJRAAAgEDAgUFAAAAAAAAAAAAAQIDBAURACEGEhMVIhRCYWJx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABcRAQEBAQAAAAAAAAAAAAAAAAECABH/2gAMAwEAAhEDEQA/AK8J2VbteZLnSsGhUpEySsD0sxBjyk/Y4/CdCs9j7lTzVMNYUjaomCom4UByMbjbRbXZq+miuLV61axdUtBIj+LIYx5ZU4GCuN9tZvCs69hpR6qrTC+0FQSdzjDDO5Iz8aF3SccpgHu//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/PAv4dzdkMuW42-WyTqa5WGL5BN5HJ4pbsDU8RtzM83I.jpg",
+    "url": "https://preview.redd.it/lpozsus2u8861.jpg?width=640&crop=smart&auto=webp&s=ce80e2de6540a0ded59a275ccc25c2b67b696fe5",
+    "width": 640
   },
   "score": {
     "comments": 11,

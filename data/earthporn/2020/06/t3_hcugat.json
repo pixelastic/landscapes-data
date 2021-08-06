@@ -9,21 +9,19 @@
     "month": 1590969600,
     "week": 1592092800
   },
-  "displayPicture": {
-    "filesize": 152379,
-    "hash": "4e845eb442",
-    "height": 853,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgUGB//EACQQAAIBAwMDBQAAAAAAAAAAAAECBAMFEQAGEiExYRQyQVGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAbEQACAwADAAAAAAAAAAAAAAABEgACAxEhUf/aAAwDAQACEQMRAD8AiYOwpNez2CWtoh1aBBWU4q8ajYc8ePXvx1nVxt8ZrjLL84IFVgtGoGZgAcZJA8HTvZO+Jm32WJLZ5NuYFjTBy1Mke5T8efvQTt12WbJatXtkt27BvU4yPzpoUGasT3JH1dRXkez/2Q==",
-    "width": 640
-  },
   "id": "t3_hcugat",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/hu97lildy4651.jpg?auto=webp&s=b3587ba25dee644dda0c10f1b9df7c2a9e575e12",
-    "preview": "https://preview.redd.it/hu97lildy4651.jpg?width=640&crop=smart&auto=webp&s=0b744407346bc3d8f91bd0ddcaa231c1d9382589",
-    "thumbnail": "https://b.thumbs.redditmedia.com/WBhrAEL6ZXip-V90tZERWy_PD15IdRTBs-oZwDb1Wsc.jpg"
+    "filesize": 152379,
+    "fullUrl": "https://preview.redd.it/hu97lildy4651.jpg?auto=webp&s=b3587ba25dee644dda0c10f1b9df7c2a9e575e12",
+    "hash": "4e845eb442",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgUGB//EACQQAAIBAwMDBQAAAAAAAAAAAAECBAMFEQAGEiExYRQyQVGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAbEQACAwADAAAAAAAAAAAAAAABEgACAxEhUf/aAAwDAQACEQMRAD8AiYOwpNez2CWtoh1aBBWU4q8ajYc8ePXvx1nVxt8ZrjLL84IFVgtGoGZgAcZJA8HTvZO+Jm32WJLZ5NuYFjTBy1Mke5T8efvQTt12WbJatXtkt27BvU4yPzpoUGasT3JH1dRXkez/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/WBhrAEL6ZXip-V90tZERWy_PD15IdRTBs-oZwDb1Wsc.jpg",
+    "url": "https://preview.redd.it/hu97lildy4651.jpg?width=640&crop=smart&auto=webp&s=0b744407346bc3d8f91bd0ddcaa231c1d9382589",
+    "width": 640
   },
   "score": {
     "comments": 236,

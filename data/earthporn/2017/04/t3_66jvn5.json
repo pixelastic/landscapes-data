@@ -9,21 +9,19 @@
     "month": 1491004800,
     "week": 1492300800
   },
-  "displayPicture": {
-    "filesize": 113347,
-    "hash": "b8295b3934",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJBAAAQQBAwMFAAAAAAAAAAAAAQIDBBEFAAYhBxIxIiNRYXH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAAIDAQAAAAAAAAAAAAAAAAABAgMhkf/aAAwDAQACEQMRAD8AN7i6oMmGvHY3Ew4xW0ppa3ElxwlQIvzQoHgardJd/vY3AM4t2EiTBYcV6hSFsWSeVCybJsWNZi5CYVIKFthSUAdt/d/H5pNj2k42HJmYy4chv2ypk13pocKu786nsa6JHHp//9k=",
-    "width": 640
-  },
   "id": "t3_66jvn5",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/qd2mxiutarsy.jpg?auto=webp&s=887ab8dc2728b67a278ea6767002ee0d250685f5",
-    "preview": "https://preview.redd.it/qd2mxiutarsy.jpg?width=640&crop=smart&auto=webp&s=647be26424a1aa6f8550ca0e0d20ee1fffd6be91",
-    "thumbnail": "https://b.thumbs.redditmedia.com/x5jjGbua5suvF05n29y5-kwa9l54AVJmtYDPJ6rS58k.jpg"
+    "filesize": 113347,
+    "fullUrl": "https://preview.redd.it/qd2mxiutarsy.jpg?auto=webp&s=887ab8dc2728b67a278ea6767002ee0d250685f5",
+    "hash": "b8295b3934",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJBAAAQQBAwMFAAAAAAAAAAAAAQIDBBEFAAYhBxIxIiNRYXH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAAIDAQAAAAAAAAAAAAAAAAABAgMhkf/aAAwDAQACEQMRAD8AN7i6oMmGvHY3Ew4xW0ppa3ElxwlQIvzQoHgardJd/vY3AM4t2EiTBYcV6hSFsWSeVCybJsWNZi5CYVIKFthSUAdt/d/H5pNj2k42HJmYy4chv2ypk13pocKu786nsa6JHHp//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/x5jjGbua5suvF05n29y5-kwa9l54AVJmtYDPJ6rS58k.jpg",
+    "url": "https://preview.redd.it/qd2mxiutarsy.jpg?width=640&crop=smart&auto=webp&s=647be26424a1aa6f8550ca0e0d20ee1fffd6be91",
+    "width": 640
   },
   "score": {
     "comments": 6,

@@ -9,21 +9,19 @@
     "month": 1569888000,
     "week": 1570924800
   },
-  "displayPicture": {
-    "filesize": 85409,
-    "hash": "3d1206fcaf",
-    "height": 800,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAJBAAAQMDBAEFAAAAAAAAAAAAAQIDBAUREgATIVExBhQiYXH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABwRAAEEAwEAAAAAAAAAAAAAAAEAAhGRBAUSMf/aAAwDAQACEQMRAD8AMxJPplpooTAmSHCLoxws4ekm/J/NTliluPq9nRao60OM29spJ+jlzoXTqtMW+lx+Y4zJHyC1qABB4uOjrbSqpU6XvhMxxbDy82yQSk+bkXt2PHGpxgMmejac7F5Hgpf/2Q==",
-    "width": 640
-  },
   "id": "t3_dj3wkd",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/yfkayumil2t31.jpg?auto=webp&s=3551c22a5f64ce4a97b893e059adde9be876094d",
-    "preview": "https://preview.redd.it/yfkayumil2t31.jpg?width=640&crop=smart&auto=webp&s=85e16261eca308ed87894234760040769b3104e8",
-    "thumbnail": "https://b.thumbs.redditmedia.com/C3hba9Js5CXyNw0TDwdgQy0P_w9EgwHaUiZEAr_LipQ.jpg"
+    "filesize": 85409,
+    "fullUrl": "https://preview.redd.it/yfkayumil2t31.jpg?auto=webp&s=3551c22a5f64ce4a97b893e059adde9be876094d",
+    "hash": "3d1206fcaf",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAJBAAAQMDBAEFAAAAAAAAAAAAAQIDBAUREgATIVExBhQiYXH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABwRAAEEAwEAAAAAAAAAAAAAAAEAAhGRBAUSMf/aAAwDAQACEQMRAD8AMxJPplpooTAmSHCLoxws4ekm/J/NTliluPq9nRao60OM29spJ+jlzoXTqtMW+lx+Y4zJHyC1qABB4uOjrbSqpU6XvhMxxbDy82yQSk+bkXt2PHGpxgMmejac7F5Hgpf/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/C3hba9Js5CXyNw0TDwdgQy0P_w9EgwHaUiZEAr_LipQ.jpg",
+    "url": "https://preview.redd.it/yfkayumil2t31.jpg?width=640&crop=smart&auto=webp&s=85e16261eca308ed87894234760040769b3104e8",
+    "width": 640
   },
   "score": {
     "comments": 3,

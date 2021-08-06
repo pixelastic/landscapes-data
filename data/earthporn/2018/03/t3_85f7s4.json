@@ -9,21 +9,19 @@
     "month": 1519862400,
     "week": 1521331200
   },
-  "displayPicture": {
-    "filesize": 92693,
-    "hash": "02ce10f182",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMG/8QAIxAAAgECBgIDAAAAAAAAAAAAAQMCBBEABhIhMVEUQQUTFf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAGBEAAgMAAAAAAAAAAAAAAAAAABIBITH/2gAMAwEAAhEDEQA/AEvP+c6tkEUrIEk3AgrSYi17kc8b2w6zPecoR1LrVubEDUqVMTt3sbjEa9o/a8dSkJkkiActcQwxvIWJt10Bf3jYZq+Jp1ZfoKuM3+Q18VGf2naOmUthxyPd8DzZRcP/2Q==",
-    "width": 640
-  },
   "id": "t3_85f7s4",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/5uswnoarylm01.jpg?auto=webp&s=13ecde32dd7a00912c8fecd85f856e003539f104",
-    "preview": "https://preview.redd.it/5uswnoarylm01.jpg?width=640&crop=smart&auto=webp&s=e53b2f6a64b1220834f1ed7fa1640c9bf62c9648",
-    "thumbnail": "https://b.thumbs.redditmedia.com/raF7X1o9BeWu21-tC24iVdpLEBLj5Y-P0OnB2oRalyg.jpg"
+    "filesize": 92693,
+    "fullUrl": "https://preview.redd.it/5uswnoarylm01.jpg?auto=webp&s=13ecde32dd7a00912c8fecd85f856e003539f104",
+    "hash": "02ce10f182",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMG/8QAIxAAAgECBgIDAAAAAAAAAAAAAQMCBBEABhIhMVEUQQUTFf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAGBEAAgMAAAAAAAAAAAAAAAAAABIBITH/2gAMAwEAAhEDEQA/AEvP+c6tkEUrIEk3AgrSYi17kc8b2w6zPecoR1LrVubEDUqVMTt3sbjEa9o/a8dSkJkkiActcQwxvIWJt10Bf3jYZq+Jp1ZfoKuM3+Q18VGf2naOmUthxyPd8DzZRcP/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/raF7X1o9BeWu21-tC24iVdpLEBLj5Y-P0OnB2oRalyg.jpg",
+    "url": "https://preview.redd.it/5uswnoarylm01.jpg?width=640&crop=smart&auto=webp&s=e53b2f6a64b1220834f1ed7fa1640c9bf62c9648",
+    "width": 640
   },
   "score": {
     "comments": 1,

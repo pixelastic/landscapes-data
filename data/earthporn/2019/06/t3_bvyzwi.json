@@ -9,21 +9,19 @@
     "month": 1559347200,
     "week": 1559433600
   },
-  "displayPicture": {
-    "filesize": 144355,
-    "hash": "da28f2a05a",
-    "height": 853,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJRAAAQMDAwMFAAAAAAAAAAAAAQIDEQQFIQAGEzFBYQcSFBUi/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABoRAAICAwAAAAAAAAAAAAAAAAECAAMRIkH/2gAMAwEAAhEDEQA/ABKvfNciqtVG2eJTsBx9UCSFR07nxrP9w3FFuvdY2W0uFxfOVLkz7wFY8Z1UWewfI+pbvRSzwLC11CFBSoBkJSI7xGeknQPqVaKF/cynKJ1SGiygftwZIkSMCBAGjrsawbNmGECcn//Z",
-    "width": 640
-  },
   "id": "t3_bvyzwi",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/7scfwotowy131.jpg?auto=webp&s=f059e1bf16f4c9019b718502e94f0448faed1482",
-    "preview": "https://preview.redd.it/7scfwotowy131.jpg?width=640&crop=smart&auto=webp&s=ad93e62c5b3717121ffc6aeb7de3d737d7899073",
-    "thumbnail": "https://b.thumbs.redditmedia.com/bkDyja0Ui5fuT4GktViedmlKNPbDEyYLPUeI8RHOfSs.jpg"
+    "filesize": 144355,
+    "fullUrl": "https://preview.redd.it/7scfwotowy131.jpg?auto=webp&s=f059e1bf16f4c9019b718502e94f0448faed1482",
+    "hash": "da28f2a05a",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJRAAAQMDAwMFAAAAAAAAAAAAAQIDEQQFIQAGEzFBYQcSFBUi/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABoRAAICAwAAAAAAAAAAAAAAAAECAAMRIkH/2gAMAwEAAhEDEQA/ABKvfNciqtVG2eJTsBx9UCSFR07nxrP9w3FFuvdY2W0uFxfOVLkz7wFY8Z1UWewfI+pbvRSzwLC11CFBSoBkJSI7xGeknQPqVaKF/cynKJ1SGiygftwZIkSMCBAGjrsawbNmGECcn//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/bkDyja0Ui5fuT4GktViedmlKNPbDEyYLPUeI8RHOfSs.jpg",
+    "url": "https://preview.redd.it/7scfwotowy131.jpg?width=640&crop=smart&auto=webp&s=ad93e62c5b3717121ffc6aeb7de3d737d7899073",
+    "width": 640
   },
   "score": {
     "comments": 93,

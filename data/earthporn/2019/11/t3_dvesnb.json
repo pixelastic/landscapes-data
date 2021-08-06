@@ -9,21 +9,19 @@
     "month": 1572566400,
     "week": 1573344000
   },
-  "displayPicture": {
-    "filesize": 130395,
-    "hash": "f74198482b",
-    "height": 800,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJRAAAgECBQMFAAAAAAAAAAAAAQIDBAUABxEhQQYSgSJCUWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAcEQACAgIDAAAAAAAAAAAAAAABAgAEESEiI1H/2gAMAwEAAhEDEQA/AFHSXXkdXep7ddoGCR6skyIWJI9pH3vp+Ys1eZrwymnsdDK6R7SNUQsp1+AOPOMjocwraayaKthhBBEoaKIqTp59R54wmpczIIWkbtikRyOxyFDMOCQTtgC91hGzr2VNLmWXE//Z",
-    "width": 640
-  },
   "id": "t3_dvesnb",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/wmmsa08u2by31.jpg?auto=webp&s=a8ed94c19cb762388e2e53172d5350412f9fba56",
-    "preview": "https://preview.redd.it/wmmsa08u2by31.jpg?width=640&crop=smart&auto=webp&s=63643a1fbfd8bb2b1f992ebc37366f8de35126b4",
-    "thumbnail": "https://b.thumbs.redditmedia.com/W9yswwAXbtwor7E1DXELb_ACVfdh_Lap-HtDh2D910Y.jpg"
+    "filesize": 130395,
+    "fullUrl": "https://preview.redd.it/wmmsa08u2by31.jpg?auto=webp&s=a8ed94c19cb762388e2e53172d5350412f9fba56",
+    "hash": "f74198482b",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJRAAAgECBQMFAAAAAAAAAAAAAQIDBAUABxEhQQYSgSJCUWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAcEQACAgIDAAAAAAAAAAAAAAABAgAEESEiI1H/2gAMAwEAAhEDEQA/AFHSXXkdXep7ddoGCR6skyIWJI9pH3vp+Ys1eZrwymnsdDK6R7SNUQsp1+AOPOMjocwraayaKthhBBEoaKIqTp59R54wmpczIIWkbtikRyOxyFDMOCQTtgC91hGzr2VNLmWXE//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/W9yswwAXbtwor7E1DXELb_ACVfdh_Lap-HtDh2D910Y.jpg",
+    "url": "https://preview.redd.it/wmmsa08u2by31.jpg?width=640&crop=smart&auto=webp&s=63643a1fbfd8bb2b1f992ebc37366f8de35126b4",
+    "width": 640
   },
   "score": {
     "comments": 4,

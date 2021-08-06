@@ -9,21 +9,19 @@
     "month": 1475280000,
     "week": 1477180800
   },
-  "displayPicture": {
-    "filesize": 225394,
-    "hash": "1d0a730769",
-    "height": 640,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAKRAAAgECAwUJAAAAAAAAAAAAAQIDBBEABQYSEyExQQcUIiNhcYGR0f/EABQBAQAAAAAAAAAAAAAAAAAAAAb/xAAeEQACAQMFAAAAAAAAAAAAAAABAgMAESEiI1Fxkf/aAAwDAQACEQMRAD8AxdNinkkRqiRLhwFHLxGx/PrFnaJXd6zJzH5crABlV9ocOntfBaXyOGeOGOvBQIdqwW1gD1PzywmrNNo+aNLS5g93O+3TKNh78CfQ4LbzE3OnjqlUcqJIjWyPc1//2Q==",
-    "width": 640
-  },
   "id": "t3_592xhk",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/e283thtaxctx.jpg?auto=webp&s=561da508c91858480976a26e36693f4d61ce5299",
-    "preview": "https://preview.redd.it/e283thtaxctx.jpg?width=640&crop=smart&auto=webp&s=a842041116c6eee3939422dd0b1edd9235f1313e",
-    "thumbnail": "https://b.thumbs.redditmedia.com/_fzSeOp7q3fU4xzcqpG6Etdxtovl8cE0Hwib3jc8DlI.jpg"
+    "filesize": 225394,
+    "fullUrl": "https://preview.redd.it/e283thtaxctx.jpg?auto=webp&s=561da508c91858480976a26e36693f4d61ce5299",
+    "hash": "1d0a730769",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAKRAAAgECAwUJAAAAAAAAAAAAAQIDBBEABQYSEyExQQcUIiNhcYGR0f/EABQBAQAAAAAAAAAAAAAAAAAAAAb/xAAeEQACAQMFAAAAAAAAAAAAAAABAgMAESEiI1Fxkf/aAAwDAQACEQMRAD8AxdNinkkRqiRLhwFHLxGx/PrFnaJXd6zJzH5crABlV9ocOntfBaXyOGeOGOvBQIdqwW1gD1PzywmrNNo+aNLS5g93O+3TKNh78CfQ4LbzE3OnjqlUcqJIjWyPc1//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/_fzSeOp7q3fU4xzcqpG6Etdxtovl8cE0Hwib3jc8DlI.jpg",
+    "url": "https://preview.redd.it/e283thtaxctx.jpg?width=640&crop=smart&auto=webp&s=a842041116c6eee3939422dd0b1edd9235f1313e",
+    "width": 640
   },
   "score": {
     "comments": 5,

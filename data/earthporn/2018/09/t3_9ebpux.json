@@ -9,21 +9,19 @@
     "month": 1535760000,
     "week": 1536451200
   },
-  "displayPicture": {
-    "filesize": 100920,
-    "hash": "97ea2249da",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAoEAABAgUCBAcAAAAAAAAAAAABAgMABAUREgYhBxNBYRQVIjFxgaH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/EABoRAAICAwAAAAAAAAAAAAAAAAABAhESITH/2gAMAwEAAhEDEQA/AJ3T+qazQUo8oqqciPRZ3EEDoUnY/Y2i0neLNRrlETITjjMq6hKvEPNjEvC+wA6dwPf4ghjhzQW1NLwmlkthYC3ioJNyLi/aFmdM0aWaK26ezzUjZw3yH7Ecc60wcK6f/9k=",
-    "width": 640
-  },
   "id": "t3_9ebpux",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/dact2tisi6l11.jpg?auto=webp&s=3026db2ba09983d519e82c4eafb1bc3a0e101177",
-    "preview": "https://preview.redd.it/dact2tisi6l11.jpg?width=640&crop=smart&auto=webp&s=e04c93373f6b77c96013fab4c9b4c7b106c75a18",
-    "thumbnail": "https://b.thumbs.redditmedia.com/Wj6TSQ5U1RbJ49JM3VDfxCKfh5rb8x7PlexvJpuoyMA.jpg"
+    "filesize": 100920,
+    "fullUrl": "https://preview.redd.it/dact2tisi6l11.jpg?auto=webp&s=3026db2ba09983d519e82c4eafb1bc3a0e101177",
+    "hash": "97ea2249da",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAoEAABAgUCBAcAAAAAAAAAAAABAgMABAUREgYhBxNBYRQVIjFxgaH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/EABoRAAICAwAAAAAAAAAAAAAAAAABAhESITH/2gAMAwEAAhEDEQA/AJ3T+qazQUo8oqqciPRZ3EEDoUnY/Y2i0neLNRrlETITjjMq6hKvEPNjEvC+wA6dwPf4ghjhzQW1NLwmlkthYC3ioJNyLi/aFmdM0aWaK26ezzUjZw3yH7Ecc60wcK6f/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Wj6TSQ5U1RbJ49JM3VDfxCKfh5rb8x7PlexvJpuoyMA.jpg",
+    "url": "https://preview.redd.it/dact2tisi6l11.jpg?width=640&crop=smart&auto=webp&s=e04c93373f6b77c96013fab4c9b4c7b106c75a18",
+    "width": 640
   },
   "score": {
     "comments": 0,

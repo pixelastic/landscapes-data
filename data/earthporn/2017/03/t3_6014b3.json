@@ -8,21 +8,19 @@
     "month": 1488326400,
     "week": 1489276800
   },
-  "displayPicture": {
-    "filesize": 65575,
-    "hash": "7f908fc6cc",
-    "height": 427,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACMQAAIBAwMEAwAAAAAAAAAAAAECAwQFEQASMQYHISJBUXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEBAQACAwAAAAAAAAAAAAAAAQIAAxIhQf/aAAwDAQACEQMRAD8AXdEdxnpL1WGkt1MyTRBKeElEaaXPsWfGQccDHnRu9HcyrlpYbZQJVW0Moafdt3P44BUn15/dY8KeOFKh4t6uih1Ic5BzzzqoudvpZbVDUSQqZyiEv8nIBOfvQ4XbNVyQMSpPnef/2Q==",
-    "width": 640
-  },
   "id": "t3_6014b3",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/7td47ut312my.jpg?auto=webp&s=2b9ef582989c45d32f225cdb2c3c641073e9a144",
-    "preview": "https://preview.redd.it/7td47ut312my.jpg?width=640&crop=smart&auto=webp&s=eb4d017de6d6f440d611af5172c292f2cee33fc8",
-    "thumbnail": "https://b.thumbs.redditmedia.com/vIHZngFsE4oAIxWZvAVbSaJsFVIzj3dc0h0mFjnNNEI.jpg"
+    "filesize": 65575,
+    "fullUrl": "https://preview.redd.it/7td47ut312my.jpg?auto=webp&s=2b9ef582989c45d32f225cdb2c3c641073e9a144",
+    "hash": "7f908fc6cc",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACMQAAIBAwMEAwAAAAAAAAAAAAECAwQFEQASMQYHISJBUXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEBAQACAwAAAAAAAAAAAAAAAQIAAxIhQf/aAAwDAQACEQMRAD8AXdEdxnpL1WGkt1MyTRBKeElEaaXPsWfGQccDHnRu9HcyrlpYbZQJVW0Moafdt3P44BUn15/dY8KeOFKh4t6uih1Ic5BzzzqoudvpZbVDUSQqZyiEv8nIBOfvQ4XbNVyQMSpPnef/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/vIHZngFsE4oAIxWZvAVbSaJsFVIzj3dc0h0mFjnNNEI.jpg",
+    "url": "https://preview.redd.it/7td47ut312my.jpg?width=640&crop=smart&auto=webp&s=eb4d017de6d6f440d611af5172c292f2cee33fc8",
+    "width": 640
   },
   "score": {
     "comments": 6,

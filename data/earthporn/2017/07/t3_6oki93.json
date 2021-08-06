@@ -9,21 +9,19 @@
     "month": 1498867200,
     "week": 1500163200
   },
-  "displayPicture": {
-    "filesize": 64164,
-    "hash": "30b654ab32",
-    "height": 427,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAJxAAAQMCBQIHAAAAAAAAAAAAAgEDBAURAAYSIWEHMRMUI0FRkaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIDBAARoRL/2gAMAwEAAhEDEQA/AB2VaGGa6b52PEmg2N1cHwV3RO+hV2JePvF1R6ZuNkriMShYQELTpA3L/FkK37gf04rlSplaix4UtxuPIL1WtiEubLdL8437M7DYsEYiqFYeyr7rvhSezYVhtuDDIKsHnQXpz//Z",
-    "width": 640
-  },
   "id": "t3_6oki93",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/80niqt70cuaz.jpg?auto=webp&s=3c7edd616f6c7ae5692e7398fbbc36221d07b89f",
-    "preview": "https://preview.redd.it/80niqt70cuaz.jpg?width=640&crop=smart&auto=webp&s=3ce3295c856b00497681deedd792e79ce38732bd",
-    "thumbnail": "https://b.thumbs.redditmedia.com/oODihQ9Vp3Q76zqNXhtfr-4y2eNTsAJMl60uOa-4V0s.jpg"
+    "filesize": 64164,
+    "fullUrl": "https://preview.redd.it/80niqt70cuaz.jpg?auto=webp&s=3c7edd616f6c7ae5692e7398fbbc36221d07b89f",
+    "hash": "30b654ab32",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAJxAAAQMCBQIHAAAAAAAAAAAAAgEDBAURAAYSIWEHMRMUI0FRkaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIDBAARoRL/2gAMAwEAAhEDEQA/AB2VaGGa6b52PEmg2N1cHwV3RO+hV2JePvF1R6ZuNkriMShYQELTpA3L/FkK37gf04rlSplaix4UtxuPIL1WtiEubLdL8437M7DYsEYiqFYeyr7rvhSezYVhtuDDIKsHnQXpz//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/oODihQ9Vp3Q76zqNXhtfr-4y2eNTsAJMl60uOa-4V0s.jpg",
+    "url": "https://preview.redd.it/80niqt70cuaz.jpg?width=640&crop=smart&auto=webp&s=3ce3295c856b00497681deedd792e79ce38732bd",
+    "width": 640
   },
   "score": {
     "comments": 4,

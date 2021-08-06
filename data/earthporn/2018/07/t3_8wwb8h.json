@@ -9,21 +9,19 @@
     "month": 1530403200,
     "week": 1530403200
   },
-  "displayPicture": {
-    "filesize": 51667,
-    "hash": "668066a369",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYH/8QAIxAAAgIABgEFAAAAAAAAAAAAAQIDBAAFBhESIVEHFDFBYf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGxEAAgMAAwAAAAAAAAAAAAAAAQIAAwQSE4H/2gAMAwEAAhEDEQA/ALlNfUikMlEXmrOOQ9zCqNIR9qzFRx/exgV/1cajCzxRVJG34rGlwMd/J23638YybSeXwXc9s5LbDTUGiMoVj2rAgAgj46OD53puhTuvBEJeI7BL94P3NaAwk2/euZ+Lg+T/2Q==",
-    "width": 640
-  },
   "id": "t3_8wwb8h",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/psjecuedbl811.jpg?auto=webp&s=ca9a0a5226e394ead3a0d59a4668f11786ee528e",
-    "preview": "https://preview.redd.it/psjecuedbl811.jpg?width=640&crop=smart&auto=webp&s=0dc3976b55d1bd125be5ec6a9601c16d6ed3c834",
-    "thumbnail": "https://b.thumbs.redditmedia.com/FsNr2EvXsYf72Q-TsaatEprZjpEL--rjPytABXyh9zI.jpg"
+    "filesize": 51667,
+    "fullUrl": "https://preview.redd.it/psjecuedbl811.jpg?auto=webp&s=ca9a0a5226e394ead3a0d59a4668f11786ee528e",
+    "hash": "668066a369",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYH/8QAIxAAAgIABgEFAAAAAAAAAAAAAQIDBAAFBhESIVEHFDFBYf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGxEAAgMAAwAAAAAAAAAAAAAAAQIAAwQSE4H/2gAMAwEAAhEDEQA/ALlNfUikMlEXmrOOQ9zCqNIR9qzFRx/exgV/1cajCzxRVJG34rGlwMd/J23638YybSeXwXc9s5LbDTUGiMoVj2rAgAgj46OD53puhTuvBEJeI7BL94P3NaAwk2/euZ+Lg+T/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/FsNr2EvXsYf72Q-TsaatEprZjpEL--rjPytABXyh9zI.jpg",
+    "url": "https://preview.redd.it/psjecuedbl811.jpg?width=640&crop=smart&auto=webp&s=0dc3976b55d1bd125be5ec6a9601c16d6ed3c834",
+    "width": 640
   },
   "score": {
     "comments": 0,

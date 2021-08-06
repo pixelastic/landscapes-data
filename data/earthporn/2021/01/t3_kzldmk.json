@@ -9,21 +9,19 @@
     "month": 1609459200,
     "week": 1610841600
   },
-  "displayPicture": {
-    "filesize": 129482,
-    "hash": "9ca078fc67",
-    "height": 800,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAJhAAAQMCBQMFAAAAAAAAAAAAAQIDBAURABITITEGQVEHQmFxof/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAAyER/9oADAMBAAIRAxEAPwBw9YIlQEVMqmOxcwOu+lzVsexAsNuecYvqfrd5FXeFHWl5i9i8ptRQsgexJGw+e98TqeZCzEbmiO2w0RqJaykOK8fXknnBazAhypWaIxdFt0tmwB/MBb3VcyUNSFuHZ//Z",
-    "width": 640
-  },
   "id": "t3_kzldmk",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/s9dknaph80c61.jpg?auto=webp&s=1ddb79584cbf7dc1a97dd7d4d50c819a159711aa",
-    "preview": "https://preview.redd.it/s9dknaph80c61.jpg?width=640&crop=smart&auto=webp&s=c445d3a9e827d9df83aee4d415c49ea8060aae2a",
-    "thumbnail": "https://b.thumbs.redditmedia.com/ofJ0w5784_ufJnugZ3SaIEDEeKXtIcPKakaKCQpyQno.jpg"
+    "filesize": 129482,
+    "fullUrl": "https://preview.redd.it/s9dknaph80c61.jpg?auto=webp&s=1ddb79584cbf7dc1a97dd7d4d50c819a159711aa",
+    "hash": "9ca078fc67",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAJhAAAQMCBQMFAAAAAAAAAAAAAQIDBAURABITITEGQVEHQmFxof/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAAyER/9oADAMBAAIRAxEAPwBw9YIlQEVMqmOxcwOu+lzVsexAsNuecYvqfrd5FXeFHWl5i9i8ptRQsgexJGw+e98TqeZCzEbmiO2w0RqJaykOK8fXknnBazAhypWaIxdFt0tmwB/MBb3VcyUNSFuHZ//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/ofJ0w5784_ufJnugZ3SaIEDEeKXtIcPKakaKCQpyQno.jpg",
+    "url": "https://preview.redd.it/s9dknaph80c61.jpg?width=640&crop=smart&auto=webp&s=c445d3a9e827d9df83aee4d415c49ea8060aae2a",
+    "width": 640
   },
   "score": {
     "comments": 3,

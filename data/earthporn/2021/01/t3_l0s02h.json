@@ -8,21 +8,19 @@
     "month": 1609459200,
     "week": 1610841600
   },
-  "displayPicture": {
-    "filesize": 211328,
-    "hash": "1aa72da086",
-    "height": 853,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIG/8QAJhAAAQMDAwIHAAAAAAAAAAAAAQIDBAUSIQARFDFBBhMiMlFxsf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAHBEAAgEFAQAAAAAAAAAAAAAAAQIAAwQREkGB/9oADAMBAAIRAxEAPwBsuqMVLxbTatLLLfPUolhslsISpBSlJPf29dZEiotLWKXFXxSolIRItt7bEb9cfmhVqQ5Km+dEjr46LQj1XFAAxv8AGSdQ7LgKWefCufGNzJtx9HOoGuzqGwfDC1MhQ3J//9k=",
-    "width": 640
-  },
   "id": "t3_l0s02h",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/iqupc0ovicc61.jpg?auto=webp&s=b89782fd09565e1dedd49eae46f58c6571270eb7",
-    "preview": "https://preview.redd.it/iqupc0ovicc61.jpg?width=640&crop=smart&auto=webp&s=303714422fb15bbb5f89a432828f6b19aa08b9a3",
-    "thumbnail": "https://b.thumbs.redditmedia.com/Ibzqqn2sV7NZsyDJK3S5g379de71wDTQ7EzUW0dASNA.jpg"
+    "filesize": 211328,
+    "fullUrl": "https://preview.redd.it/iqupc0ovicc61.jpg?auto=webp&s=b89782fd09565e1dedd49eae46f58c6571270eb7",
+    "hash": "1aa72da086",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIG/8QAJhAAAQMDAwIHAAAAAAAAAAAAAQIDBAUSIQARFDFBBhMiMlFxsf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAHBEAAgEFAQAAAAAAAAAAAAAAAQIAAwQREkGB/9oADAMBAAIRAxEAPwBsuqMVLxbTatLLLfPUolhslsISpBSlJPf29dZEiotLWKXFXxSolIRItt7bEb9cfmhVqQ5Km+dEjr46LQj1XFAAxv8AGSdQ7LgKWefCufGNzJtx9HOoGuzqGwfDC1MhQ3J//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Ibzqqn2sV7NZsyDJK3S5g379de71wDTQ7EzUW0dASNA.jpg",
+    "url": "https://preview.redd.it/iqupc0ovicc61.jpg?width=640&crop=smart&auto=webp&s=303714422fb15bbb5f89a432828f6b19aa08b9a3",
+    "width": 640
   },
   "score": {
     "comments": 8,

@@ -9,21 +9,19 @@
     "month": 1604188800,
     "week": 1604188800
   },
-  "displayPicture": {
-    "filesize": 66418,
-    "hash": "37c42c82d8",
-    "height": 427,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQGB//EACcQAAEDAgQFBQAAAAAAAAAAAAECAxEEBQASMUEGEyEiIwcyUZHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAaEQACAgMAAAAAAAAAAAAAAAACEQABAwQS/9oADAMBAAIRAxEAPwCOtXqnfGH2DdKxy6UyTDjbgHMUmNlxt8HDnE3Hb9wpCzQ8y1pcMl0K8uSPbp267a7Yz5k+RQyphJJHaNev4MCh5xbdMFqKgpvOc3WTMT9Yme+S5GlDWEW7n//Z",
-    "width": 640
-  },
   "id": "t3_jnpmdg",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/gy1ybwpcb5x51.jpg?auto=webp&s=69be55d23f9e1813b8b89eb9d8ae028f1d46435e",
-    "preview": "https://preview.redd.it/gy1ybwpcb5x51.jpg?width=640&crop=smart&auto=webp&s=0636bea571f93e557980285dbda8fc92cbc0d977",
-    "thumbnail": "https://b.thumbs.redditmedia.com/jNbETo-lWws958jFxP5DjKSymmkLRAF7AAis34TZXRs.jpg"
+    "filesize": 66418,
+    "fullUrl": "https://preview.redd.it/gy1ybwpcb5x51.jpg?auto=webp&s=69be55d23f9e1813b8b89eb9d8ae028f1d46435e",
+    "hash": "37c42c82d8",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQGB//EACcQAAEDAgQFBQAAAAAAAAAAAAECAxEEBQASMUEGEyEiIwcyUZHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAaEQACAgMAAAAAAAAAAAAAAAACEQABAwQS/9oADAMBAAIRAxEAPwCOtXqnfGH2DdKxy6UyTDjbgHMUmNlxt8HDnE3Hb9wpCzQ8y1pcMl0K8uSPbp267a7Yz5k+RQyphJJHaNev4MCh5xbdMFqKgpvOc3WTMT9Yme+S5GlDWEW7n//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/jNbETo-lWws958jFxP5DjKSymmkLRAF7AAis34TZXRs.jpg",
+    "url": "https://preview.redd.it/gy1ybwpcb5x51.jpg?width=640&crop=smart&auto=webp&s=0636bea571f93e557980285dbda8fc92cbc0d977",
+    "width": 640
   },
   "score": {
     "comments": 2,

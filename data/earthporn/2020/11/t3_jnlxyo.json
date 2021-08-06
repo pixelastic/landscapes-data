@@ -9,21 +9,19 @@
     "month": 1604188800,
     "week": 1604188800
   },
-  "displayPicture": {
-    "filesize": 138479,
-    "hash": "dd8903e9e3",
-    "height": 960,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJBAAAQMEAQMFAAAAAAAAAAAAAQIDBAUGESEAEjFhE0FxgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABoRAAICAwAAAAAAAAAAAAAAAAECACEDBBH/2gAMAwEAAhEDEQA/AMstyXVXbMm06DFW416iH1uJbUroAyDnXYaJ8cgGkRlEl2Wtxw91JGj8cSwLjkz6ixEqs6SiC5pQjEJQjG9JAA9vzieoW7bLktazHmNk4JDS8pJwMkeD3++SOuWtDyBshFNP/9k=",
-    "width": 640
-  },
   "id": "t3_jnlxyo",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/enurxtel44x51.jpg?auto=webp&s=92f45602a45d238e4d3a407f7309a5b0f8f85f0a",
-    "preview": "https://preview.redd.it/enurxtel44x51.jpg?width=640&crop=smart&auto=webp&s=36fa62409690860530ef6608c35e98c7f625713c",
-    "thumbnail": "https://b.thumbs.redditmedia.com/zLapC0kyjZ7qm3wlOvpEq5mHf2bTaeBHHERYPPxi3jY.jpg"
+    "filesize": 138479,
+    "fullUrl": "https://preview.redd.it/enurxtel44x51.jpg?auto=webp&s=92f45602a45d238e4d3a407f7309a5b0f8f85f0a",
+    "hash": "dd8903e9e3",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJBAAAQMEAQMFAAAAAAAAAAAAAQIDBAUGESEAEjFhE0FxgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABoRAAICAwAAAAAAAAAAAAAAAAECACEDBBH/2gAMAwEAAhEDEQA/AMstyXVXbMm06DFW416iH1uJbUroAyDnXYaJ8cgGkRlEl2Wtxw91JGj8cSwLjkz6ixEqs6SiC5pQjEJQjG9JAA9vzieoW7bLktazHmNk4JDS8pJwMkeD3++SOuWtDyBshFNP/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/zLapC0kyjZ7qm3wlOvpEq5mHf2bTaeBHHERYPPxi3jY.jpg",
+    "url": "https://preview.redd.it/enurxtel44x51.jpg?width=640&crop=smart&auto=webp&s=36fa62409690860530ef6608c35e98c7f625713c",
+    "width": 640
   },
   "score": {
     "comments": 2,

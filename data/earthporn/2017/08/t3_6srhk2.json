@@ -9,21 +9,19 @@
     "month": 1501545600,
     "week": 1501977600
   },
-  "displayPicture": {
-    "filesize": 192551,
-    "hash": "c2aef076fe",
-    "height": 853,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMH/8QAJhAAAQMDAgUFAAAAAAAAAAAAAgEDBQAEEQZBEhMhMXEVMlFhgf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAAyEEkf/aAAwDAQACEQMRAD8AhK6wkY2PAWxteeWR4iazlN98fG1BndZ6idNT9SuBReyNjgU8IiYp27HDL2aE9aFyPcLwjhF++vX97VmM7ZyMVJu2ttHSV42K5R9tMCWfCKlQnVZaNY+wNSqcE//Z",
-    "width": 640
-  },
   "id": "t3_6srhk2",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/tf31im89suez.jpg?auto=webp&s=461c6ea482b5c25894902002ac9a62b8340acaab",
-    "preview": "https://preview.redd.it/tf31im89suez.jpg?width=640&crop=smart&auto=webp&s=f40e3b618d5cd0eea73af46fd73ee3ff43a3f994",
-    "thumbnail": "https://b.thumbs.redditmedia.com/_E2D7-Azl1J4x9zSo-Abdi6qV3Uc_UMlgTeZrN1boUw.jpg"
+    "filesize": 192551,
+    "fullUrl": "https://preview.redd.it/tf31im89suez.jpg?auto=webp&s=461c6ea482b5c25894902002ac9a62b8340acaab",
+    "hash": "c2aef076fe",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMH/8QAJhAAAQMDAgUFAAAAAAAAAAAAAgEDBQAEEQZBEhMhMXEVMlFhgf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAAyEEkf/aAAwDAQACEQMRAD8AhK6wkY2PAWxteeWR4iazlN98fG1BndZ6idNT9SuBReyNjgU8IiYp27HDL2aE9aFyPcLwjhF++vX97VmM7ZyMVJu2ttHSV42K5R9tMCWfCKlQnVZaNY+wNSqcE//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/_E2D7-Azl1J4x9zSo-Abdi6qV3Uc_UMlgTeZrN1boUw.jpg",
+    "url": "https://preview.redd.it/tf31im89suez.jpg?width=640&crop=smart&auto=webp&s=f40e3b618d5cd0eea73af46fd73ee3ff43a3f994",
+    "width": 640
   },
   "score": {
     "comments": 6,

@@ -9,21 +9,19 @@
     "month": 1546300800,
     "week": 1547942400
   },
-  "displayPicture": {
-    "filesize": 75899,
-    "hash": "b2ef08b934",
-    "height": 427,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIxAAAQMDAwUBAAAAAAAAAAAAAQIDEQQFEgAGIQcTIjFhQf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECESH/2gAMAwEAAhEDEQA/AAm0tpu3ZhpfeTTAhJnhZOSoBiR4z7PoDVS/dNbgAyKF5p9BI8luJRkfgk8EwATHJ1tfQnblof2dS1b9C09UdpMKclQTI5gEwJ+aBWa/XJe8FJcqc04vDFTaSPEHHgj8gaKFnS1b0//Z",
-    "width": 640
-  },
   "id": "t3_ajezf7",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/706ncicksec21.jpg?auto=webp&s=fac142cf695db555119632b9deb7de319423f609",
-    "preview": "https://preview.redd.it/706ncicksec21.jpg?width=640&crop=smart&auto=webp&s=286757d6f86cf33dd23171fe73c9618e230d1ebd",
-    "thumbnail": "https://b.thumbs.redditmedia.com/mcbHzqWRgec3C1wqm4rz-9oHz9nn05oZxXXEa0vXWVA.jpg"
+    "filesize": 75899,
+    "fullUrl": "https://preview.redd.it/706ncicksec21.jpg?auto=webp&s=fac142cf695db555119632b9deb7de319423f609",
+    "hash": "b2ef08b934",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAIxAAAQMDAwUBAAAAAAAAAAAAAQIDEQQFEgAGIQcTIjFhQf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECESH/2gAMAwEAAhEDEQA/AAm0tpu3ZhpfeTTAhJnhZOSoBiR4z7PoDVS/dNbgAyKF5p9BI8luJRkfgk8EwATHJ1tfQnblof2dS1b9C09UdpMKclQTI5gEwJ+aBWa/XJe8FJcqc04vDFTaSPEHHgj8gaKFnS1b0//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/mcbHzqWRgec3C1wqm4rz-9oHz9nn05oZxXXEa0vXWVA.jpg",
+    "url": "https://preview.redd.it/706ncicksec21.jpg?width=640&crop=smart&auto=webp&s=286757d6f86cf33dd23171fe73c9618e230d1ebd",
+    "width": 640
   },
   "score": {
     "comments": 1,

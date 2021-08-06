@@ -1,5 +1,4 @@
-// const onEach = require('./lib/onEach.js');
-const onEach = require('./lib/onEach2.js');
+const onEach = require('./lib/onEach.js');
 module.exports = {
   onEach,
 };

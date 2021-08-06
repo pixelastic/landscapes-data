@@ -9,21 +9,19 @@
     "month": 1538352000,
     "week": 1538870400
   },
-  "displayPicture": {
-    "filesize": 78037,
-    "hash": "1ad32ad0b6",
-    "height": 427,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACUQAAIBAwMCBwAAAAAAAAAAAAECAwQFIQAGERIiBxQxQWGBof/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/8QAGxEAAQQDAAAAAAAAAAAAAAAAAQACAxESEyH/2gAMAwEAAhEDEQA/AJ6m8Q92UiwoL9VnkdSLN0vyo9+5cj70/rNz7sv9sFPW3ER0jsqP5eNYmkJGFYrweMH41mNwiV6NusueI8d5x+6PsWpmN+mhMrmKNGKIW5UELjHpo+R+JNqGoXxf/9k=",
-    "width": 640
-  },
   "id": "t3_9mkqiq",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/xy12vsn982r11.jpg?auto=webp&s=37e07acabe2cc2b9bebdde777dbbd5179631cb3d",
-    "preview": "https://preview.redd.it/xy12vsn982r11.jpg?width=640&crop=smart&auto=webp&s=ecd648e2397b90a8fe82e7bd28cc300f9523b1c7",
-    "thumbnail": "https://b.thumbs.redditmedia.com/d0uzFvEHBmHGK5Q8tkCqwt0E53d_azwxgpVjAL0uQ_o.jpg"
+    "filesize": 78037,
+    "fullUrl": "https://preview.redd.it/xy12vsn982r11.jpg?auto=webp&s=37e07acabe2cc2b9bebdde777dbbd5179631cb3d",
+    "hash": "1ad32ad0b6",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACUQAAIBAwMCBwAAAAAAAAAAAAECAwQFIQAGERIiBxQxQWGBof/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/8QAGxEAAQQDAAAAAAAAAAAAAAAAAQACAxESEyH/2gAMAwEAAhEDEQA/AJ6m8Q92UiwoL9VnkdSLN0vyo9+5cj70/rNz7sv9sFPW3ER0jsqP5eNYmkJGFYrweMH41mNwiV6NusueI8d5x+6PsWpmN+mhMrmKNGKIW5UELjHpo+R+JNqGoXxf/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/d0uzFvEHBmHGK5Q8tkCqwt0E53d_azwxgpVjAL0uQ_o.jpg",
+    "url": "https://preview.redd.it/xy12vsn982r11.jpg?width=640&crop=smart&auto=webp&s=ecd648e2397b90a8fe82e7bd28cc300f9523b1c7",
+    "width": 640
   },
   "score": {
     "comments": 2,

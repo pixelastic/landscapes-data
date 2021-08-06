@@ -9,21 +9,19 @@
     "month": 1514764800,
     "week": 1515283200
   },
-  "displayPicture": {
-    "filesize": 112924,
-    "hash": "0975228ab1",
-    "height": 512,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACUQAAEDAgUEAwAAAAAAAAAAAAECAwQAEQUGBxIhIjFBUTJhkf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQMAAhEhBP/aAAwDAQACEQMRAD8AA1qc7LwyO2w01EeG1SpaF7ioW7EEcA8e6jZl1TzG9KaVhkpqGxHPShtsKS+bAErv8geemwtes7PzIlDpETDIkZF+NgO6w8E9vwCkZ+IB6A6+GUoKVBoAHwQT6+hRs9F7EdyWLSuoPNn/2Q==",
-    "width": 640
-  },
   "id": "t3_7p48vc",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/jbuf76goly801.jpg?auto=webp&s=ab5d39a823b4efc90d5e34d5040ff2a1c05c02fb",
-    "preview": "https://preview.redd.it/jbuf76goly801.jpg?width=640&crop=smart&auto=webp&s=080b9ff93fd79be0dad71b664cbfbbb84dbb6bc0",
-    "thumbnail": "https://a.thumbs.redditmedia.com/KEIDqwZxCZ4pwAlF4mxCqTeZqEhX_lgC0jiY7Pj_XF0.jpg"
+    "filesize": 112924,
+    "fullUrl": "https://preview.redd.it/jbuf76goly801.jpg?auto=webp&s=ab5d39a823b4efc90d5e34d5040ff2a1c05c02fb",
+    "hash": "0975228ab1",
+    "height": 512,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACUQAAEDAgUEAwAAAAAAAAAAAAECAwQAEQUGBxIhIjFBUTJhkf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQMAAhEhBP/aAAwDAQACEQMRAD8AA1qc7LwyO2w01EeG1SpaF7ioW7EEcA8e6jZl1TzG9KaVhkpqGxHPShtsKS+bAErv8geemwtes7PzIlDpETDIkZF+NgO6w8E9vwCkZ+IB6A6+GUoKVBoAHwQT6+hRs9F7EdyWLSuoPNn/2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/KEIDqwZxCZ4pwAlF4mxCqTeZqEhX_lgC0jiY7Pj_XF0.jpg",
+    "url": "https://preview.redd.it/jbuf76goly801.jpg?width=640&crop=smart&auto=webp&s=080b9ff93fd79be0dad71b664cbfbbb84dbb6bc0",
+    "width": 640
   },
   "score": {
     "comments": 4,

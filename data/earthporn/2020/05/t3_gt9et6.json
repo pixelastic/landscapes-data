@@ -9,21 +9,19 @@
     "month": 1588291200,
     "week": 1590278400
   },
-  "displayPicture": {
-    "filesize": 87890,
-    "hash": "b5bc728fd4",
-    "height": 436,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGCP/EACQQAAIBAwMEAwEAAAAAAAAAAAECAwQREgAGIQUHMUEiYXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAbEQEAAgIDAAAAAAAAAAAAAAABAAIDBBETQf/aAAwDAQACEQMRAD8Av6DvVSyTSJPDRIiMFLCdvNr/AB4OX80NO9KPNKJ+mmGkHCzZ5ML+Cy+gf2/1rOW1I0rN01UVUiyxrkAGHq+nO741o+nVopxgFlxXm9hY8c6iNm/cY+YjCNW3hP/Z",
-    "width": 640
-  },
   "id": "t3_gt9et6",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/d62raecphu151.jpg?auto=webp&s=20705d95e42475fc5c927d7065c694e079c0f9af",
-    "preview": "https://preview.redd.it/d62raecphu151.jpg?width=640&crop=smart&auto=webp&s=78a203776b0ae8c8b4d2e345e0979fcf98068888",
-    "thumbnail": "https://b.thumbs.redditmedia.com/Y0AqtG5Wm2Bdew0g7zO5Ko7eoXmCgVIlWQoiuxTaj1M.jpg"
+    "filesize": 87890,
+    "fullUrl": "https://preview.redd.it/d62raecphu151.jpg?auto=webp&s=20705d95e42475fc5c927d7065c694e079c0f9af",
+    "hash": "b5bc728fd4",
+    "height": 436,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGCP/EACQQAAIBAwMEAwEAAAAAAAAAAAECAwQREgAGIQUHMUEiYXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAbEQEAAgIDAAAAAAAAAAAAAAABAAIDBBETQf/aAAwDAQACEQMRAD8Av6DvVSyTSJPDRIiMFLCdvNr/AB4OX80NO9KPNKJ+mmGkHCzZ5ML+Cy+gf2/1rOW1I0rN01UVUiyxrkAGHq+nO741o+nVopxgFlxXm9hY8c6iNm/cY+YjCNW3hP/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Y0AqtG5Wm2Bdew0g7zO5Ko7eoXmCgVIlWQoiuxTaj1M.jpg",
+    "url": "https://preview.redd.it/d62raecphu151.jpg?width=640&crop=smart&auto=webp&s=78a203776b0ae8c8b4d2e345e0979fcf98068888",
+    "width": 640
   },
   "score": {
     "comments": 1,

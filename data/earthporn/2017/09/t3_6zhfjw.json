@@ -9,21 +9,19 @@
     "month": 1504224000,
     "week": 1505001600
   },
-  "displayPicture": {
-    "filesize": 105088,
-    "hash": "9301433152",
-    "height": 425,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgEH/8QAIxAAAgIBAwMFAAAAAAAAAAAAAQIDBBEABRIhQXEGEyMxUv/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACAyEi/9oADAMBAAIRAxEAPwC7T61uXLHsPuN5o5zxaVXZkyR3Ucc9+h+9DRXv1t4qV/gjeoXZJpgQs0bMShjzkYIzjwRrZN6p1kK144I44ZZEZ1jHHJYkE5HXqABoRHTrjf8AaZBCgc2JDnH4YBfGM6mul3sbPFD0z//Z",
-    "width": 640
-  },
   "id": "t3_6zhfjw",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/mp9z97pivalz.jpg?auto=webp&s=7292164baee450bb8c2895c786f4b9e09dd221a0",
-    "preview": "https://preview.redd.it/mp9z97pivalz.jpg?width=640&crop=smart&auto=webp&s=625f00b1b0298869034f275dd01af0b0decab243",
-    "thumbnail": "https://b.thumbs.redditmedia.com/EmGKyMl-JEeyGdGff5QC2PF4sVwktSpGvoZrnahvslE.jpg"
+    "filesize": 105088,
+    "fullUrl": "https://preview.redd.it/mp9z97pivalz.jpg?auto=webp&s=7292164baee450bb8c2895c786f4b9e09dd221a0",
+    "hash": "9301433152",
+    "height": 425,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgEH/8QAIxAAAgIBAwMFAAAAAAAAAAAAAQIDBBEABRIhQXEGEyMxUv/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACAyEi/9oADAMBAAIRAxEAPwC7T61uXLHsPuN5o5zxaVXZkyR3Ucc9+h+9DRXv1t4qV/gjeoXZJpgQs0bMShjzkYIzjwRrZN6p1kK144I44ZZEZ1jHHJYkE5HXqABoRHTrjf8AaZBCgc2JDnH4YBfGM6mul3sbPFD0z//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/EmGKyMl-JEeyGdGff5QC2PF4sVwktSpGvoZrnahvslE.jpg",
+    "url": "https://preview.redd.it/mp9z97pivalz.jpg?width=640&crop=smart&auto=webp&s=625f00b1b0298869034f275dd01af0b0decab243",
+    "width": 640
   },
   "score": {
     "comments": 3,

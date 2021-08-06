@@ -9,21 +9,19 @@
     "month": 1572566400,
     "week": 1572739200
   },
-  "displayPicture": {
-    "filesize": 97383,
-    "hash": "431b887606",
-    "height": 640,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAJxAAAQMDAwEJAAAAAAAAAAAAAQIDBAUGEQASE1EHFSEyQXGRobH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAAMAAwAAAAAAAAAAAAAAAAABAhESIf/aAAwDAQACEQMRAD8APdmFwQ5clEKtSNiFyW2G3VAbW04OSfbA+dNb7ue26CibGp1XVJkNtK41MgKBVtGMEDA8VfWsboNBXDeZFUdW3zHchCBkkdSfQaiu6nIjTD3cy++yrzOLG4AdBj91VSp9yEtT/9k=",
-    "width": 640
-  },
   "id": "t3_dranti",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/ypha22k8tkw31.jpg?auto=webp&s=e652ce152e05362cf6923f87a112376f8e74379d",
-    "preview": "https://preview.redd.it/ypha22k8tkw31.jpg?width=640&crop=smart&auto=webp&s=688dbe4d69e3f4d6d08841129e42fbba8a8606cd",
-    "thumbnail": "https://a.thumbs.redditmedia.com/NP9ogM_65bxKPh876NDe8BaowkA26GGzBpGuc7Vc1K8.jpg"
+    "filesize": 97383,
+    "fullUrl": "https://preview.redd.it/ypha22k8tkw31.jpg?auto=webp&s=e652ce152e05362cf6923f87a112376f8e74379d",
+    "hash": "431b887606",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAJxAAAQMDAwEJAAAAAAAAAAAAAQIDBAUGEQASE1EHFSEyQXGRobH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAAMAAwAAAAAAAAAAAAAAAAABAhESIf/aAAwDAQACEQMRAD8APdmFwQ5clEKtSNiFyW2G3VAbW04OSfbA+dNb7ue26CibGp1XVJkNtK41MgKBVtGMEDA8VfWsboNBXDeZFUdW3zHchCBkkdSfQaiu6nIjTD3cy++yrzOLG4AdBj91VSp9yEtT/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/NP9ogM_65bxKPh876NDe8BaowkA26GGzBpGuc7Vc1K8.jpg",
+    "url": "https://preview.redd.it/ypha22k8tkw31.jpg?width=640&crop=smart&auto=webp&s=688dbe4d69e3f4d6d08841129e42fbba8a8606cd",
+    "width": 640
   },
   "score": {
     "comments": 10,

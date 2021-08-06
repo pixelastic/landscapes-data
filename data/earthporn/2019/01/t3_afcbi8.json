@@ -9,21 +9,19 @@
     "month": 1546300800,
     "week": 1546732800
   },
-  "displayPicture": {
-    "filesize": 102329,
-    "hash": "d100b1bbc5",
-    "height": 905,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACQQAAIBAwMDBQAAAAAAAAAAAAECAwQFEQAhMQYSExYiQnFy/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABoRAQABBQAAAAAAAAAAAAAAAAEAAgMRIUH/2gAMAwEAAhEDEQA/AMvoUvdv6bns7WmoFRJMOyXxkkIVOQp43ON9KvQd6k93gjXPxaUZH3qvobZfKtFrnqqiOd8q0KI7FM7lSOBtg4xoJ1ipXaGSe6QOpPdG1GkmD+iASDyNuDpTaOkMVudT/9k=",
-    "width": 640
-  },
   "id": "t3_afcbi8",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/rhk970nvd2a21.jpg?auto=webp&s=646318053a55e8c847dd9d28dd05c53bd62f1805",
-    "preview": "https://preview.redd.it/rhk970nvd2a21.jpg?width=640&crop=smart&auto=webp&s=a01ad825960e44b89f3804d21e44e7b39c2be37e",
-    "thumbnail": "https://b.thumbs.redditmedia.com/VtMTqGI4wnLb8mQxdDsyMHYVD5f4WDgIG84kifHsCBE.jpg"
+    "filesize": 102329,
+    "fullUrl": "https://preview.redd.it/rhk970nvd2a21.jpg?auto=webp&s=646318053a55e8c847dd9d28dd05c53bd62f1805",
+    "hash": "d100b1bbc5",
+    "height": 905,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACQQAAIBAwMDBQAAAAAAAAAAAAECAwQFEQAhMQYSExYiQnFy/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABoRAQABBQAAAAAAAAAAAAAAAAEAAgMRIUH/2gAMAwEAAhEDEQA/AMvoUvdv6bns7WmoFRJMOyXxkkIVOQp43ON9KvQd6k93gjXPxaUZH3qvobZfKtFrnqqiOd8q0KI7FM7lSOBtg4xoJ1ipXaGSe6QOpPdG1GkmD+iASDyNuDpTaOkMVudT/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/VtMTqGI4wnLb8mQxdDsyMHYVD5f4WDgIG84kifHsCBE.jpg",
+    "url": "https://preview.redd.it/rhk970nvd2a21.jpg?width=640&crop=smart&auto=webp&s=a01ad825960e44b89f3804d21e44e7b39c2be37e",
+    "width": 640
   },
   "score": {
     "comments": 4,

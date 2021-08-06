@@ -8,21 +8,19 @@
     "month": 1485907200,
     "week": 1487462400
   },
-  "displayPicture": {
-    "filesize": 77173,
-    "hash": "fd6c15d959",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAJRAAAgIBAgUFAQAAAAAAAAAAAQIDEQQAIQUGEjFRBxMUIkGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAaEQABBQEAAAAAAAAAAAAAAAABAAIEERIh/9oADAMBAAIRAxEAPwBNzBzvxiAD2snEyYSvUrxBkDD92799tHcT1WmwbObwoK8gupYnuvIJ/o1E4aCeXMeSWR4GWRUdvoSY7ogVtvVeNZ3EpxnhPnQwzl1q2WukdRAAqqoAaXS8GiFTY2u2v//Z",
-    "width": 640
-  },
   "id": "t3_5v9hfw",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/rgdr1253y4hy.jpg?auto=webp&s=c6426f76313f9f21396258c3f310f44b63a25c48",
-    "preview": "https://preview.redd.it/rgdr1253y4hy.jpg?width=640&crop=smart&auto=webp&s=7a5682b8d4cd37baabb49fd0958c4e22d8e2ee15",
-    "thumbnail": "https://b.thumbs.redditmedia.com/aQ3SPrbkJrq0bvZtPRkIT41dYWN9iNha35oSZ2kjDoM.jpg"
+    "filesize": 77173,
+    "fullUrl": "https://preview.redd.it/rgdr1253y4hy.jpg?auto=webp&s=c6426f76313f9f21396258c3f310f44b63a25c48",
+    "hash": "fd6c15d959",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAJRAAAgIBAgUFAQAAAAAAAAAAAQIDEQQAIQUGEjFRBxMUIkGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAaEQABBQEAAAAAAAAAAAAAAAABAAIEERIh/9oADAMBAAIRAxEAPwBNzBzvxiAD2snEyYSvUrxBkDD92799tHcT1WmwbObwoK8gupYnuvIJ/o1E4aCeXMeSWR4GWRUdvoSY7ogVtvVeNZ3EpxnhPnQwzl1q2WukdRAAqqoAaXS8GiFTY2u2v//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/aQ3SPrbkJrq0bvZtPRkIT41dYWN9iNha35oSZ2kjDoM.jpg",
+    "url": "https://preview.redd.it/rgdr1253y4hy.jpg?width=640&crop=smart&auto=webp&s=7a5682b8d4cd37baabb49fd0958c4e22d8e2ee15",
+    "width": 640
   },
   "score": {
     "comments": 0,

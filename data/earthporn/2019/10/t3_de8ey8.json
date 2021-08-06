@@ -9,21 +9,19 @@
     "month": 1569888000,
     "week": 1570320000
   },
-  "displayPicture": {
-    "filesize": 47775,
-    "hash": "7a91bb9615",
-    "height": 427,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgUHCP/EACQQAAEDAwQBBQAAAAAAAAAAAAECAwUEESEABhIxBxQiQWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAbEQACAwADAAAAAAAAAAAAAAABEQACAwQhUf/aAAwDAQACEQMRAD8ADaktJUL1OiOkqIsBQSErb5KUCc8jbPdvrVoZlW6CANZJ0nrCLjlTN5z82PQHV9Z28dSVWxxDTxSEglOAbfmm29tyzDcWstyDyMge2w1XFodKM2PnZcbLMpT/2Q==",
-    "width": 640
-  },
   "id": "t3_de8ey8",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/51l3nqff7zq31.jpg?auto=webp&s=16beaf3ced5ab94a8c1baad57f5d262668adabb3",
-    "preview": "https://preview.redd.it/51l3nqff7zq31.jpg?width=640&crop=smart&auto=webp&s=b1d3dc86d7bcf14b4db07b23061c0b58151a9b6c",
-    "thumbnail": "https://b.thumbs.redditmedia.com/OzeiPiSPr4027ErcfOJ5G0NPX0Tbeb0fe4wDt6A7aVA.jpg"
+    "filesize": 47775,
+    "fullUrl": "https://preview.redd.it/51l3nqff7zq31.jpg?auto=webp&s=16beaf3ced5ab94a8c1baad57f5d262668adabb3",
+    "hash": "7a91bb9615",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgUHCP/EACQQAAEDAwQBBQAAAAAAAAAAAAECAwUEESEABhIxBxQiQWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAbEQACAwADAAAAAAAAAAAAAAABEQACAwQhUf/aAAwDAQACEQMRAD8ADaktJUL1OiOkqIsBQSErb5KUCc8jbPdvrVoZlW6CANZJ0nrCLjlTN5z82PQHV9Z28dSVWxxDTxSEglOAbfmm29tyzDcWstyDyMge2w1XFodKM2PnZcbLMpT/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/OzeiPiSPr4027ErcfOJ5G0NPX0Tbeb0fe4wDt6A7aVA.jpg",
+    "url": "https://preview.redd.it/51l3nqff7zq31.jpg?width=640&crop=smart&auto=webp&s=b1d3dc86d7bcf14b4db07b23061c0b58151a9b6c",
+    "width": 640
   },
   "score": {
     "comments": 5,

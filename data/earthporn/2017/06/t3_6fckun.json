@@ -9,21 +9,19 @@
     "month": 1496275200,
     "week": 1496534400
   },
-  "displayPicture": {
-    "filesize": 59363,
-    "hash": "267086949b",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUI/8QAIhAAAgIBAwQDAAAAAAAAAAAAAQIDBBEABRIGEyFRIiMx/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABwRAAICAgMAAAAAAAAAAAAAAAECABEDBAVBUf/aAAwDAQACEQMRAD8AL0n05tdvf+pkS/TaKC1Ckb91Qrjsqcjz5Gc6s0jtO22d/M9upKNtCsiKw+z4cmCn8OMHWdau6Wat2RoeAJyxBXIzwHvRprk1hrE8hAeRubBfAyT69aYPIZFSh6YUNJWeyehP/9k=",
-    "width": 640
-  },
   "id": "t3_6fckun",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/ctf5l91ewr1z.jpg?auto=webp&s=aceda723d04bb2fbbca4dd73f5b36a1a570e99a6",
-    "preview": "https://preview.redd.it/ctf5l91ewr1z.jpg?width=640&crop=smart&auto=webp&s=a8cb492b84c1886123320ae08cc266d42c1d0381",
-    "thumbnail": "https://b.thumbs.redditmedia.com/WIMyDTICVV2l5rZi1e4KGEVGCC_1tQw0buGlMoioboI.jpg"
+    "filesize": 59363,
+    "fullUrl": "https://preview.redd.it/ctf5l91ewr1z.jpg?auto=webp&s=aceda723d04bb2fbbca4dd73f5b36a1a570e99a6",
+    "hash": "267086949b",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUI/8QAIhAAAgIBAwQDAAAAAAAAAAAAAQIDBBEABRIGEyFRIiMx/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABwRAAICAgMAAAAAAAAAAAAAAAECABEDBAVBUf/aAAwDAQACEQMRAD8AL0n05tdvf+pkS/TaKC1Ckb91Qrjsqcjz5Gc6s0jtO22d/M9upKNtCsiKw+z4cmCn8OMHWdau6Wat2RoeAJyxBXIzwHvRprk1hrE8hAeRubBfAyT69aYPIZFSh6YUNJWeyehP/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/WIMyDTICVV2l5rZi1e4KGEVGCC_1tQw0buGlMoioboI.jpg",
+    "url": "https://preview.redd.it/ctf5l91ewr1z.jpg?width=640&crop=smart&auto=webp&s=a8cb492b84c1886123320ae08cc266d42c1d0381",
+    "width": 640
   },
   "score": {
     "comments": 2,

@@ -9,21 +9,19 @@
     "month": 1533081600,
     "week": 1533427200
   },
-  "displayPicture": {
-    "filesize": 43909,
-    "hash": "684e03e228",
-    "height": 531,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACMQAAEEAQQBBQAAAAAAAAAAAAECAwQFEQAGEjEhI0RhcXL/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAHhEAAgEDBQAAAAAAAAAAAAAAAgMBAARhERMxQfD/2gAMAwEAAhEDEQA/ALo7O27OCHYrdghpeOAQ6lxPyMnrRKPZFLHsHnpvF1htXptSHEJKv0nOsnqrZFahLEOrq20NrPtwSTnsknOmotpWWM6WLXb8CS/nkXUlTeT9Dx1pxl+wVzofWaAG1XuQUjx7Nf/Z",
-    "width": 640
-  },
   "id": "t3_96bx45",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/uvendrzkncf11.jpg?auto=webp&s=052bda6d6984c32f751fde77d987990a1db22fdb",
-    "preview": "https://preview.redd.it/uvendrzkncf11.jpg?width=640&crop=smart&auto=webp&s=15d57992e10a2e5019c38d16d92a5bc308fdf885",
-    "thumbnail": "https://b.thumbs.redditmedia.com/ApeTm4ShjcaSNk1YBqfFBvnWVOEmWmQwnlL-SIecADw.jpg"
+    "filesize": 43909,
+    "fullUrl": "https://preview.redd.it/uvendrzkncf11.jpg?auto=webp&s=052bda6d6984c32f751fde77d987990a1db22fdb",
+    "hash": "684e03e228",
+    "height": 531,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQGB//EACMQAAEEAQQBBQAAAAAAAAAAAAECAwQFEQAGEjEhI0RhcXL/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAHhEAAgEDBQAAAAAAAAAAAAAAAgMBAARhERMxQfD/2gAMAwEAAhEDEQA/ALo7O27OCHYrdghpeOAQ6lxPyMnrRKPZFLHsHnpvF1htXptSHEJKv0nOsnqrZFahLEOrq20NrPtwSTnsknOmotpWWM6WLXb8CS/nkXUlTeT9Dx1pxl+wVzofWaAG1XuQUjx7Nf/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/ApeTm4ShjcaSNk1YBqfFBvnWVOEmWmQwnlL-SIecADw.jpg",
+    "url": "https://preview.redd.it/uvendrzkncf11.jpg?width=640&crop=smart&auto=webp&s=15d57992e10a2e5019c38d16d92a5bc308fdf885",
+    "width": 640
   },
   "score": {
     "comments": 0,

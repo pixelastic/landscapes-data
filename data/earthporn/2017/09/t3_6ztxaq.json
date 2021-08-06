@@ -9,21 +9,19 @@
     "month": 1504224000,
     "week": 1505001600
   },
-  "displayPicture": {
-    "filesize": 186199,
-    "hash": "e4441651c2",
-    "height": 853,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAJBAAAQQBAwMFAAAAAAAAAAAAAQIDBBEFAAYhBxJhEyIxUXH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/EABsRAAIBBQAAAAAAAAAAAAAAAAABAgMREiEx/9oADAMBAAIRAxEAPwCLpt1BdwW3lRkYlzJym3lFpS3qbbBo1QFnmzrPt85qZuTdU/LSkxG3pCgSkcAUkAVd/Wn4mIxQjdzpeVJTSgtB9Mg+U/Ch+8+dBy8U0lwe93kWO4VxfFeNQRr56TBK/D//2Q==",
-    "width": 640
-  },
   "id": "t3_6ztxaq",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/ovgati54ymlz.jpg?auto=webp&s=6de4212d194de4521621211b2f719048a4bc7daf",
-    "preview": "https://preview.redd.it/ovgati54ymlz.jpg?width=640&crop=smart&auto=webp&s=429fb9f70f599d81615b020fb7145b352452bb93",
-    "thumbnail": "https://b.thumbs.redditmedia.com/gvhlwskti2Pu7ooHgiGwLRc_88o5nLRBwiZiytTTgXU.jpg"
+    "filesize": 186199,
+    "fullUrl": "https://preview.redd.it/ovgati54ymlz.jpg?auto=webp&s=6de4212d194de4521621211b2f719048a4bc7daf",
+    "hash": "e4441651c2",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAJBAAAQQBAwMFAAAAAAAAAAAAAQIDBBEFAAYhBxJhEyIxUXH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/EABsRAAIBBQAAAAAAAAAAAAAAAAABAgMREiEx/9oADAMBAAIRAxEAPwCLpt1BdwW3lRkYlzJym3lFpS3qbbBo1QFnmzrPt85qZuTdU/LSkxG3pCgSkcAUkAVd/Wn4mIxQjdzpeVJTSgtB9Mg+U/Ch+8+dBy8U0lwe93kWO4VxfFeNQRr56TBK/D//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/gvhlwskti2Pu7ooHgiGwLRc_88o5nLRBwiZiytTTgXU.jpg",
+    "url": "https://preview.redd.it/ovgati54ymlz.jpg?width=640&crop=smart&auto=webp&s=429fb9f70f599d81615b020fb7145b352452bb93",
+    "width": 640
   },
   "score": {
     "comments": 0,

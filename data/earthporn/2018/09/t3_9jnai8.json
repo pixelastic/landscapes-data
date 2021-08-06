@@ -9,21 +9,19 @@
     "month": 1535760000,
     "week": 1537660800
   },
-  "displayPicture": {
-    "filesize": 136659,
-    "hash": "f8fa510294",
-    "height": 960,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACUQAAIBAwIGAwEAAAAAAAAAAAEDAgQRIQAFBhUiMWGBBxMUI//EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGhEAAQUBAAAAAAAAAAAAAAAAAQADERMhFP/aAAwDAQACEQMRAD8AOfFJ2aP38mRT06yJzk8XBuOxkBf1qc35FhUzLl7OkwZ1RP5r3HvOkJ11FuXD1VtLVJZTucGxfcmRmOxOc2Bt41j+bwX/ADUiclr6ImFrEDGM+NR9Th2ZKepsYBi//9k=",
-    "width": 640
-  },
   "id": "t3_9jnai8",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/mruevnyylzo11.jpg?auto=webp&s=d5a038dafc3ca025aed0d7cfe55a2045217e57c1",
-    "preview": "https://preview.redd.it/mruevnyylzo11.jpg?width=640&crop=smart&auto=webp&s=9a5aeeedf46dd32f44c96085cf5c63c16449191c",
-    "thumbnail": "https://b.thumbs.redditmedia.com/sxDIGtUNhaPOcHLjEUnwdhr45SByoWbVOdUnADY5spY.jpg"
+    "filesize": 136659,
+    "fullUrl": "https://preview.redd.it/mruevnyylzo11.jpg?auto=webp&s=d5a038dafc3ca025aed0d7cfe55a2045217e57c1",
+    "hash": "f8fa510294",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACUQAAIBAwIGAwEAAAAAAAAAAAEDAgQRIQAFBhUiMWGBBxMUI//EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGhEAAQUBAAAAAAAAAAAAAAAAAQADERMhFP/aAAwDAQACEQMRAD8AOfFJ2aP38mRT06yJzk8XBuOxkBf1qc35FhUzLl7OkwZ1RP5r3HvOkJ11FuXD1VtLVJZTucGxfcmRmOxOc2Bt41j+bwX/ADUiclr6ImFrEDGM+NR9Th2ZKepsYBi//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/sxDIGtUNhaPOcHLjEUnwdhr45SByoWbVOdUnADY5spY.jpg",
+    "url": "https://preview.redd.it/mruevnyylzo11.jpg?width=640&crop=smart&auto=webp&s=9a5aeeedf46dd32f44c96085cf5c63c16449191c",
+    "width": 640
   },
   "score": {
     "comments": 7,

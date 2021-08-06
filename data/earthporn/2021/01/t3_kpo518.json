@@ -9,21 +9,19 @@
     "month": 1609459200,
     "week": 1609632000
   },
-  "displayPicture": {
-    "filesize": 82331,
-    "hash": "79f639c3df",
-    "height": 426,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYH/8QAIhAAAQMEAgIDAAAAAAAAAAAAAQIDBAUREiEABhMjMXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAeEQABAwQDAAAAAAAAAAAAAAABAAMEAhETITGR8P/aAAwDAQACEQMRAD8AT1esVeIELpTTrMgn2JTIsixOlaGNuXFB7MK/PaXUZziXmRgtnyBBCgN5N6Pz+G/MzmzZELqr0mK4Wn1HErSBci6tfXDdjWpDLM1BxlowWl0aUDrfI6G87Z3wkmSYj1ItcHv21//Z",
-    "width": 640
-  },
   "id": "t3_kpo518",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/mq671pmaf5961.jpg?auto=webp&s=25eff3bf0032567187bab9238fe9edc797132846",
-    "preview": "https://preview.redd.it/mq671pmaf5961.jpg?width=640&crop=smart&auto=webp&s=e9a34408a971b74023c4014a42d3e204429984ea",
-    "thumbnail": "https://b.thumbs.redditmedia.com/OSkCh7VFwNoc3_mEML5pqtcQCbqLtgQEA4Dp9bUsiGc.jpg"
+    "filesize": 82331,
+    "fullUrl": "https://preview.redd.it/mq671pmaf5961.jpg?auto=webp&s=25eff3bf0032567187bab9238fe9edc797132846",
+    "hash": "79f639c3df",
+    "height": 426,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYH/8QAIhAAAQMEAgIDAAAAAAAAAAAAAQIDBAUREiEABhMjMXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAeEQABAwQDAAAAAAAAAAAAAAABAAMEAhETITGR8P/aAAwDAQACEQMRAD8AT1esVeIELpTTrMgn2JTIsixOlaGNuXFB7MK/PaXUZziXmRgtnyBBCgN5N6Pz+G/MzmzZELqr0mK4Wn1HErSBci6tfXDdjWpDLM1BxlowWl0aUDrfI6G87Z3wkmSYj1ItcHv21//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/OSkCh7VFwNoc3_mEML5pqtcQCbqLtgQEA4Dp9bUsiGc.jpg",
+    "url": "https://preview.redd.it/mq671pmaf5961.jpg?width=640&crop=smart&auto=webp&s=e9a34408a971b74023c4014a42d3e204429984ea",
+    "width": 640
   },
   "score": {
     "comments": 5,

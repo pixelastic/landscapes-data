@@ -9,21 +9,19 @@
     "month": 1596240000,
     "week": 1596931200
   },
-  "displayPicture": {
-    "filesize": 52901,
-    "hash": "298e1799e5",
-    "height": 303,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAX/xAAjEAABAwMCBwAAAAAAAAAAAAACAQMEAAURBiESFzFBQqHh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAQADAQAAAAAAAAAAAAAAAAIAAzEE/9oADAMBAAIRAxEAPwCfE1QNvk8MXTkV0xTAkEoh37quR9Va5tXRiyiNxsMdxsCVpSbeyGem4+O/ylKCOpvYp0E5P//Z",
-    "width": 640
-  },
   "id": "t3_ia9se8",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/93bbwawqu6h51.jpg?auto=webp&s=3753edb7290309aa574641c1fc3b98df48ea9026",
-    "preview": "https://preview.redd.it/93bbwawqu6h51.jpg?width=640&crop=smart&auto=webp&s=bd5e4fadef1c29dfbc867dd9bd0b480e1df9015a",
-    "thumbnail": "https://b.thumbs.redditmedia.com/TqFCwzVa2Ur59BBb90Z3yxaz4Lj_PhnREDI4lJXGj9s.jpg"
+    "filesize": 52901,
+    "fullUrl": "https://preview.redd.it/93bbwawqu6h51.jpg?auto=webp&s=3753edb7290309aa574641c1fc3b98df48ea9026",
+    "hash": "298e1799e5",
+    "height": 303,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAX/xAAjEAABAwMCBwAAAAAAAAAAAAACAQMEAAURBiESFzFBQqHh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABgRAQADAQAAAAAAAAAAAAAAAAIAAzEE/9oADAMBAAIRAxEAPwCfE1QNvk8MXTkV0xTAkEoh37quR9Va5tXRiyiNxsMdxsCVpSbeyGem4+O/ylKCOpvYp0E5P//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/TqFCwzVa2Ur59BBb90Z3yxaz4Lj_PhnREDI4lJXGj9s.jpg",
+    "url": "https://preview.redd.it/93bbwawqu6h51.jpg?width=640&crop=smart&auto=webp&s=bd5e4fadef1c29dfbc867dd9bd0b480e1df9015a",
+    "width": 640
   },
   "score": {
     "comments": 2,

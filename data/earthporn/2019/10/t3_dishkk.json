@@ -9,21 +9,19 @@
     "month": 1569888000,
     "week": 1570924800
   },
-  "displayPicture": {
-    "filesize": 75082,
-    "hash": "e0c1d5cc4f",
-    "height": 427,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACQQAAEDAwQBBQAAAAAAAAAAAAIBAwQFESEABjFBURIyYXGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAZEQACAwEAAAAAAAAAAAAAAAABAgADERL/2gAMAwEAAhEDEQA/ACbNvUTgN1AGzESkATslBsyoonpPzbC4Xr6vpLv3c9KphjFiwo77jYC44TWW0W3sTNvi6c21R7YisubJl1NxsSnMtmgOlnnC3Thceb8rrFVaCS7UCeFCUTW3Xf7ppY61jSZDhHc4J//Z",
-    "width": 640
-  },
   "id": "t3_dishkk",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/mszql6cesxs31.jpg?auto=webp&s=45414c17e3e518034535f7a25800b07bb1889698",
-    "preview": "https://preview.redd.it/mszql6cesxs31.jpg?width=640&crop=smart&auto=webp&s=b9fd635125beea7e0aa4dd673b4a1b1fb824b71d",
-    "thumbnail": "https://b.thumbs.redditmedia.com/1qZDdoPHTcJYbsNXdGhU48o6Lr4ZZ78O_c8pS7hfQYU.jpg"
+    "filesize": 75082,
+    "fullUrl": "https://preview.redd.it/mszql6cesxs31.jpg?auto=webp&s=45414c17e3e518034535f7a25800b07bb1889698",
+    "hash": "e0c1d5cc4f",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB//EACQQAAEDAwQBBQAAAAAAAAAAAAIBAwQFESEABjFBURIyYXGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAZEQACAwEAAAAAAAAAAAAAAAABAgADERL/2gAMAwEAAhEDEQA/ACbNvUTgN1AGzESkATslBsyoonpPzbC4Xr6vpLv3c9KphjFiwo77jYC44TWW0W3sTNvi6c21R7YisubJl1NxsSnMtmgOlnnC3Thceb8rrFVaCS7UCeFCUTW3Xf7ppY61jSZDhHc4J//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/1qZDdoPHTcJYbsNXdGhU48o6Lr4ZZ78O_c8pS7hfQYU.jpg",
+    "url": "https://preview.redd.it/mszql6cesxs31.jpg?width=640&crop=smart&auto=webp&s=b9fd635125beea7e0aa4dd673b4a1b1fb824b71d",
+    "width": 640
   },
   "score": {
     "comments": 1,

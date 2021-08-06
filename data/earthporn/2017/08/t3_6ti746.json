@@ -9,21 +9,19 @@
     "month": 1501545600,
     "week": 1502582400
   },
-  "displayPicture": {
-    "filesize": 39009,
-    "hash": "efd1333f5f",
-    "height": 424,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwMF/8QAIxAAAgIABQQDAAAAAAAAAAAAAQIDBAAFERIhBgcicTFRsf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAHREAAAYDAQAAAAAAAAAAAAAAAAECAwQRBRIisf/aAAwDAQACEQMRAD8ApP1RnlmKJ4d1mNiVJSwoIH3tKjX1jCzvqPN6ciK8UzCViodFZgDpqQdBxxgq7fWZoZrEsbkOkMm0/O3xJ4HsDCjTzC1YyGnLNKXklrKzkgeRKjX9ODbhMJK0poWHkJB87eD/2Q==",
-    "width": 640
-  },
   "id": "t3_6ti746",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/ex6sxnexxkfz.jpg?auto=webp&s=70e1eb5041898e38d124991f8023bbeba23ae86f",
-    "preview": "https://preview.redd.it/ex6sxnexxkfz.jpg?width=640&crop=smart&auto=webp&s=5940bf62a545ddd1c1efc620b60f022c819b177b",
-    "thumbnail": "https://b.thumbs.redditmedia.com/QnjvocOfFd0ZdyADAOOmqsB4gBO9jczsPrtqrdC5e6Q.jpg"
+    "filesize": 39009,
+    "fullUrl": "https://preview.redd.it/ex6sxnexxkfz.jpg?auto=webp&s=70e1eb5041898e38d124991f8023bbeba23ae86f",
+    "hash": "efd1333f5f",
+    "height": 424,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwMF/8QAIxAAAgIABQQDAAAAAAAAAAAAAQIDBAAFERIhBgcicTFRsf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAHREAAAYDAQAAAAAAAAAAAAAAAAECAwQRBRIisf/aAAwDAQACEQMRAD8ApP1RnlmKJ4d1mNiVJSwoIH3tKjX1jCzvqPN6ciK8UzCViodFZgDpqQdBxxgq7fWZoZrEsbkOkMm0/O3xJ4HsDCjTzC1YyGnLNKXklrKzkgeRKjX9ODbhMJK0poWHkJB87eD/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/QnjvocOfFd0ZdyADAOOmqsB4gBO9jczsPrtqrdC5e6Q.jpg",
+    "url": "https://preview.redd.it/ex6sxnexxkfz.jpg?width=640&crop=smart&auto=webp&s=5940bf62a545ddd1c1efc620b60f022c819b177b",
+    "width": 640
   },
   "score": {
     "comments": 0,

@@ -9,21 +9,19 @@
     "month": 1525132800,
     "week": 1526169600
   },
-  "displayPicture": {
-    "filesize": 119903,
-    "hash": "3accfe2f21",
-    "height": 940,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAlEAABBAEDAgcAAAAAAAAAAAABAgMEESEABRITMQYVI0FRcYH/xAAVAQEBAAAAAAAAAAAAAAAAAAAFBv/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhEh/9oADAMBAAIRAxEAPwCYwfLNlivJ3NpUjdQhK2Q24QlhVpKQoCrUc+5A1QGPF++z2hJda2mYpyz1yhwlYuhZB71Q/NBqiw4VtNqlkxUK5SkgIaS4vBHzxGB9k4rR9HTCfTc4ps4KqrOe2hal5wp5pOnp/9k=",
-    "width": 640
-  },
   "id": "t3_8j2egd",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/okvol30lwkx01.jpg?auto=webp&s=3b01953434db376b8da961cd675a2249dafc355e",
-    "preview": "https://preview.redd.it/okvol30lwkx01.jpg?width=640&crop=smart&auto=webp&s=e7416497b7b026d5996250c1c0a9ef14c4717fc1",
-    "thumbnail": "https://b.thumbs.redditmedia.com/tNEzFlkvROLSFi4D1WDOeUZKp7nEIMETHE_9by5lTHg.jpg"
+    "filesize": 119903,
+    "fullUrl": "https://preview.redd.it/okvol30lwkx01.jpg?auto=webp&s=3b01953434db376b8da961cd675a2249dafc355e",
+    "hash": "3accfe2f21",
+    "height": 940,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAlEAABBAEDAgcAAAAAAAAAAAABAgMEESEABRITMQYVI0FRcYH/xAAVAQEBAAAAAAAAAAAAAAAAAAAFBv/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhEh/9oADAMBAAIRAxEAPwCYwfLNlivJ3NpUjdQhK2Q24QlhVpKQoCrUc+5A1QGPF++z2hJda2mYpyz1yhwlYuhZB71Q/NBqiw4VtNqlkxUK5SkgIaS4vBHzxGB9k4rR9HTCfTc4ps4KqrOe2hal5wp5pOnp/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/tNEzFlkvROLSFi4D1WDOeUZKp7nEIMETHE_9by5lTHg.jpg",
+    "url": "https://preview.redd.it/okvol30lwkx01.jpg?width=640&crop=smart&auto=webp&s=e7416497b7b026d5996250c1c0a9ef14c4717fc1",
+    "width": 640
   },
   "score": {
     "comments": 2,

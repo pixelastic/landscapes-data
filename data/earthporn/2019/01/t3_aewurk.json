@@ -9,21 +9,19 @@
     "month": 1546300800,
     "week": 1546732800
   },
-  "displayPicture": {
-    "filesize": 64152,
-    "hash": "985e0b9210",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwYI/8QAJBAAAQQBAwMFAAAAAAAAAAAAAQIDBAURAAYSISIxBxNBgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABkRAQACAwAAAAAAAAAAAAAAAAEAAhEhMf/aAAwDAQACEQMRAD8AOdgeotlFsWWLyU/NqyohQdVzWnCTgJUeo646aaq7eFDax3WmULgSmk8+9zkh1Pzg48+P3Wb62tivSkMqbwgkeCdXsiriUG2BIitB1yQsoPv9wQAM9oGMZ+9WUR1C57P/2Q==",
-    "width": 640
-  },
   "id": "t3_aewurk",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/vnw1z51vit921.jpg?auto=webp&s=2b15b80419550cf951db4e2354d607929fa923be",
-    "preview": "https://preview.redd.it/vnw1z51vit921.jpg?width=640&crop=smart&auto=webp&s=870964543c681021dde831043542e3a03814717c",
-    "thumbnail": "https://b.thumbs.redditmedia.com/YxKjCy86Ps7D9RykFQUB3flQ7Ng_z4eyvuSROJO_63Y.jpg"
+    "filesize": 64152,
+    "fullUrl": "https://preview.redd.it/vnw1z51vit921.jpg?auto=webp&s=2b15b80419550cf951db4e2354d607929fa923be",
+    "hash": "985e0b9210",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwYI/8QAJBAAAQQBAwMFAAAAAAAAAAAAAQIDBAURAAYSISIxBxNBgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABkRAQACAwAAAAAAAAAAAAAAAAEAAhEhMf/aAAwDAQACEQMRAD8AOdgeotlFsWWLyU/NqyohQdVzWnCTgJUeo646aaq7eFDax3WmULgSmk8+9zkh1Pzg48+P3Wb62tivSkMqbwgkeCdXsiriUG2BIitB1yQsoPv9wQAM9oGMZ+9WUR1C57P/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/YxKjCy86Ps7D9RykFQUB3flQ7Ng_z4eyvuSROJO_63Y.jpg",
+    "url": "https://preview.redd.it/vnw1z51vit921.jpg?width=640&crop=smart&auto=webp&s=870964543c681021dde831043542e3a03814717c",
+    "width": 640
   },
   "score": {
     "comments": 0,

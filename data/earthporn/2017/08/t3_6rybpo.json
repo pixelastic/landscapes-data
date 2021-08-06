@@ -9,21 +9,19 @@
     "month": 1501545600,
     "week": 1501977600
   },
-  "displayPicture": {
-    "filesize": 82851,
-    "hash": "582fdaf339",
-    "height": 424,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAoEAACAQMBBQkAAAAAAAAAAAABAwIEBREABgcUIXESIjEyQVFhkaH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABwRAAEEAwEAAAAAAAAAAAAAAAIAAQMRBBMxQf/aAAwDAQACEQMRAD8AlLVvNviaWK6a3KqxgENYsY6ZHp156HvO1O110VUyNVUqp5DtCKpQWMfGByGlUTk7dJYFsOYcQ4Y8PLGRH0dDbWPZRWVfCzKsES7vuRg/mk2VMd2XGUdEY+L/2Q==",
-    "width": 640
-  },
   "id": "t3_6rybpo",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/8hl52jrcc4ez.jpg?auto=webp&s=b5f69bf8a2bb83599cb329aa71e17fa6e1c67150",
-    "preview": "https://preview.redd.it/8hl52jrcc4ez.jpg?width=640&crop=smart&auto=webp&s=4015049819ada2af520ce82f415dfeb4df062404",
-    "thumbnail": "https://b.thumbs.redditmedia.com/75LFMlS1qWDlF8pLNe0DV_An76I2MAigqYxNKaWOE7c.jpg"
+    "filesize": 82851,
+    "fullUrl": "https://preview.redd.it/8hl52jrcc4ez.jpg?auto=webp&s=b5f69bf8a2bb83599cb329aa71e17fa6e1c67150",
+    "hash": "582fdaf339",
+    "height": 424,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAoEAACAQMBBQkAAAAAAAAAAAABAwIEBREABgcUIXESIjEyQVFhkaH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABwRAAEEAwEAAAAAAAAAAAAAAAIAAQMRBBMxQf/aAAwDAQACEQMRAD8AlLVvNviaWK6a3KqxgENYsY6ZHp156HvO1O110VUyNVUqp5DtCKpQWMfGByGlUTk7dJYFsOYcQ4Y8PLGRH0dDbWPZRWVfCzKsES7vuRg/mk2VMd2XGUdEY+L/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/75LFMlS1qWDlF8pLNe0DV_An76I2MAigqYxNKaWOE7c.jpg",
+    "url": "https://preview.redd.it/8hl52jrcc4ez.jpg?width=640&crop=smart&auto=webp&s=4015049819ada2af520ce82f415dfeb4df062404",
+    "width": 640
   },
   "score": {
     "comments": 6,

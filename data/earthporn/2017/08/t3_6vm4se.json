@@ -9,21 +9,19 @@
     "month": 1501545600,
     "week": 1503187200
   },
-  "displayPicture": {
-    "filesize": 149294,
-    "hash": "d285c72553",
-    "height": 853,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIhAAAgEDAwUBAAAAAAAAAAAAAQIDBAURAAYSByEiMVFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAbEQACAgMBAAAAAAAAAAAAAAABAgARAyEicf/aAAwDAQACEQMRAD8Azrl1yvtVGKeGRUlkBRgF95wBjUrb/wCodWxdUql44jPGPiCVGPR/NDtpW1aO4w3G5RVrNBIBBDDSlg8pHiC5IA+9u+kC3DcDcszOGDEMHUMQc/dTysUAo79itX1P/9k=",
-    "width": 640
-  },
   "id": "t3_6vm4se",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/sdnh7j4c1khz.jpg?auto=webp&s=2c5a803d205427f21ad67feecd0bd48cd39e35e6",
-    "preview": "https://preview.redd.it/sdnh7j4c1khz.jpg?width=640&crop=smart&auto=webp&s=d7d4d87bc7078cbe8205b47ab4fc523398677a4c",
-    "thumbnail": "https://b.thumbs.redditmedia.com/bwWdKufdlDvPcKErYH9nzMIyUXG1W0i4KHdIyQIyihc.jpg"
+    "filesize": 149294,
+    "fullUrl": "https://preview.redd.it/sdnh7j4c1khz.jpg?auto=webp&s=2c5a803d205427f21ad67feecd0bd48cd39e35e6",
+    "hash": "d285c72553",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAIhAAAgEDAwUBAAAAAAAAAAAAAQIDBAURAAYSByEiMVFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAbEQACAgMBAAAAAAAAAAAAAAABAgARAyEicf/aAAwDAQACEQMRAD8Azrl1yvtVGKeGRUlkBRgF95wBjUrb/wCodWxdUql44jPGPiCVGPR/NDtpW1aO4w3G5RVrNBIBBDDSlg8pHiC5IA+9u+kC3DcDcszOGDEMHUMQc/dTysUAo79itX1P/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/bwWdKufdlDvPcKErYH9nzMIyUXG1W0i4KHdIyQIyihc.jpg",
+    "url": "https://preview.redd.it/sdnh7j4c1khz.jpg?width=640&crop=smart&auto=webp&s=d7d4d87bc7078cbe8205b47ab4fc523398677a4c",
+    "width": 640
   },
   "score": {
     "comments": 0,

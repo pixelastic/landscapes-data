@@ -9,21 +9,19 @@
     "month": 1596240000,
     "week": 1596326400
   },
-  "displayPicture": {
-    "filesize": 128182,
-    "hash": "fd01311b6c",
-    "height": 640,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIxAAAQQBAwUBAQAAAAAAAAAAAQIDBBEFACExBhITIkEjYf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQABBQEAAAAAAAAAAAAAAAACAAEDEUEx/9oADAMBAAIRAxEAPwBDFdeYWfh1JyiyuT39qm1EhKRz6k777DgaB6pz3S7+JcXEjhuc2oOIkm3VBSd6XdWDVV8vWBwEczpjLpmMp9+wNr28hIocfL/urXI0qPFcdVHbP6FId8go7XwRvpDzGUV4icK9X//Z",
-    "width": 640
-  },
   "id": "t3_i2tr77",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/rsxb38gr6re51.jpg?auto=webp&s=35f9298d06e1642b9343486c006a760fbcccfd13",
-    "preview": "https://preview.redd.it/rsxb38gr6re51.jpg?width=640&crop=smart&auto=webp&s=ea327b927e608a05adc10f62dcb48157bc761945",
-    "thumbnail": "https://b.thumbs.redditmedia.com/tP2M8xJ0cpqmJqqeOj-Gd6vefIAN3Lgk74sA6lxq1cM.jpg"
+    "filesize": 128182,
+    "fullUrl": "https://preview.redd.it/rsxb38gr6re51.jpg?auto=webp&s=35f9298d06e1642b9343486c006a760fbcccfd13",
+    "hash": "fd01311b6c",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIxAAAQQBAwUBAQAAAAAAAAAAAQIDBBEFACExBhITIkEjYf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQABBQEAAAAAAAAAAAAAAAACAAEDEUEx/9oADAMBAAIRAxEAPwBDFdeYWfh1JyiyuT39qm1EhKRz6k777DgaB6pz3S7+JcXEjhuc2oOIkm3VBSd6XdWDVV8vWBwEczpjLpmMp9+wNr28hIocfL/urXI0qPFcdVHbP6FId8go7XwRvpDzGUV4icK9X//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/tP2M8xJ0cpqmJqqeOj-Gd6vefIAN3Lgk74sA6lxq1cM.jpg",
+    "url": "https://preview.redd.it/rsxb38gr6re51.jpg?width=640&crop=smart&auto=webp&s=ea327b927e608a05adc10f62dcb48157bc761945",
+    "width": 640
   },
   "score": {
     "comments": 4,

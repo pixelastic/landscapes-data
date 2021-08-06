@@ -9,21 +9,19 @@
     "month": 1514764800,
     "week": 1516492800
   },
-  "displayPicture": {
-    "filesize": 151747,
-    "hash": "a95daf5394",
-    "height": 800,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAJhAAAgECBAYDAQAAAAAAAAAAAQIDBAUAERJBBgchMTJhFFFxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAES/9oADAMBAAIRAxEAPwCnBHMGpo6b49wCmhSUSlo1AbWJFc9u/QEf3GZ5wXaK98YPX0syxQSwRFAz7aQdvZOCQvYjQNJBJJVo7MG0hk0AH8657ZH7wfiG1WlKxTUzSRalDRqZD4beKkZ+s8xiyxSP/9k=",
-    "width": 640
-  },
   "id": "t3_7syzak",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/jatu2kwit9c01.jpg?auto=webp&s=c2624d1d509917f3a4d92360887e0ec5ad68dcd6",
-    "preview": "https://preview.redd.it/jatu2kwit9c01.jpg?width=640&crop=smart&auto=webp&s=e6c2c2748b467fd666a3763efc38f94fdee76ba9",
-    "thumbnail": "https://a.thumbs.redditmedia.com/dhjmRgJ64ViJFBkt-rGLnsIC-5Pasli5vgv9UIbKXy0.jpg"
+    "filesize": 151747,
+    "fullUrl": "https://preview.redd.it/jatu2kwit9c01.jpg?auto=webp&s=c2624d1d509917f3a4d92360887e0ec5ad68dcd6",
+    "hash": "a95daf5394",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAJhAAAgECBAYDAQAAAAAAAAAAAQIDBAUAERJBBgchMTJhFFFxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAES/9oADAMBAAIRAxEAPwCnBHMGpo6b49wCmhSUSlo1AbWJFc9u/QEf3GZ5wXaK98YPX0syxQSwRFAz7aQdvZOCQvYjQNJBJJVo7MG0hk0AH8657ZH7wfiG1WlKxTUzSRalDRqZD4beKkZ+s8xiyxSP/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/dhjmRgJ64ViJFBkt-rGLnsIC-5Pasli5vgv9UIbKXy0.jpg",
+    "url": "https://preview.redd.it/jatu2kwit9c01.jpg?width=640&crop=smart&auto=webp&s=e6c2c2748b467fd666a3763efc38f94fdee76ba9",
+    "width": 640
   },
   "score": {
     "comments": 4,

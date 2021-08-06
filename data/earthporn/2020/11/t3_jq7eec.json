@@ -9,21 +9,19 @@
     "month": 1604188800,
     "week": 1604793600
   },
-  "displayPicture": {
-    "filesize": 69408,
-    "hash": "b995b021a7",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEB//EACQQAAEDAwMEAwAAAAAAAAAAAAMBAgQFBhEAEiEHIjFBUmGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABsRAAICAwEAAAAAAAAAAAAAAAECABIREyEx/9oADAMBAAIRAxEAPwCahdVIKxwjrNEK9zW95hORc/e12NJvm/4dRop6da1LIwRxo0xyoiObn0iIvGs4t+Y+NUYxWjCRW5ftIzc1V8cp7/dC56/Njy3xo6RxRTCRVAwLUY3PxTHGlbELljCqJsoo77P/2Q==",
-    "width": 640
-  },
   "id": "t3_jq7eec",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/6gmah4spsyx51.jpg?auto=webp&s=cd32039297042586a2115de6e5f7d5c3bd5502b2",
-    "preview": "https://preview.redd.it/6gmah4spsyx51.jpg?width=640&crop=smart&auto=webp&s=6864fc998d219042353ad847f19273f0633a6680",
-    "thumbnail": "https://b.thumbs.redditmedia.com/_r9KRNppA0SdRNyRiBLHzSeRbO_w0Ru7lJ7_U1qdAmw.jpg"
+    "filesize": 69408,
+    "fullUrl": "https://preview.redd.it/6gmah4spsyx51.jpg?auto=webp&s=cd32039297042586a2115de6e5f7d5c3bd5502b2",
+    "hash": "b995b021a7",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEB//EACQQAAEDAwMEAwAAAAAAAAAAAAMBAgQFBhEAEiEHIjFBUmGB/8QAFAEBAAAAAAAAAAAAAAAAAAAABf/EABsRAAICAwEAAAAAAAAAAAAAAAECABIREyEx/9oADAMBAAIRAxEAPwCahdVIKxwjrNEK9zW95hORc/e12NJvm/4dRop6da1LIwRxo0xyoiObn0iIvGs4t+Y+NUYxWjCRW5ftIzc1V8cp7/dC56/Njy3xo6RxRTCRVAwLUY3PxTHGlbELljCqJsoo77P/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/_r9KRNppA0SdRNyRiBLHzSeRbO_w0Ru7lJ7_U1qdAmw.jpg",
+    "url": "https://preview.redd.it/6gmah4spsyx51.jpg?width=640&crop=smart&auto=webp&s=6864fc998d219042353ad847f19273f0633a6680",
+    "width": 640
   },
   "score": {
     "comments": 4,

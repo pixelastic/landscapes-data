@@ -9,21 +9,19 @@
     "month": 1501545600,
     "week": 1503187200
   },
-  "displayPicture": {
-    "filesize": 65775,
-    "hash": "e06b14614e",
-    "height": 427,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIH/8QAJhAAAQMEAQEJAAAAAAAAAAAAAQIDBAAFESExBwYSExQiQVFhcf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAeEQABAwQDAAAAAAAAAAAAAAABAAIhAwQR8BQxgf/aAAwDAQACEQMRAD8AZi9T4MloNx7fMVC0lx55YQhIOvfn73RZ6kWJhxES4wAdnwpcJ1JAHwUnGP3dV2esFrutnYE+Il7vhS1epQyQedEVn0uHHiOu+XZbSSSMkZOBwN0IvqrTgGd3pHw2Ogj1f//Z",
-    "width": 640
-  },
   "id": "t3_6uwv5z",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/o36u4fs8cxgz.jpg?auto=webp&s=8f7bbb8562a55b3b1d6c5227cbefd6f749788968",
-    "preview": "https://preview.redd.it/o36u4fs8cxgz.jpg?width=640&crop=smart&auto=webp&s=3270141230a307154aeaccc4a911a2754e36b60d",
-    "thumbnail": "https://b.thumbs.redditmedia.com/T6FjIFdEb6O6a9fHSELMq8dcecLVrkRs2C4V4mM7Uzw.jpg"
+    "filesize": 65775,
+    "fullUrl": "https://preview.redd.it/o36u4fs8cxgz.jpg?auto=webp&s=8f7bbb8562a55b3b1d6c5227cbefd6f749788968",
+    "hash": "e06b14614e",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIH/8QAJhAAAQMEAQEJAAAAAAAAAAAAAQIDBAAFESExBwYSExQiQVFhcf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAeEQABAwQDAAAAAAAAAAAAAAABAAIhAwQR8BQxgf/aAAwDAQACEQMRAD8AZi9T4MloNx7fMVC0lx55YQhIOvfn73RZ6kWJhxES4wAdnwpcJ1JAHwUnGP3dV2esFrutnYE+Il7vhS1epQyQedEVn0uHHiOu+XZbSSSMkZOBwN0IvqrTgGd3pHw2Ogj1f//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/T6FjIFdEb6O6a9fHSELMq8dcecLVrkRs2C4V4mM7Uzw.jpg",
+    "url": "https://preview.redd.it/o36u4fs8cxgz.jpg?width=640&crop=smart&auto=webp&s=3270141230a307154aeaccc4a911a2754e36b60d",
+    "width": 640
   },
   "score": {
     "comments": 1,

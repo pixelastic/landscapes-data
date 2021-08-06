@@ -9,21 +9,19 @@
     "month": 1517443200,
     "week": 1519516800
   },
-  "displayPicture": {
-    "filesize": 189599,
-    "hash": "b3bde6e964",
-    "height": 853,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgL/xAAiEAACAgIBBAMBAAAAAAAAAAABAgMEBREAEhMhMQcUQWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGREBAAIDAAAAAAAAAAAAAAAAAQASAgMi/9oADAMBAAIRAxEAPwCcPnLCZSWarAPsWIWj3OdI0qIW0NetH3/ekcMtZFh2nVbsncJYu50Sf0+Qd8bfH0UrU792KqZGjnLmXe+kMFDADZ9jfCVHJXJKUKjLY6uIgU7duwFcHqJOh48bJ4TjrKgRC3TP/9k=",
-    "width": 640
-  },
   "id": "t3_806dbb",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/7vubrupakei01.jpg?auto=webp&s=23cdf55edb9dec0ff60ab1ec69b955429af37aa2",
-    "preview": "https://preview.redd.it/7vubrupakei01.jpg?width=640&crop=smart&auto=webp&s=d8e8dfbb67053b4e0d84299b6a3a1fab0694ce28",
-    "thumbnail": "https://a.thumbs.redditmedia.com/QCcb6acNmD2mEV0lP7AswtMClgVWp818Yh4DpNdozP0.jpg"
+    "filesize": 189599,
+    "fullUrl": "https://preview.redd.it/7vubrupakei01.jpg?auto=webp&s=23cdf55edb9dec0ff60ab1ec69b955429af37aa2",
+    "hash": "b3bde6e964",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgL/xAAiEAACAgIBBAMBAAAAAAAAAAABAgMEBREAEhMhMQcUQWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGREBAAIDAAAAAAAAAAAAAAAAAQASAgMi/9oADAMBAAIRAxEAPwCcPnLCZSWarAPsWIWj3OdI0qIW0NetH3/ekcMtZFh2nVbsncJYu50Sf0+Qd8bfH0UrU792KqZGjnLmXe+kMFDADZ9jfCVHJXJKUKjLY6uIgU7duwFcHqJOh48bJ4TjrKgRC3TP/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/QCcb6acNmD2mEV0lP7AswtMClgVWp818Yh4DpNdozP0.jpg",
+    "url": "https://preview.redd.it/7vubrupakei01.jpg?width=640&crop=smart&auto=webp&s=d8e8dfbb67053b4e0d84299b6a3a1fab0694ce28",
+    "width": 640
   },
   "score": {
     "comments": 4,

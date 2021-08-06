@@ -9,21 +9,19 @@
     "month": 1535760000,
     "week": 1535846400
   },
-  "displayPicture": {
-    "filesize": 70081,
-    "hash": "02b769e9fa",
-    "height": 548,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAOABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIH/8QAJBAAAQMCBgIDAAAAAAAAAAAAAQIDBAURAAYSEyJBBzEUIWH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABoRAAICAwAAAAAAAAAAAAAAAAECABEhQWH/2gAMAwEAAhEDEQA/ALf8p0OBD0QMtPFzQbfLdDfL8ABuMY9Vsy1ibPfk7wbLqr7KEjSkdAJ6AwucywW4yYsmnpkRyL8k8gfXZIwdMrNMRAVHagqYU6QUuIQi6T7HQ+sCqUsg57KZi1DU/9k=",
-    "width": 640
-  },
   "id": "t3_9dt1do",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/df7mzjfamsk11.jpg?auto=webp&s=59c95bff945c3f48b53e7f801f05a6e7e1fcd520",
-    "preview": "https://preview.redd.it/df7mzjfamsk11.jpg?width=640&crop=smart&auto=webp&s=c1b06f2bbc7733d3dee93a458c019826835de3ca",
-    "thumbnail": "https://b.thumbs.redditmedia.com/AM2Om3FnO1Hy0FEq19fbq1VBPCMj6MpfQSfwfI2QSgM.jpg"
+    "filesize": 70081,
+    "fullUrl": "https://preview.redd.it/df7mzjfamsk11.jpg?auto=webp&s=59c95bff945c3f48b53e7f801f05a6e7e1fcd520",
+    "hash": "02b769e9fa",
+    "height": 548,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAOABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIH/8QAJBAAAQMCBgIDAAAAAAAAAAAAAQIDBAURAAYSEyJBBzEUIWH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABoRAAICAwAAAAAAAAAAAAAAAAECABEhQWH/2gAMAwEAAhEDEQA/ALf8p0OBD0QMtPFzQbfLdDfL8ABuMY9Vsy1ibPfk7wbLqr7KEjSkdAJ6AwucywW4yYsmnpkRyL8k8gfXZIwdMrNMRAVHagqYU6QUuIQi6T7HQ+sCqUsg57KZi1DU/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/AM2Om3FnO1Hy0FEq19fbq1VBPCMj6MpfQSfwfI2QSgM.jpg",
+    "url": "https://preview.redd.it/df7mzjfamsk11.jpg?width=640&crop=smart&auto=webp&s=c1b06f2bbc7733d3dee93a458c019826835de3ca",
+    "width": 640
   },
   "score": {
     "comments": 3,

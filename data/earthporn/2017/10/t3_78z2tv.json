@@ -9,21 +9,19 @@
     "month": 1506816000,
     "week": 1508630400
   },
-  "displayPicture": {
-    "filesize": 202771,
-    "hash": "d69dfb3bfd",
-    "height": 960,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIG/8QAJhAAAgEDAQcFAAAAAAAAAAAAAQIEAwURAAYHEiEiMWETM0GBgv/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGxEAAgEFAAAAAAAAAAAAAAAAAAECAxETIUH/2gAMAwEAAhEDEQA/AMALWbhJWvTf1I6ZLvS6mVVzzI7jJxqDCSoS6JyYk9ROc/OfvTW5+2VNppl9hxbhFgFohSjIq+4tTiBVk8ABgfDaPu+7e+wrlIjrf7bWFNsBzIKcX5PbU2Gb6MqkFtq5/9k=",
-    "width": 640
-  },
   "id": "t3_78z2tv",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/xostyg5129uz.jpg?auto=webp&s=9d2613b054453c6fbf123656b38381710730b5ff",
-    "preview": "https://preview.redd.it/xostyg5129uz.jpg?width=640&crop=smart&auto=webp&s=8a43deebaeb731e5bf1ef50f3906e519b7507142",
-    "thumbnail": "https://b.thumbs.redditmedia.com/vgTVI8jquRecFb1ECXWeyoGyEWA6FHpApst3B8sPCnM.jpg"
+    "filesize": 202771,
+    "fullUrl": "https://preview.redd.it/xostyg5129uz.jpg?auto=webp&s=9d2613b054453c6fbf123656b38381710730b5ff",
+    "hash": "d69dfb3bfd",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIG/8QAJhAAAgEDAQcFAAAAAAAAAAAAAQIEAwURAAYHEiEiMWETM0GBgv/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGxEAAgEFAAAAAAAAAAAAAAAAAAECAxETIUH/2gAMAwEAAhEDEQA/AMALWbhJWvTf1I6ZLvS6mVVzzI7jJxqDCSoS6JyYk9ROc/OfvTW5+2VNppl9hxbhFgFohSjIq+4tTiBVk8ABgfDaPu+7e+wrlIjrf7bWFNsBzIKcX5PbU2Gb6MqkFtq5/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/vgTVI8jquRecFb1ECXWeyoGyEWA6FHpApst3B8sPCnM.jpg",
+    "url": "https://preview.redd.it/xostyg5129uz.jpg?width=640&crop=smart&auto=webp&s=8a43deebaeb731e5bf1ef50f3906e519b7507142",
+    "width": 640
   },
   "score": {
     "comments": 2,

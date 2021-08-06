@@ -9,21 +9,19 @@
     "month": 1498867200,
     "week": 1498348800
   },
-  "displayPicture": {
-    "filesize": 99632,
-    "hash": "1af8a2bb2a",
-    "height": 640,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJRAAAgIABAUFAAAAAAAAAAAAAQIDBAAFBhEhIjFBURIVMmGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQABBAMAAAAAAAAAAAAAAAABAAIDEQQFIf/aAAwDAQACEQMRAD8ADad1BmgzOlUpyoyylYgX2aNwTwJY8PA3xu061qs7wS2abQHqsT/E/RwT1TDToVovb6dOO07elII4xGJNttzsoIHc9OHfzivXy6tYrJYrzvC5XmjdBynoR+4GDOEQo9Us2uLzbV//2Q==",
-    "width": 640
-  },
   "id": "t3_6ko0t4",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/luhasunwf07z.jpg?auto=webp&s=45ff4e7749323f4bef596ea5d864b0cd022a448c",
-    "preview": "https://preview.redd.it/luhasunwf07z.jpg?width=640&crop=smart&auto=webp&s=8947174b3793075355eef057b62fe022c6503a30",
-    "thumbnail": "https://a.thumbs.redditmedia.com/IuVTvQNPlmW-m9dp23Wv4Aa8dCy-EX3bUGb31LworR0.jpg"
+    "filesize": 99632,
+    "fullUrl": "https://preview.redd.it/luhasunwf07z.jpg?auto=webp&s=45ff4e7749323f4bef596ea5d864b0cd022a448c",
+    "hash": "1af8a2bb2a",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJRAAAgIABAUFAAAAAAAAAAAAAQIDBAAFBhEhIjFBURIVMmGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQABBAMAAAAAAAAAAAAAAAABAAIDEQQFIf/aAAwDAQACEQMRAD8ADad1BmgzOlUpyoyylYgX2aNwTwJY8PA3xu061qs7wS2abQHqsT/E/RwT1TDToVovb6dOO07elII4xGJNttzsoIHc9OHfzivXy6tYrJYrzvC5XmjdBynoR+4GDOEQo9Us2uLzbV//2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/IuVTvQNPlmW-m9dp23Wv4Aa8dCy-EX3bUGb31LworR0.jpg",
+    "url": "https://preview.redd.it/luhasunwf07z.jpg?width=640&crop=smart&auto=webp&s=8947174b3793075355eef057b62fe022c6503a30",
+    "width": 640
   },
   "score": {
     "comments": 2,

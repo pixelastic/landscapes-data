@@ -9,21 +9,19 @@
     "month": 1501545600,
     "week": 1502582400
   },
-  "displayPicture": {
-    "filesize": 23334,
-    "hash": "b231e044b0",
-    "height": 360,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAIxAAAgAEBQUAAAAAAAAAAAAAAQMAAgQRBQcSMbEhM3Fygf/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECMREhYf/aAAwDAQACEQMRAD8AiVGa7lkAU9KvptKrVyYfh2c0qzKGYZQMmJtqmvLf4DaMJZs/1HMDb3keTxE5O+CKWliz/9k=",
-    "width": 640
-  },
   "id": "t3_6u93bx",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/pcgie54qz9gz.jpg?auto=webp&s=1ee1b5a79bb91a4088b9f6055dfdafcf3e3c647c",
-    "preview": "https://preview.redd.it/pcgie54qz9gz.jpg?width=640&crop=smart&auto=webp&s=416287c1c3bebd8d9cb26a1af7e87bb9c875d8bb",
-    "thumbnail": "https://b.thumbs.redditmedia.com/1ouUQFODraOE3UtYWP-FKZ2dYmBlFjaN29HBHn0ORYE.jpg"
+    "filesize": 23334,
+    "fullUrl": "https://preview.redd.it/pcgie54qz9gz.jpg?auto=webp&s=1ee1b5a79bb91a4088b9f6055dfdafcf3e3c647c",
+    "hash": "b231e044b0",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAIxAAAgAEBQUAAAAAAAAAAAAAAQMAAgQRBQcSMbEhM3Fygf/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECMREhYf/aAAwDAQACEQMRAD8AiVGa7lkAU9KvptKrVyYfh2c0qzKGYZQMmJtqmvLf4DaMJZs/1HMDb3keTxE5O+CKWliz/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/1ouUQFODraOE3UtYWP-FKZ2dYmBlFjaN29HBHn0ORYE.jpg",
+    "url": "https://preview.redd.it/pcgie54qz9gz.jpg?width=640&crop=smart&auto=webp&s=416287c1c3bebd8d9cb26a1af7e87bb9c875d8bb",
+    "width": 640
   },
   "score": {
     "comments": 19,

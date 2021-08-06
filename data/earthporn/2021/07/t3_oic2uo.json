@@ -9,21 +9,19 @@
     "month": 1625097600,
     "week": 1625961600
   },
-  "displayPicture": {
-    "filesize": 49256,
-    "hash": "058c3961fc",
-    "height": 800,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQcI/8QAJRAAAQMDAwMFAAAAAAAAAAAAAQIDBAURIQAGEhQVQSIjMVFx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAMAAwAAAAAAAAAAAAAAAAABAgMxUf/aAAwDAQACEQMRAD8Ao9frVN2jQxLqcqMypfoaDiiQ4s/AwCbfZ8DSdI6KXT2HO5R6i5wSHHoYCmyu2bWOPzWKNybnlbhqrtQmkpcct7fMqSjAwm5wPNtHR63UIhV26VIhoVbkGHCjkR5NiLnSrypaYeYfD//Z",
-    "width": 640
-  },
   "id": "t3_oic2uo",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/owmoztc79na71.jpg?auto=webp&s=ac2b680581525d05d6df9a041df00fcbd8da2922",
-    "preview": "https://preview.redd.it/owmoztc79na71.jpg?width=640&crop=smart&auto=webp&s=6197c0f9c662303417e9c7f2bcc3733329044de3",
-    "thumbnail": "https://b.thumbs.redditmedia.com/caNgp5oYhLn6w8Sl9_Sz6h204ZIBgV09AC0sfPzT60M.jpg"
+    "filesize": 49256,
+    "fullUrl": "https://preview.redd.it/owmoztc79na71.jpg?auto=webp&s=ac2b680581525d05d6df9a041df00fcbd8da2922",
+    "hash": "058c3961fc",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQcI/8QAJRAAAQMDAwMFAAAAAAAAAAAAAQIDBAURIQAGEhQVQSIjMVFx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABkRAAMAAwAAAAAAAAAAAAAAAAABAgMxUf/aAAwDAQACEQMRAD8Ao9frVN2jQxLqcqMypfoaDiiQ4s/AwCbfZ8DSdI6KXT2HO5R6i5wSHHoYCmyu2bWOPzWKNybnlbhqrtQmkpcct7fMqSjAwm5wPNtHR63UIhV26VIhoVbkGHCjkR5NiLnSrypaYeYfD//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/caNgp5oYhLn6w8Sl9_Sz6h204ZIBgV09AC0sfPzT60M.jpg",
+    "url": "https://preview.redd.it/owmoztc79na71.jpg?width=640&crop=smart&auto=webp&s=6197c0f9c662303417e9c7f2bcc3733329044de3",
+    "width": 640
   },
   "score": {
     "comments": 6,

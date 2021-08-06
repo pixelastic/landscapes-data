@@ -9,21 +9,19 @@
     "month": 1488326400,
     "week": 1489881600
   },
-  "displayPicture": {
-    "filesize": 365787,
-    "hash": "4e2e3879ee",
-    "height": 427,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAACXBIWXMAAAsTAAALEwEAmpwYAAACJklEQVQokQEbAuT9AAgoVQouXg00ZAsyYwszZAoyZAovXwkvXQsxXgwyYA0yYQ01ZBA4ZhY8aiJFbjJOcAASPnAmTXo1WX8bSXoZRngZRncYRXUZRXMZRnUbSHYeS3crUnwqVH4nU38tWIQ0XIQAQ2eMWHeYTXGWMGOUMmiZMmeXMmeWNWaRPWqSUHWWVXmZWn2dVHiaY4CdfI+jboWeAKq0ws/V3q3B03mdvFp+nl+CoHKSrZStwpiruouhr4GbrIqhsquzubC1ua+yt7K1ugDh5Oj09PT39fPk5uarr7NhZ2tbYWbFx8n19fPg5OXT1dWwr69aXWNHTFBmZ2h/f38A2Nvf6ers6Ovt5ejs3uLmmaGom6Kp0tXY8/T09/f38vPz6uvuwsXJkJGWQUJGIyMlANre4dve4b/CxMDCxczR1rzCyc7U2ebp6+vu7+zv7+vt7fj4+PHy8/j5+vX29snJywCZmpiGhYSYmZqtsLPb4OTi5unk6Ovm6u3o7O7p7e7p6+zv8PHy8/Pr7O3w8PD5+fkAhYeHtLm94ebq6e3w6ezu6+7u7/Hx7vDw7e/v6e3u6ezu6u3u7+/w7e7v5ufp5eboAMDFytXa4N7h5uPl6Ons7u3v7+vt7fj5+Pf49/T19e7x8uvt8Ofo6vHw8u3t7+Tn6ACmqq61usDFytLO1NzX2+Lp6uzEwr/c29n+/v7z8/Lq6urf3+Dr7fDm6ezj5unh5OWyzGR5KON1wAAAAABJRU5ErkJggg==",
-    "width": 640
-  },
   "id": "t3_61hz36",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/b6j3ofnjgmny.png?auto=webp&s=5acb4004472788e3f019c399bd1fac7b663e56c6",
-    "preview": "https://preview.redd.it/b6j3ofnjgmny.png?width=640&crop=smart&auto=webp&s=3b46622d7727754ba61e83b4595a75a78735e131",
-    "thumbnail": "https://a.thumbs.redditmedia.com/Q1-grvJ4absnWI4oIVHK03LLRK5ffE0lRYqU_nzjKz4.jpg"
+    "filesize": 365787,
+    "fullUrl": "https://preview.redd.it/b6j3ofnjgmny.png?auto=webp&s=5acb4004472788e3f019c399bd1fac7b663e56c6",
+    "hash": "4e2e3879ee",
+    "height": 427,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAACXBIWXMAAAsTAAALEwEAmpwYAAACJklEQVQokQEbAuT9AAgoVQouXg00ZAsyYwszZAoyZAovXwkvXQsxXgwyYA0yYQ01ZBA4ZhY8aiJFbjJOcAASPnAmTXo1WX8bSXoZRngZRncYRXUZRXMZRnUbSHYeS3crUnwqVH4nU38tWIQ0XIQAQ2eMWHeYTXGWMGOUMmiZMmeXMmeWNWaRPWqSUHWWVXmZWn2dVHiaY4CdfI+jboWeAKq0ws/V3q3B03mdvFp+nl+CoHKSrZStwpiruouhr4GbrIqhsquzubC1ua+yt7K1ugDh5Oj09PT39fPk5uarr7NhZ2tbYWbFx8n19fPg5OXT1dWwr69aXWNHTFBmZ2h/f38A2Nvf6ers6Ovt5ejs3uLmmaGom6Kp0tXY8/T09/f38vPz6uvuwsXJkJGWQUJGIyMlANre4dve4b/CxMDCxczR1rzCyc7U2ebp6+vu7+zv7+vt7fj4+PHy8/j5+vX29snJywCZmpiGhYSYmZqtsLPb4OTi5unk6Ovm6u3o7O7p7e7p6+zv8PHy8/Pr7O3w8PD5+fkAhYeHtLm94ebq6e3w6ezu6+7u7/Hx7vDw7e/v6e3u6ezu6u3u7+/w7e7v5ufp5eboAMDFytXa4N7h5uPl6Ons7u3v7+vt7fj5+Pf49/T19e7x8uvt8Ofo6vHw8u3t7+Tn6ACmqq61usDFytLO1NzX2+Lp6uzEwr/c29n+/v7z8/Lq6urf3+Dr7fDm6ezj5unh5OWyzGR5KON1wAAAAABJRU5ErkJggg==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/Q1-grvJ4absnWI4oIVHK03LLRK5ffE0lRYqU_nzjKz4.jpg",
+    "url": "https://preview.redd.it/b6j3ofnjgmny.png?width=640&crop=smart&auto=webp&s=3b46622d7727754ba61e83b4595a75a78735e131",
+    "width": 640
   },
   "score": {
     "comments": 2,

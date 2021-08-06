@@ -9,21 +9,19 @@
     "month": 1559347200,
     "week": 1560038400
   },
-  "displayPicture": {
-    "filesize": 206098,
-    "hash": "4f0fe4482c",
-    "height": 960,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJhAAAQMEAAQHAAAAAAAAAAAAAQIDBAAFEiEHETFBEyIyYZGh0f/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAAxExkf/aAAwDAQACEQMRAD8AI8P7gZlgbQ434hU2orZwBQAOp3oaHP5qefxLvdvmOxLZJaTCZODSXW1ZJT2B5a10rGt13XIjFUVKm/IppYzxS4O2h7a/aISXnjIcK4jRUVH1Hf2ah0UlnYt5vI67mkT/2Q==",
-    "width": 640
-  },
   "id": "t3_c0hw0t",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/marews0sea431.jpg?auto=webp&s=5d898983f2c2685c532a8f3e616873228b3039f7",
-    "preview": "https://preview.redd.it/marews0sea431.jpg?width=640&crop=smart&auto=webp&s=48ba78cb3bbb8264b804bbbd6455f5150de14774",
-    "thumbnail": "https://b.thumbs.redditmedia.com/ZwZi33bZeP4zNk43hnRulVd9-gf1a13vhkFiVG4fAIs.jpg"
+    "filesize": 206098,
+    "fullUrl": "https://preview.redd.it/marews0sea431.jpg?auto=webp&s=5d898983f2c2685c532a8f3e616873228b3039f7",
+    "hash": "4f0fe4482c",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJhAAAQMEAAQHAAAAAAAAAAAAAQIDBAAFEiEHETFBEyIyYZGh0f/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAAxExkf/aAAwDAQACEQMRAD8AI8P7gZlgbQ434hU2orZwBQAOp3oaHP5qefxLvdvmOxLZJaTCZODSXW1ZJT2B5a10rGt13XIjFUVKm/IppYzxS4O2h7a/aISXnjIcK4jRUVH1Hf2ah0UlnYt5vI67mkT/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/ZwZi33bZeP4zNk43hnRulVd9-gf1a13vhkFiVG4fAIs.jpg",
+    "url": "https://preview.redd.it/marews0sea431.jpg?width=640&crop=smart&auto=webp&s=48ba78cb3bbb8264b804bbbd6455f5150de14774",
+    "width": 640
   },
   "score": {
     "comments": 8,

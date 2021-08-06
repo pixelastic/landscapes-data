@@ -9,21 +9,19 @@
     "month": 1538352000,
     "week": 1538265600
   },
-  "displayPicture": {
-    "filesize": 187199,
-    "hash": "c0bfd5f858",
-    "height": 800,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgT/xAApEAABAwMCAgsAAAAAAAAAAAACAQMEAAURByESUQYTIiNBYXFygZHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQADAQEAAAAAAAAAAAAAAAABAxEAAv/aAAwDAQACEQMRAD8AP6X6gz7FmHIByXA7wxbHcgXgTCp5Jw5x80Fv0u4TyB+Q266JuOmC+4sr9qtPejNoftoBdpEMCiO9qMyySqe6bgfhvyynLKVM9HZfmSABxI4geUFR65VRfTGP2gZ20AQaTldEu//Z",
-    "width": 640
-  },
   "id": "t3_9kfq5a",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/mg34as42ekp11.jpg?auto=webp&s=eb48e22b49098d999497d2d0ab8834c5f77b2bbc",
-    "preview": "https://preview.redd.it/mg34as42ekp11.jpg?width=640&crop=smart&auto=webp&s=751860c5f295dfd45919afa6b6a9ca1e9a92f725",
-    "thumbnail": "https://b.thumbs.redditmedia.com/fgm7G9uCFePG4YTjwBvFM2Zm8hinXmot3iVTpkob12E.jpg"
+    "filesize": 187199,
+    "fullUrl": "https://preview.redd.it/mg34as42ekp11.jpg?auto=webp&s=eb48e22b49098d999497d2d0ab8834c5f77b2bbc",
+    "hash": "c0bfd5f858",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgT/xAApEAABAwMCAgsAAAAAAAAAAAACAQMEAAURByESUQYTIiNBYXFygZHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQADAQEAAAAAAAAAAAAAAAABAxEAAv/aAAwDAQACEQMRAD8AP6X6gz7FmHIByXA7wxbHcgXgTCp5Jw5x80Fv0u4TyB+Q266JuOmC+4sr9qtPejNoftoBdpEMCiO9qMyySqe6bgfhvyynLKVM9HZfmSABxI4geUFR65VRfTGP2gZ20AQaTldEu//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/fgm7G9uCFePG4YTjwBvFM2Zm8hinXmot3iVTpkob12E.jpg",
+    "url": "https://preview.redd.it/mg34as42ekp11.jpg?width=640&crop=smart&auto=webp&s=751860c5f295dfd45919afa6b6a9ca1e9a92f725",
+    "width": 640
   },
   "score": {
     "comments": 4,

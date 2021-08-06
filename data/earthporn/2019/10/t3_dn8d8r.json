@@ -9,21 +9,19 @@
     "month": 1569888000,
     "week": 1571529600
   },
-  "displayPicture": {
-    "filesize": 72154,
-    "hash": "39d8e595e6",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAIBAAAQMDBQEAAAAAAAAAAAAAAQIDEQAEMQUHEiLRcf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAXEQEAAwAAAAAAAAAAAAAAAAAAARES/9oADAMBAAIRAxEAPwCtpm5rjTZTd2rT2IKOntH1ndDUHk8bIN2jcRCEhavvI+VkaSVASTic0d+4cSs9sGmpKf/Z",
-    "width": 640
-  },
   "id": "t3_dn8d8r",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/5s4puczjzsu31.jpg?auto=webp&s=2fb7b3a58c3690fadd6a43cf8e36905469365854",
-    "preview": "https://preview.redd.it/5s4puczjzsu31.jpg?width=640&crop=smart&auto=webp&s=c07f8479ff469b1f32d1043c7911ccc292cac8a5",
-    "thumbnail": "https://b.thumbs.redditmedia.com/0ie1usraKQhIrMT2xridUPrpQ_ihtzmfcLi61a-4P6o.jpg"
+    "filesize": 72154,
+    "fullUrl": "https://preview.redd.it/5s4puczjzsu31.jpg?auto=webp&s=2fb7b3a58c3690fadd6a43cf8e36905469365854",
+    "hash": "39d8e595e6",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAIBAAAQMDBQEAAAAAAAAAAAAAAQIDEQAEMQUHEiLRcf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAXEQEAAwAAAAAAAAAAAAAAAAAAARES/9oADAMBAAIRAxEAPwCtpm5rjTZTd2rT2IKOntH1ndDUHk8bIN2jcRCEhavvI+VkaSVASTic0d+4cSs9sGmpKf/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/0ie1usraKQhIrMT2xridUPrpQ_ihtzmfcLi61a-4P6o.jpg",
+    "url": "https://preview.redd.it/5s4puczjzsu31.jpg?width=640&crop=smart&auto=webp&s=c07f8479ff469b1f32d1043c7911ccc292cac8a5",
+    "width": 640
   },
   "score": {
     "comments": 4,

@@ -9,21 +9,19 @@
     "month": 1561939200,
     "week": 1561852800
   },
-  "displayPicture": {
-    "filesize": 82494,
-    "hash": "ded393e401",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAiEAACAQMEAgMAAAAAAAAAAAABAgMEBREABhITITEiUWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGREAAgMBAAAAAAAAAAAAAAAAAQMAAhEE/9oADAMBAAIRAxEAPwCrqGs0dkkhp7xHDTsvNzhVD/hBXkT49aBiSyEIF3BbVD+gSELH6wV96XorRbtyVVLHeqKGoMis3YMxuvxLYDIQQM+dW1v2zYbBBG1rs1DHN2Kve8fZIcjJPJiTnzpc9rFbWEDhUzLaZ//Z",
-    "width": 640
-  },
   "id": "t3_c9xmcg",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/volmoykkjq831.jpg?auto=webp&s=293b0b1047f5fde2fe24b0e33216186243cbaaea",
-    "preview": "https://preview.redd.it/volmoykkjq831.jpg?width=640&crop=smart&auto=webp&s=b9f5feea3c386594776d0281b23c30c85c39c430",
-    "thumbnail": "https://a.thumbs.redditmedia.com/dz3n50RX38XEJwdxwcDdVd-eTz8B3LxHlCs1QVLvA34.jpg"
+    "filesize": 82494,
+    "fullUrl": "https://preview.redd.it/volmoykkjq831.jpg?auto=webp&s=293b0b1047f5fde2fe24b0e33216186243cbaaea",
+    "hash": "ded393e401",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAiEAACAQMEAgMAAAAAAAAAAAABAgMEBREABhITITEiUWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGREAAgMBAAAAAAAAAAAAAAAAAQMAAhEE/9oADAMBAAIRAxEAPwCrqGs0dkkhp7xHDTsvNzhVD/hBXkT49aBiSyEIF3BbVD+gSELH6wV96XorRbtyVVLHeqKGoMis3YMxuvxLYDIQQM+dW1v2zYbBBG1rs1DHN2Kve8fZIcjJPJiTnzpc9rFbWEDhUzLaZ//Z",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/dz3n50RX38XEJwdxwcDdVd-eTz8B3LxHlCs1QVLvA34.jpg",
+    "url": "https://preview.redd.it/volmoykkjq831.jpg?width=640&crop=smart&auto=webp&s=b9f5feea3c386594776d0281b23c30c85c39c430",
+    "width": 640
   },
   "score": {
     "comments": 1,

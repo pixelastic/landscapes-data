@@ -9,21 +9,19 @@
     "month": 1535760000,
     "week": 1536451200
   },
-  "displayPicture": {
-    "filesize": 32357,
-    "hash": "b5c02c068f",
-    "height": 360,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAf/xAAlEAACAQIEBgMAAAAAAAAAAAABAgMABAUGEXIHEyIxNXFzsdH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABoRAAEFAQAAAAAAAAAAAAAAAAIAARESITH/2gAMAwEAAhEDEQA/ADWud8B5U5tbyWB2cMEaNSF2uSDS8X4kl7aGO2w6JIo+kyKQS/vXXU1Cn8a+5voU7LPab4/ypnMga3Ut5yF//9k=",
-    "width": 640
-  },
   "id": "t3_9g2w2g",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/30gjuveqkfm11.jpg?auto=webp&s=7501eb1d07b61173c0e4cf1b72e21acff30bfdab",
-    "preview": "https://preview.redd.it/30gjuveqkfm11.jpg?width=640&crop=smart&auto=webp&s=bbb8165bac2948b89cf9229d67ba9ac0e23cb648",
-    "thumbnail": "https://b.thumbs.redditmedia.com/_sfnceBGYK3zQX5PqIy5ykvES0vLcK862ALjDBnb6nc.jpg"
+    "filesize": 32357,
+    "fullUrl": "https://preview.redd.it/30gjuveqkfm11.jpg?auto=webp&s=7501eb1d07b61173c0e4cf1b72e21acff30bfdab",
+    "hash": "b5c02c068f",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAf/xAAlEAACAQIEBgMAAAAAAAAAAAABAgMABAUGEXIHEyIxNXFzsdH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABoRAAEFAQAAAAAAAAAAAAAAAAIAARESITH/2gAMAwEAAhEDEQA/ADWud8B5U5tbyWB2cMEaNSF2uSDS8X4kl7aGO2w6JIo+kyKQS/vXXU1Cn8a+5voU7LPab4/ypnMga3Ut5yF//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/_sfnceBGYK3zQX5PqIy5ykvES0vLcK862ALjDBnb6nc.jpg",
+    "url": "https://preview.redd.it/30gjuveqkfm11.jpg?width=640&crop=smart&auto=webp&s=bbb8165bac2948b89cf9229d67ba9ac0e23cb648",
+    "width": 640
   },
   "score": {
     "comments": 0,

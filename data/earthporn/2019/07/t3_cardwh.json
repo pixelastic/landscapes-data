@@ -9,21 +9,19 @@
     "month": 1561939200,
     "week": 1562457600
   },
-  "displayPicture": {
-    "filesize": 138421,
-    "hash": "f16af50e0e",
-    "height": 960,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUI/8QAKBAAAQMDAgMJAAAAAAAAAAAAAQIDBAUGEQAhEjGRBxMUIkFRYXGh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABwRAAEEAwEAAAAAAAAAAAAAAAEAAgMSBCEjkf/aAAwDAQACEQMRAD8AQS73rKbiLLdcPhOEqQgKUe8zz3zkY9BuOuqLnaHMSsgzltkbFIc5dSTrNMO4XoVwCooaakhILYZkDiQtBGMEfv3phDrFuuxWlvVOoQnCnzRxGLgb+ArO49tInkbbmNI2PG+nUgnxf//Z",
-    "width": 640
-  },
   "id": "t3_cardwh",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/wdwg417sf5931.jpg?auto=webp&s=5b61c5cd7f1abb754a956f889b5ee40919734409",
-    "preview": "https://preview.redd.it/wdwg417sf5931.jpg?width=640&crop=smart&auto=webp&s=9c8c4415bb2e54b4aa97d918f5c3304ab9ce808a",
-    "thumbnail": "https://b.thumbs.redditmedia.com/2gjb_aEdGsXnhFEjTzhk64HvnUVXnJqR18mxw5xyhFo.jpg"
+    "filesize": 138421,
+    "fullUrl": "https://preview.redd.it/wdwg417sf5931.jpg?auto=webp&s=5b61c5cd7f1abb754a956f889b5ee40919734409",
+    "hash": "f16af50e0e",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUI/8QAKBAAAQMDAgMJAAAAAAAAAAAAAQIDBAUGEQAhEjGRBxMUIkFRYXGh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABwRAAEEAwEAAAAAAAAAAAAAAAEAAgMSBCEjkf/aAAwDAQACEQMRAD8AQS73rKbiLLdcPhOEqQgKUe8zz3zkY9BuOuqLnaHMSsgzltkbFIc5dSTrNMO4XoVwCooaakhILYZkDiQtBGMEfv3phDrFuuxWlvVOoQnCnzRxGLgb+ArO49tInkbbmNI2PG+nUgnxf//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/2gjb_aEdGsXnhFEjTzhk64HvnUVXnJqR18mxw5xyhFo.jpg",
+    "url": "https://preview.redd.it/wdwg417sf5931.jpg?width=640&crop=smart&auto=webp&s=9c8c4415bb2e54b4aa97d918f5c3304ab9ce808a",
+    "width": 640
   },
   "score": {
     "comments": 3,

@@ -9,21 +9,19 @@
     "month": 1588291200,
     "week": 1589673600
   },
-  "displayPicture": {
-    "filesize": 54003,
-    "hash": "7f8f24ce37",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFBv/EACUQAAEEAAUDBQAAAAAAAAAAAAECAwQRAAUGITEHEkETI1Fhof/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQIAESH/2gAMAwEAAhEDEQA/AHnrHqKfkgVmDcaCtSFe8mLs5VUUhV1+87YMLW8ibl0lt7MXm/UpxXYUoLp4IBABHz4xh43U7VGZsrizpjLrS7vujoNCuKqq28jERjUUqambGkx4K2yoOgiOlKkq+iKIxGao4PMKB9N//9k=",
-    "width": 640
-  },
   "id": "t3_gonuu3",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/gym724y9rc051.jpg?auto=webp&s=58bc6b474c815ec8417fdc702100bd5eaa126612",
-    "preview": "https://preview.redd.it/gym724y9rc051.jpg?width=640&crop=smart&auto=webp&s=4e23eaf9fa1d6b3fb456407ca329ba79feb44969",
-    "thumbnail": "https://b.thumbs.redditmedia.com/YdMoZNWUv1VQu96d0ejVajHE5e5Dgco8XPoU1VQuKik.jpg"
+    "filesize": 54003,
+    "fullUrl": "https://preview.redd.it/gym724y9rc051.jpg?auto=webp&s=58bc6b474c815ec8417fdc702100bd5eaa126612",
+    "hash": "7f8f24ce37",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFBv/EACUQAAEEAAUDBQAAAAAAAAAAAAECAwQRAAUGITEHEkETI1Fhof/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQIAESH/2gAMAwEAAhEDEQA/AHnrHqKfkgVmDcaCtSFe8mLs5VUUhV1+87YMLW8ibl0lt7MXm/UpxXYUoLp4IBABHz4xh43U7VGZsrizpjLrS7vujoNCuKqq28jERjUUqambGkx4K2yoOgiOlKkq+iKIxGao4PMKB9N//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/YdMoZNWUv1VQu96d0ejVajHE5e5Dgco8XPoU1VQuKik.jpg",
+    "url": "https://preview.redd.it/gym724y9rc051.jpg?width=640&crop=smart&auto=webp&s=4e23eaf9fa1d6b3fb456407ca329ba79feb44969",
+    "width": 640
   },
   "score": {
     "comments": 0,

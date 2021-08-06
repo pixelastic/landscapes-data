@@ -9,21 +9,19 @@
     "month": 1569888000,
     "week": 1569715200
   },
-  "displayPicture": {
-    "filesize": 60044,
-    "hash": "71ec21eb5d",
-    "height": 799,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFB//EACQQAAIBAwMDBQAAAAAAAAAAAAECEQADBAUGEyEicTFBgZGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABsRAQABBQEAAAAAAAAAAAAAAAEAAgQFESFB/9oADAMBAAIRAxEAPwBup6VurGDrgnnxngs6hQfkEk/VQr1vcyN3kt4vE/grZMbJR5CNak+gWRAoNxrAZQW9zIPXzFCZCrXQiNmeM//Z",
-    "width": 640
-  },
   "id": "t3_dcmoae",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/w7s21ve4l9q31.jpg?auto=webp&s=ed274d1060f1e552c01a85033ce53c16bbf08163",
-    "preview": "https://preview.redd.it/w7s21ve4l9q31.jpg?width=640&crop=smart&auto=webp&s=5582b8714411eff610d3dcb2fde1952b7ccceeaa",
-    "thumbnail": "https://b.thumbs.redditmedia.com/lEdQym3saA9Lzq5Lr8Q9grNiLG9pJObsHpihrMa1pRQ.jpg"
+    "filesize": 60044,
+    "fullUrl": "https://preview.redd.it/w7s21ve4l9q31.jpg?auto=webp&s=ed274d1060f1e552c01a85033ce53c16bbf08163",
+    "hash": "71ec21eb5d",
+    "height": 799,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFB//EACQQAAIBAwMDBQAAAAAAAAAAAAECEQADBAUGEyEicTFBgZGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABsRAQABBQEAAAAAAAAAAAAAAAEAAgQFESFB/9oADAMBAAIRAxEAPwBup6VurGDrgnnxngs6hQfkEk/VQr1vcyN3kt4vE/grZMbJR5CNak+gWRAoNxrAZQW9zIPXzFCZCrXQiNmeM//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/lEdQym3saA9Lzq5Lr8Q9grNiLG9pJObsHpihrMa1pRQ.jpg",
+    "url": "https://preview.redd.it/w7s21ve4l9q31.jpg?width=640&crop=smart&auto=webp&s=5582b8714411eff610d3dcb2fde1952b7ccceeaa",
+    "width": 640
   },
   "score": {
     "comments": 5,

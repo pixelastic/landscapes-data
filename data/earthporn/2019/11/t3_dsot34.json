@@ -8,21 +8,19 @@
     "month": 1572566400,
     "week": 1572739200
   },
-  "displayPicture": {
-    "filesize": 33229,
-    "hash": "1677018943",
-    "height": 720,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABv/EACEQAAEDAwQDAAAAAAAAAAAAAAECAxEABAUGEiExFCKx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABoRAAEFAQAAAAAAAAAAAAAAAAEAAgQRIRP/2gAMAwEAAhEDEQA/ADOF0y0bVO4Dqj2qMIwy6kSgc9EilGBas1WaZQSiI9nDzRbV+PsfITtCkKmSA5u+0RLacpLg4ba//9k=",
-    "width": 640
-  },
   "id": "t3_dsot34",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://external-preview.redd.it/imSXVJWylnRUUTRQUwKz27xRF0dmKqZtAOdmhdFnonY.jpg?auto=webp&s=699181f43c1466b6d63194be84bb07ff01163226",
-    "preview": "https://external-preview.redd.it/imSXVJWylnRUUTRQUwKz27xRF0dmKqZtAOdmhdFnonY.jpg?width=640&crop=smart&auto=webp&s=c0b912fb8146a9515e4e0d850b3f8f9b493ddab9",
-    "thumbnail": "https://b.thumbs.redditmedia.com/ptTg_uOR7McJoXvr9tGZl3qExtnchRYRBofsFg6kxuw.jpg"
+    "filesize": 33229,
+    "fullUrl": "https://external-preview.redd.it/imSXVJWylnRUUTRQUwKz27xRF0dmKqZtAOdmhdFnonY.jpg?auto=webp&s=699181f43c1466b6d63194be84bb07ff01163226",
+    "hash": "1677018943",
+    "height": 720,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABv/EACEQAAEDAwQDAAAAAAAAAAAAAAECAxEABAUGEiExFCKx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABoRAAEFAQAAAAAAAAAAAAAAAAEAAgQRIRP/2gAMAwEAAhEDEQA/ADOF0y0bVO4Dqj2qMIwy6kSgc9EilGBas1WaZQSiI9nDzRbV+PsfITtCkKmSA5u+0RLacpLg4ba//9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/ptTg_uOR7McJoXvr9tGZl3qExtnchRYRBofsFg6kxuw.jpg",
+    "url": "https://external-preview.redd.it/imSXVJWylnRUUTRQUwKz27xRF0dmKqZtAOdmhdFnonY.jpg?width=640&crop=smart&auto=webp&s=c0b912fb8146a9515e4e0d850b3f8f9b493ddab9",
+    "width": 640
   },
   "score": {
     "comments": 2,

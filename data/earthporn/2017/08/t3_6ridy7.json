@@ -9,21 +9,19 @@
     "month": 1501545600,
     "week": 1501372800
   },
-  "displayPicture": {
-    "filesize": 79215,
-    "hash": "43b94d7e17",
-    "height": 427,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDBAUSAAYRITFhExRBUZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABwRAAEEAwEAAAAAAAAAAAAAAAECAxEhAAQFMf/aAAwDAQACEQMRAD8ATV+6dqT3D2dJUCWdkzyYFIx4LccA+NB7tfp4N2Uy0tUsduEqiSJGBVk+R5PfrqG11tRPdo4ZZMovSlfHgdwxAP5rVkRDAz4LmFIDcdQOPvUh7ubLqkoVUGaJxTPJ10yQPaz/2Q==",
-    "width": 640
-  },
   "id": "t3_6ridy7",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/ficbszt8nndz.jpg?auto=webp&s=818beb184d1de745acfae4f698558a63e25b6b61",
-    "preview": "https://preview.redd.it/ficbszt8nndz.jpg?width=640&crop=smart&auto=webp&s=5ebbfc1b979640604c30ff5b9eab1cf345fe100f",
-    "thumbnail": "https://b.thumbs.redditmedia.com/Sb7uDOpVapnKS_CiUdN4qkhHosalER722uyOiyatPtY.jpg"
+    "filesize": 79215,
+    "fullUrl": "https://preview.redd.it/ficbszt8nndz.jpg?auto=webp&s=818beb184d1de745acfae4f698558a63e25b6b61",
+    "hash": "43b94d7e17",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQF/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDBAUSAAYRITFhExRBUZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABwRAAEEAwEAAAAAAAAAAAAAAAECAxEhAAQFMf/aAAwDAQACEQMRAD8ATV+6dqT3D2dJUCWdkzyYFIx4LccA+NB7tfp4N2Uy0tUsduEqiSJGBVk+R5PfrqG11tRPdo4ZZMovSlfHgdwxAP5rVkRDAz4LmFIDcdQOPvUh7ubLqkoVUGaJxTPJ10yQPaz/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/Sb7uDOpVapnKS_CiUdN4qkhHosalER722uyOiyatPtY.jpg",
+    "url": "https://preview.redd.it/ficbszt8nndz.jpg?width=640&crop=smart&auto=webp&s=5ebbfc1b979640604c30ff5b9eab1cf345fe100f",
+    "width": 640
   },
   "score": {
     "comments": 1,

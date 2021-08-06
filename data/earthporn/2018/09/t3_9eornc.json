@@ -9,21 +9,19 @@
     "month": 1535760000,
     "week": 1536451200
   },
-  "displayPicture": {
-    "filesize": 131573,
-    "hash": "ea2739b989",
-    "height": 640,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIhAAAgIBBAIDAQAAAAAAAAAAAQMCBDEABREhEmEGQXKB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABsRAAICAwEAAAAAAAAAAAAAAAEEABIDERMx/9oADAMBAAIRAxEAPwDHfOq15iqz2PU6NlkS4RmCIzyOucDH80/aUvTQXJqoATXGQksgx4gTx4954l3+c6r09g2SjahKjTUWESkWPYZ8geh65GntRtu5VAqVBS7AiVhtSM1sjk+II+89d6NNU4QLnyMy113UT//Z",
-    "width": 640
-  },
   "id": "t3_9eornc",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/m9612jtmvfl11.jpg?auto=webp&s=e231f5507ef4243db72279f62b96cf5ed37007fa",
-    "preview": "https://preview.redd.it/m9612jtmvfl11.jpg?width=640&crop=smart&auto=webp&s=de454ee68ad6695e94f41ea5f2e59f33d21520fe",
-    "thumbnail": "https://b.thumbs.redditmedia.com/f7lRIUXyoTSD3_wrxDVch2RyUN-MgoRJhwWt9UVEsyQ.jpg"
+    "filesize": 131573,
+    "fullUrl": "https://preview.redd.it/m9612jtmvfl11.jpg?auto=webp&s=e231f5507ef4243db72279f62b96cf5ed37007fa",
+    "hash": "ea2739b989",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIhAAAgIBBAIDAQAAAAAAAAAAAQMCBDEABREhEmEGQXKB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABsRAAICAwEAAAAAAAAAAAAAAAEEABIDERMx/9oADAMBAAIRAxEAPwDHfOq15iqz2PU6NlkS4RmCIzyOucDH80/aUvTQXJqoATXGQksgx4gTx4954l3+c6r09g2SjahKjTUWESkWPYZ8geh65GntRtu5VAqVBS7AiVhtSM1sjk+II+89d6NNU4QLnyMy113UT//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/f7lRIUXyoTSD3_wrxDVch2RyUN-MgoRJhwWt9UVEsyQ.jpg",
+    "url": "https://preview.redd.it/m9612jtmvfl11.jpg?width=640&crop=smart&auto=webp&s=de454ee68ad6695e94f41ea5f2e59f33d21520fe",
+    "width": 640
   },
   "score": {
     "comments": 3,

@@ -9,21 +9,19 @@
     "month": 1556668800,
     "week": 1557014400
   },
-  "displayPicture": {
-    "filesize": 83431,
-    "hash": "ddea2dc32a",
-    "height": 448,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACIQAAIBAgcAAwAAAAAAAAAAAAECAwQFAAYREiFBUSIxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAEwMRIrH/2gAMAwEAAhEDEQA/AIeXrzlp7G1rNrnleRiweR0HJ6JAP1pgl4orStIdlqpqCckBVmq0kL69jkAfmM3yFSQ19ygjq1aRA5O3cQOF16PuFb8zW+qnWlJVWldCG+fHnOvmCvcZK0PQl9SnHY45J81P/9k=",
-    "width": 640
-  },
   "id": "t3_blfct0",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/zr6dv81upmw21.jpg?auto=webp&s=c4ade218bbfab8a105725ad5222cb62e272117bb",
-    "preview": "https://preview.redd.it/zr6dv81upmw21.jpg?width=640&crop=smart&auto=webp&s=5a7a3ba55eccc3faf278b30d621cfe2015cfd687",
-    "thumbnail": "https://b.thumbs.redditmedia.com/HKQCjauaa_WzDkGX6WXoyDfQWR7X0HmNXtqB4THCReo.jpg"
+    "filesize": 83431,
+    "fullUrl": "https://preview.redd.it/zr6dv81upmw21.jpg?auto=webp&s=c4ade218bbfab8a105725ad5222cb62e272117bb",
+    "hash": "ddea2dc32a",
+    "height": 448,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACIQAAIBAgcAAwAAAAAAAAAAAAECAwQFAAYREiFBUSIxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAEwMRIrH/2gAMAwEAAhEDEQA/AIeXrzlp7G1rNrnleRiweR0HJ6JAP1pgl4orStIdlqpqCckBVmq0kL69jkAfmM3yFSQ19ygjq1aRA5O3cQOF16PuFb8zW+qnWlJVWldCG+fHnOvmCvcZK0PQl9SnHY45J81P/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/HKQCjauaa_WzDkGX6WXoyDfQWR7X0HmNXtqB4THCReo.jpg",
+    "url": "https://preview.redd.it/zr6dv81upmw21.jpg?width=640&crop=smart&auto=webp&s=5a7a3ba55eccc3faf278b30d621cfe2015cfd687",
+    "width": 640
   },
   "score": {
     "comments": 20,

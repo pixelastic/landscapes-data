@@ -9,21 +9,19 @@
     "month": 1514764800,
     "week": 1515283200
   },
-  "displayPicture": {
-    "filesize": 63772,
-    "hash": "d57f997d76",
-    "height": 360,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIF/8QAIhAAAQMDBAMBAAAAAAAAAAAAAQIDEQAEBQYSITRxgbLh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAMhBRL/2gAMAwEAAhEDEQA/ABtdYZ5ds2tnOZFaYM74KSFDkQeD7pWM5mGnLi6Fy3v2kKbdtkKQJESEkR+1i4joWnk/NVqTpu+R81GelcvgyKVDrP/Z",
-    "width": 640
-  },
   "id": "t3_7po27g",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/42qaczyuwf901.jpg?auto=webp&s=40d3e45b24bf58a276d5bf3c837ee429c9e20fca",
-    "preview": "https://preview.redd.it/42qaczyuwf901.jpg?width=640&crop=smart&auto=webp&s=d6133573adcd117593bdf9acc8dc8cf9b02c42aa",
-    "thumbnail": "https://b.thumbs.redditmedia.com/z4nXc5KHfxIcgGmqT4uG30AUgD_tyuVeP2TL4mn8S2Y.jpg"
+    "filesize": 63772,
+    "fullUrl": "https://preview.redd.it/42qaczyuwf901.jpg?auto=webp&s=40d3e45b24bf58a276d5bf3c837ee429c9e20fca",
+    "hash": "d57f997d76",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIF/8QAIhAAAQMDBAMBAAAAAAAAAAAAAQIDEQAEBQYSITRxgbLh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAMhBRL/2gAMAwEAAhEDEQA/ABtdYZ5ds2tnOZFaYM74KSFDkQeD7pWM5mGnLi6Fy3v2kKbdtkKQJESEkR+1i4joWnk/NVqTpu+R81GelcvgyKVDrP/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/z4nXc5KHfxIcgGmqT4uG30AUgD_tyuVeP2TL4mn8S2Y.jpg",
+    "url": "https://preview.redd.it/42qaczyuwf901.jpg?width=640&crop=smart&auto=webp&s=d6133573adcd117593bdf9acc8dc8cf9b02c42aa",
+    "width": 640
   },
   "score": {
     "comments": 10,

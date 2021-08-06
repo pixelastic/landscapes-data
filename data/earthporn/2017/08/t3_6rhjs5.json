@@ -9,21 +9,19 @@
     "month": 1501545600,
     "week": 1501372800
   },
-  "displayPicture": {
-    "filesize": 57443,
-    "hash": "2b2607521a",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIhAAAgEDAgcAAAAAAAAAAAAAAQIDAAQRBnESITFRYeHi/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAdEQABAwUBAAAAAAAAAAAAAAACAAGhAxIVFuEx/9oADAMBAAIRAxEAPwCi1fT2AXuJz4EXukBeacTGDcDaH6rJbS7lV5o8gpGyqAR1z3pZYlmuZYm4lCgYKsQeYztT7JU8IZ4p8GDvcJR1f//Z",
-    "width": 640
-  },
   "id": "t3_6rhjs5",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/vghz250rrmdz.jpg?auto=webp&s=b1f87a13ac552f65dabc03ffb574deceb59f0bfa",
-    "preview": "https://preview.redd.it/vghz250rrmdz.jpg?width=640&crop=smart&auto=webp&s=bc9623ba8e377a00d8e98b9497d82fed3226ecb7",
-    "thumbnail": "https://b.thumbs.redditmedia.com/mWpklT7bvfRwjEhL9ZTGeVY1CbcFqPsFzSJbWMsi1iY.jpg"
+    "filesize": 57443,
+    "fullUrl": "https://preview.redd.it/vghz250rrmdz.jpg?auto=webp&s=b1f87a13ac552f65dabc03ffb574deceb59f0bfa",
+    "hash": "2b2607521a",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIhAAAgEDAgcAAAAAAAAAAAAAAQIDAAQRBnESITFRYeHi/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAdEQABAwUBAAAAAAAAAAAAAAACAAGhAxIVFuEx/9oADAMBAAIRAxEAPwCi1fT2AXuJz4EXukBeacTGDcDaH6rJbS7lV5o8gpGyqAR1z3pZYlmuZYm4lCgYKsQeYztT7JU8IZ4p8GDvcJR1f//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/mWpklT7bvfRwjEhL9ZTGeVY1CbcFqPsFzSJbWMsi1iY.jpg",
+    "url": "https://preview.redd.it/vghz250rrmdz.jpg?width=640&crop=smart&auto=webp&s=bc9623ba8e377a00d8e98b9497d82fed3226ecb7",
+    "width": 640
   },
   "score": {
     "comments": 0,

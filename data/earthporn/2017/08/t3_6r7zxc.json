@@ -9,21 +9,19 @@
     "month": 1501545600,
     "week": 1501372800
   },
-  "displayPicture": {
-    "filesize": 105439,
-    "hash": "60e7250053",
-    "height": 956,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACUQAAEDAwMDBQAAAAAAAAAAAAECAwQABREGEiEHE3EUMUFRYf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAhEAAwEEIf/aAAwDAQACEQMRAD8ABoTUkifd5Nruzi3ZElXejr2e5+Uj7GBkYrXPRo6HVJW+yhQOClSwCPINWdM9IYFkA9NcZJIXvTvabUE+AQcHgcjB4pu6dMWp092S5e7slSyMht4JSMADgY/KaO5eOEpOIaC65//Z",
-    "width": 640
-  },
   "id": "t3_6r7zxc",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/wswosw5nkedz.jpg?auto=webp&s=94d853cb974ff6ed889fab0d5eee48318f9ca65c",
-    "preview": "https://preview.redd.it/wswosw5nkedz.jpg?width=640&crop=smart&auto=webp&s=9c93b839d21bcbc6cd19d0c3895f22c8cb2b2047",
-    "thumbnail": "https://b.thumbs.redditmedia.com/zTdDQosGsLlds8tnTE9U88eLfVM5BENP62IH15_rfMA.jpg"
+    "filesize": 105439,
+    "fullUrl": "https://preview.redd.it/wswosw5nkedz.jpg?auto=webp&s=94d853cb974ff6ed889fab0d5eee48318f9ca65c",
+    "hash": "60e7250053",
+    "height": 956,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACUQAAEDAwMDBQAAAAAAAAAAAAECAwQABREGEiEHE3EUMUFRYf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAhEAAwEEIf/aAAwDAQACEQMRAD8ABoTUkifd5Nruzi3ZElXejr2e5+Uj7GBkYrXPRo6HVJW+yhQOClSwCPINWdM9IYFkA9NcZJIXvTvabUE+AQcHgcjB4pu6dMWp092S5e7slSyMht4JSMADgY/KaO5eOEpOIaC65//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/zTdDQosGsLlds8tnTE9U88eLfVM5BENP62IH15_rfMA.jpg",
+    "url": "https://preview.redd.it/wswosw5nkedz.jpg?width=640&crop=smart&auto=webp&s=9c93b839d21bcbc6cd19d0c3895f22c8cb2b2047",
+    "width": 640
   },
   "score": {
     "comments": 0,

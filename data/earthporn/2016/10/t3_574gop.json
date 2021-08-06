@@ -9,21 +9,19 @@
     "month": 1475280000,
     "week": 1475971200
   },
-  "displayPicture": {
-    "filesize": 53329,
-    "hash": "1943c4f95b",
-    "height": 427,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJhAAAQMDAwIHAAAAAAAAAAAAAQIDEQAEBQYTQQdREhQhIjFCYf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAHhEAAQMEAwAAAAAAAAAAAAAAAwECEQAFMdEhYXH/2gAMAwEAAhEDEQA/AKTG9R9OY1xF4m4s1MoECzYtFFxMiDCgQFT3WRReQ1LonPXa2MWHmXnUgbV+/wCXRPISVSO3weayBR30NbwSv1+yQeKOz9qy2seBEeyYk/lMN+I16LHWdRU5bYNWc483Nf/Z",
-    "width": 640
-  },
   "id": "t3_574gop",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/wq6nnsmw42rx.jpg?auto=webp&s=ad829cecc551fc265dd83fddc013faf8f6ef55e6",
-    "preview": "https://preview.redd.it/wq6nnsmw42rx.jpg?width=640&crop=smart&auto=webp&s=b9e4c8336a2b8269603130fdb570f88af7bef63d",
-    "thumbnail": "https://b.thumbs.redditmedia.com/J6nei5-qBNkx_-TOagiyG-nFMUyLuy1eddMQEmjtvNg.jpg"
+    "filesize": 53329,
+    "fullUrl": "https://preview.redd.it/wq6nnsmw42rx.jpg?auto=webp&s=ad829cecc551fc265dd83fddc013faf8f6ef55e6",
+    "hash": "1943c4f95b",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJhAAAQMDAwIHAAAAAAAAAAAAAQIDEQAEBQYTQQdREhQhIjFCYf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAHhEAAQMEAwAAAAAAAAAAAAAAAwECEQAFMdEhYXH/2gAMAwEAAhEDEQA/AKTG9R9OY1xF4m4s1MoECzYtFFxMiDCgQFT3WRReQ1LonPXa2MWHmXnUgbV+/wCXRPISVSO3weayBR30NbwSv1+yQeKOz9qy2seBEeyYk/lMN+I16LHWdRU5bYNWc483Nf/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/J6nei5-qBNkx_-TOagiyG-nFMUyLuy1eddMQEmjtvNg.jpg",
+    "url": "https://preview.redd.it/wq6nnsmw42rx.jpg?width=640&crop=smart&auto=webp&s=b9e4c8336a2b8269603130fdb570f88af7bef63d",
+    "width": 640
   },
   "score": {
     "comments": 4,

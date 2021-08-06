@@ -9,21 +9,19 @@
     "month": 1601510400,
     "week": 1601769600
   },
-  "displayPicture": {
-    "filesize": 96006,
-    "hash": "1f35446ddf",
-    "height": 640,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIG/8QAIxAAAQMDBAMBAQAAAAAAAAAAAQIDEQQFBgASEyExQXFRof/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGxEAAQQDAAAAAAAAAAAAAAAAAQACAwQREjH/2gAMAwEAAhEDEQA/AKs1xxe7IUu4UFyty5kIbUHUkexMSD90K8hwageKgq9DY5ARwAKiJB7jrSYRbnqdtxFcOZqpRsQWwVIVKSRu6/CfceJ1jcnwypTSVlztzTjTTSjz063QpbQHvzBH9+6obblAxshdXiJ4v//Z",
-    "width": 640
-  },
   "id": "t3_j8ncme",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/j991cmztmas51.jpg?auto=webp&s=1f5ad54f0b5481196aeec734e1e8926c3f97188a",
-    "preview": "https://preview.redd.it/j991cmztmas51.jpg?width=640&crop=smart&auto=webp&s=4c14b94e179e6ea15aed4bdb3421739a64129adc",
-    "thumbnail": "https://b.thumbs.redditmedia.com/ewuePxjgmR5br4cR2WmYGXto8JK-6gFRAsptniqc92k.jpg"
+    "filesize": 96006,
+    "fullUrl": "https://preview.redd.it/j991cmztmas51.jpg?auto=webp&s=1f5ad54f0b5481196aeec734e1e8926c3f97188a",
+    "hash": "1f35446ddf",
+    "height": 640,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIG/8QAIxAAAQMDBAMBAQAAAAAAAAAAAQIDEQQFBgASEyExQXFRof/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGxEAAQQDAAAAAAAAAAAAAAAAAQACAwQREjH/2gAMAwEAAhEDEQA/AKs1xxe7IUu4UFyty5kIbUHUkexMSD90K8hwageKgq9DY5ARwAKiJB7jrSYRbnqdtxFcOZqpRsQWwVIVKSRu6/CfceJ1jcnwypTSVlztzTjTTSjz063QpbQHvzBH9+6obblAxshdXiJ4v//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/ewuePxjgmR5br4cR2WmYGXto8JK-6gFRAsptniqc92k.jpg",
+    "url": "https://preview.redd.it/j991cmztmas51.jpg?width=640&crop=smart&auto=webp&s=4c14b94e179e6ea15aed4bdb3421739a64129adc",
+    "width": 640
   },
   "score": {
     "comments": 8,

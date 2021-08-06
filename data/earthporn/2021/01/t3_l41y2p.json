@@ -9,21 +9,19 @@
     "month": 1609459200,
     "week": 1611446400
   },
-  "displayPicture": {
-    "filesize": 138521,
-    "hash": "8a96095e65",
-    "height": 800,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAJRAAAgEDAgUFAAAAAAAAAAAAAQIDBAURABIGEyExUSMyQXGx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABwRAAEEAwEAAAAAAAAAAAAAAAMAAQQRBRIhUf/aAAwDAQACEQMRAD8AbxO9piphFbodtwSYRSBhsTt7g3UMNTsnDUVZb0Y1tJUzISsjRSjp4zn51hno1oKWNoaiTnbQFZ+yNg/p86LJbHrIYZRcJUmK+oy9N584OcH60weRkDJs/WRDYiMUetNftL//2Q==",
-    "width": 640
-  },
   "id": "t3_l41y2p",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/8ivlgampyad61.jpg?auto=webp&s=29aad24000d86c6c44d7a8d1f39ce88418b6655f",
-    "preview": "https://preview.redd.it/8ivlgampyad61.jpg?width=640&crop=smart&auto=webp&s=92302c67aa76f0ce58ff261ecade9e85f60ba732",
-    "thumbnail": "https://b.thumbs.redditmedia.com/8OKJVq6QcPsN0GISwoWjWtep2035jsdTeytCaDtLHuw.jpg"
+    "filesize": 138521,
+    "fullUrl": "https://preview.redd.it/8ivlgampyad61.jpg?auto=webp&s=29aad24000d86c6c44d7a8d1f39ce88418b6655f",
+    "hash": "8a96095e65",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAJRAAAgEDAgUFAAAAAAAAAAAAAQIDBAURABIGEyExUSMyQXGx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABwRAAEEAwEAAAAAAAAAAAAAAAMAAQQRBRIhUf/aAAwDAQACEQMRAD8AbxO9piphFbodtwSYRSBhsTt7g3UMNTsnDUVZb0Y1tJUzISsjRSjp4zn51hno1oKWNoaiTnbQFZ+yNg/p86LJbHrIYZRcJUmK+oy9N584OcH60weRkDJs/WRDYiMUetNftL//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/8OKJVq6QcPsN0GISwoWjWtep2035jsdTeytCaDtLHuw.jpg",
+    "url": "https://preview.redd.it/8ivlgampyad61.jpg?width=640&crop=smart&auto=webp&s=92302c67aa76f0ce58ff261ecade9e85f60ba732",
+    "width": 640
   },
   "score": {
     "comments": 52,

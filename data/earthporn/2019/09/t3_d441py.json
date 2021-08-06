@@ -9,21 +9,19 @@
     "month": 1567296000,
     "week": 1567900800
   },
-  "displayPicture": {
-    "filesize": 62586,
-    "hash": "1ad7f741b7",
-    "height": 427,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAJhAAAgECBAUFAAAAAAAAAAAAAQIDBAUABhExBxJRgZETISJBYf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAbEQACAgMBAAAAAAAAAAAAAAABAwARAhJRIf/aAAwDAQACEQMRAD8AJl/iNmZqeKlks8lziTRVYMeZBp16fh84dmDNV3Sn+FtEAPt6z6kdht5xsKyGOgtVHHRqIkaJXIX7JG5xCqZGdF52LBlGoOx7YepjCqt/e0IFi8AyzjY5Zn//2Q==",
-    "width": 640
-  },
   "id": "t3_d441py",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/6hbz0tkepjm31.jpg?auto=webp&s=8dc9b8ea3ca1fd0a4af456eca064b62fc88c7f1b",
-    "preview": "https://preview.redd.it/6hbz0tkepjm31.jpg?width=640&crop=smart&auto=webp&s=bae7924d7eb3ae0603b411ad72409b485928c5b9",
-    "thumbnail": "https://b.thumbs.redditmedia.com/ra6g3s-lXLuNDwmrxy1DMBoVa-4C4woTeLJlFK_mdHg.jpg"
+    "filesize": 62586,
+    "fullUrl": "https://preview.redd.it/6hbz0tkepjm31.jpg?auto=webp&s=8dc9b8ea3ca1fd0a4af456eca064b62fc88c7f1b",
+    "hash": "1ad7f741b7",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAJhAAAgECBAUFAAAAAAAAAAAAAQIDBAUABhExBxJRgZETISJBYf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAbEQACAgMBAAAAAAAAAAAAAAABAwARAhJRIf/aAAwDAQACEQMRAD8AJl/iNmZqeKlks8lziTRVYMeZBp16fh84dmDNV3Sn+FtEAPt6z6kdht5xsKyGOgtVHHRqIkaJXIX7JG5xCqZGdF52LBlGoOx7YepjCqt/e0IFi8AyzjY5Zn//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/ra6g3s-lXLuNDwmrxy1DMBoVa-4C4woTeLJlFK_mdHg.jpg",
+    "url": "https://preview.redd.it/6hbz0tkepjm31.jpg?width=640&crop=smart&auto=webp&s=bae7924d7eb3ae0603b411ad72409b485928c5b9",
+    "width": 640
   },
   "score": {
     "comments": 10,

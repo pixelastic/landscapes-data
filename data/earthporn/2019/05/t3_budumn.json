@@ -9,21 +9,19 @@
     "month": 1556668800,
     "week": 1558828800
   },
-  "displayPicture": {
-    "filesize": 70977,
-    "hash": "7cb6870533",
-    "height": 512,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgUGB//EACcQAAEDAwIEBwAAAAAAAAAAAAECAwQFESEABhITFGExMkFRgdHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQACAQUAAAAAAAAAAAAAAAABAgADESIxYf/aAAwDAQACEQMRAD8AJG89vPSnDS6eqEynKFvhKjbuR4Z0u3ZNp1SiASJLLZ8ynQnCARg39SbjH1rP9rUjr6Y6OrfbxlN7pPtcY/HU5ueTJjyeS64l0AJbFkcIsO3xqg1yq4iKyGwLa5P/2Q==",
-    "width": 640
-  },
   "id": "t3_budumn",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/ibmmu8kd55131.jpg?auto=webp&s=49f23415982ff8f601e26d5343b04b0587b76b32",
-    "preview": "https://preview.redd.it/ibmmu8kd55131.jpg?width=640&crop=smart&auto=webp&s=8421a53188f49edebc98b90e78a26b9463cd6b11",
-    "thumbnail": "https://a.thumbs.redditmedia.com/SxW0iqEAjF03ZwV-AaMrzU6KqY7FJaFkrAOSd8S1DA4.jpg"
+    "filesize": 70977,
+    "fullUrl": "https://preview.redd.it/ibmmu8kd55131.jpg?auto=webp&s=49f23415982ff8f601e26d5343b04b0587b76b32",
+    "hash": "7cb6870533",
+    "height": 512,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgUGB//EACcQAAEDAwIEBwAAAAAAAAAAAAECAwQFESEABhITFGExMkFRgdHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQACAQUAAAAAAAAAAAAAAAABAgADESIxYf/aAAwDAQACEQMRAD8AJG89vPSnDS6eqEynKFvhKjbuR4Z0u3ZNp1SiASJLLZ8ynQnCARg39SbjH1rP9rUjr6Y6OrfbxlN7pPtcY/HU5ueTJjyeS64l0AJbFkcIsO3xqg1yq4iKyGwLa5P/2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/SxW0iqEAjF03ZwV-AaMrzU6KqY7FJaFkrAOSd8S1DA4.jpg",
+    "url": "https://preview.redd.it/ibmmu8kd55131.jpg?width=640&crop=smart&auto=webp&s=8421a53188f49edebc98b90e78a26b9463cd6b11",
+    "width": 640
   },
   "score": {
     "comments": 5,

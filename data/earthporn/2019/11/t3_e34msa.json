@@ -9,21 +9,19 @@
     "month": 1572566400,
     "week": 1574553600
   },
-  "displayPicture": {
-    "filesize": 62430,
-    "hash": "f5ae6f8c79",
-    "height": 427,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACUQAAEEAQMCBwAAAAAAAAAAAAECAwQRIQASMQYTBRQkQVFhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGhEBAAIDAQAAAAAAAAAAAAAAAQACITFhcf/aAAwDAQACEQMRAD8AiJ6tXBhRZgksRIy96WGGmgsOURuDiCmrv2J+xoMnq1LkR+f246gkkFtEJCQuxgXx8Y5/dZ2w+474a0y4sqa7l7Txkm9OyZLvkJcPf6ZTYJRQyQcZ5xQ1Qqld4hUbdPJ//9k=",
-    "width": 640
-  },
   "id": "t3_e34msa",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/epuzel5iwh141.jpg?auto=webp&s=8843c256ce7f1aba46f9e083e19ce5678af935f1",
-    "preview": "https://preview.redd.it/epuzel5iwh141.jpg?width=640&crop=smart&auto=webp&s=1937bbefe771efb37216130f826e31660a058196",
-    "thumbnail": "https://a.thumbs.redditmedia.com/h428bYs4cv5dDR67zgoX23UkvTfO_vnalDpvgAkDb10.jpg"
+    "filesize": 62430,
+    "fullUrl": "https://preview.redd.it/epuzel5iwh141.jpg?auto=webp&s=8843c256ce7f1aba46f9e083e19ce5678af935f1",
+    "hash": "f5ae6f8c79",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACUQAAEEAQMCBwAAAAAAAAAAAAECAwQRIQASMQYTBRQkQVFhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGhEBAAIDAQAAAAAAAAAAAAAAAQACITFhcf/aAAwDAQACEQMRAD8AiJ6tXBhRZgksRIy96WGGmgsOURuDiCmrv2J+xoMnq1LkR+f246gkkFtEJCQuxgXx8Y5/dZ2w+474a0y4sqa7l7Txkm9OyZLvkJcPf6ZTYJRQyQcZ5xQ1Qqld4hUbdPJ//9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/h428bYs4cv5dDR67zgoX23UkvTfO_vnalDpvgAkDb10.jpg",
+    "url": "https://preview.redd.it/epuzel5iwh141.jpg?width=640&crop=smart&auto=webp&s=1937bbefe771efb37216130f826e31660a058196",
+    "width": 640
   },
   "score": {
     "comments": 0,

@@ -9,21 +9,19 @@
     "month": 1501545600,
     "week": 1503187200
   },
-  "displayPicture": {
-    "filesize": 83601,
-    "hash": "b2e8c83a82",
-    "height": 427,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACYQAAEEAAQFBQAAAAAAAAAAAAECAwQRAAUSIQYHFDFhExVRcYH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABsRAAEFAQEAAAAAAAAAAAAAAAMAAQIEESEj/9oADAMBAAIRAxEAPwAuF1QMocjudIx66lK0JWs6VEdqNjybF4sZlzxkwYrsHLYUTqkkgPNMqUhsV2o1Z89vvGeMyXpEGAp5wqPuQa+KTR22wzxMgNxJSm7SXEDWQSNVmt/zbBK+Uj4XqvCmKDebYv/Z",
-    "width": 640
-  },
   "id": "t3_6veiii",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/5dx71t535dhz.jpg?auto=webp&s=fa5d8dbbb971dca3b23c13752db2e0effc0a79be",
-    "preview": "https://preview.redd.it/5dx71t535dhz.jpg?width=640&crop=smart&auto=webp&s=2fccc5bddcbe2b3a570f9a0bfae51c32d38d78ae",
-    "thumbnail": "https://b.thumbs.redditmedia.com/XvO0Dd_wwvh7ZFlkZu6dCi5_HyAH8wCK_QdGi7L-V1w.jpg"
+    "filesize": 83601,
+    "fullUrl": "https://preview.redd.it/5dx71t535dhz.jpg?auto=webp&s=fa5d8dbbb971dca3b23c13752db2e0effc0a79be",
+    "hash": "b2e8c83a82",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACYQAAEEAAQFBQAAAAAAAAAAAAECAwQRAAUSIQYHFDFhExVRcYH/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//EABsRAAEFAQEAAAAAAAAAAAAAAAMAAQIEESEj/9oADAMBAAIRAxEAPwAuF1QMocjudIx66lK0JWs6VEdqNjybF4sZlzxkwYrsHLYUTqkkgPNMqUhsV2o1Z89vvGeMyXpEGAp5wqPuQa+KTR22wzxMgNxJSm7SXEDWQSNVmt/zbBK+Uj4XqvCmKDebYv/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/XvO0Dd_wwvh7ZFlkZu6dCi5_HyAH8wCK_QdGi7L-V1w.jpg",
+    "url": "https://preview.redd.it/5dx71t535dhz.jpg?width=640&crop=smart&auto=webp&s=2fccc5bddcbe2b3a570f9a0bfae51c32d38d78ae",
+    "width": 640
   },
   "score": {
     "comments": 1,

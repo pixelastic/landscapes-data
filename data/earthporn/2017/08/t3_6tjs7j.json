@@ -9,21 +9,19 @@
     "month": 1501545600,
     "week": 1502582400
   },
-  "displayPicture": {
-    "filesize": 110265,
-    "hash": "090b8bbd8f",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJRAAAQMEAQIHAAAAAAAAAAAAAQIDBQAEERIxIUEGExYiUXGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAcEQACAgIDAAAAAAAAAAAAAAABAwACBBEFInH/2gAMAwEAAhEDEQA/ALPVMhIxqrmNmd3dCvVTp9uOdvjFGvXchc27D8nOl9ZbKfKQ4SFlR6AD87VkvDFu0HVAoBGqSQeoJI5p2RYRcXxU/lZDW44GDqD2+6ky+Yc3oTrwAQFYVFndZ//Z",
-    "width": 640
-  },
   "id": "t3_6tjs7j",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/7d89h40ucmfz.jpg?auto=webp&s=aca2c707ab5d158388cc263dcbb7e35e100697d8",
-    "preview": "https://preview.redd.it/7d89h40ucmfz.jpg?width=640&crop=smart&auto=webp&s=86881dbe7f6be9d73ec5e25701093b5b14d28dec",
-    "thumbnail": "https://b.thumbs.redditmedia.com/w9pMVxP_kSJe5SwAZoH-ZmOp0DGUdNlTkPZP59UBH1Y.jpg"
+    "filesize": 110265,
+    "fullUrl": "https://preview.redd.it/7d89h40ucmfz.jpg?auto=webp&s=aca2c707ab5d158388cc263dcbb7e35e100697d8",
+    "hash": "090b8bbd8f",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJRAAAQMEAQIHAAAAAAAAAAAAAQIDBQAEERIxIUEGExYiUXGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAcEQACAgIDAAAAAAAAAAAAAAABAwACBBEFInH/2gAMAwEAAhEDEQA/ALPVMhIxqrmNmd3dCvVTp9uOdvjFGvXchc27D8nOl9ZbKfKQ4SFlR6AD87VkvDFu0HVAoBGqSQeoJI5p2RYRcXxU/lZDW44GDqD2+6ky+Yc3oTrwAQFYVFndZ//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/w9pMVxP_kSJe5SwAZoH-ZmOp0DGUdNlTkPZP59UBH1Y.jpg",
+    "url": "https://preview.redd.it/7d89h40ucmfz.jpg?width=640&crop=smart&auto=webp&s=86881dbe7f6be9d73ec5e25701093b5b14d28dec",
+    "width": 640
   },
   "score": {
     "comments": 0,

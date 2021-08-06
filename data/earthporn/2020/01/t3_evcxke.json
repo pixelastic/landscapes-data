@@ -9,21 +9,19 @@
     "month": 1577836800,
     "week": 1579996800
   },
-  "displayPicture": {
-    "filesize": 95580,
-    "hash": "259d36fc06",
-    "height": 427,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJRAAAQMCBgEFAAAAAAAAAAAAAQIDBQQRAAYSITFRYRQiMkFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABsRAAEEAwAAAAAAAAAAAAAAAAEAAhESAxOh/9oADAMBAAIRAxEAPwBWGznreQisp4cbBJDbKndHF+VC/wB7nE0/mKmrStCX4wNEaC0aVSW/B7v+YKzTCR0NlVmrjKcMVHr2misLUolOlGxuTf5HnGdYj6V+ZDbzZW3pT7So26784bRlcYt0ou1gTVf/2Q==",
-    "width": 640
-  },
   "id": "t3_evcxke",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/k72eq45uild41.jpg?auto=webp&s=1c4b02824e2c92a3078860ba15b8e5d115ed9922",
-    "preview": "https://preview.redd.it/k72eq45uild41.jpg?width=640&crop=smart&auto=webp&s=d0c97bb9f44a08537b942b76b51c2402510c8af1",
-    "thumbnail": "https://b.thumbs.redditmedia.com/eq37g_BCC86mgxBa-AAgbs19HYH0aiIWSil--riUKcY.jpg"
+    "filesize": 95580,
+    "fullUrl": "https://preview.redd.it/k72eq45uild41.jpg?auto=webp&s=1c4b02824e2c92a3078860ba15b8e5d115ed9922",
+    "hash": "259d36fc06",
+    "height": 427,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJRAAAQMCBgEFAAAAAAAAAAAAAQIDBQQRAAYSITFRYRQiMkFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABsRAAEEAwAAAAAAAAAAAAAAAAEAAhESAxOh/9oADAMBAAIRAxEAPwBWGznreQisp4cbBJDbKndHF+VC/wB7nE0/mKmrStCX4wNEaC0aVSW/B7v+YKzTCR0NlVmrjKcMVHr2misLUolOlGxuTf5HnGdYj6V+ZDbzZW3pT7So26784bRlcYt0ou1gTVf/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/eq37g_BCC86mgxBa-AAgbs19HYH0aiIWSil--riUKcY.jpg",
+    "url": "https://preview.redd.it/k72eq45uild41.jpg?width=640&crop=smart&auto=webp&s=d0c97bb9f44a08537b942b76b51c2402510c8af1",
+    "width": 640
   },
   "score": {
     "comments": 0,

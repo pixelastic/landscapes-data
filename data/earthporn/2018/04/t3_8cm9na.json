@@ -9,21 +9,19 @@
     "month": 1522540800,
     "week": 1523750400
   },
-  "displayPicture": {
-    "filesize": 47345,
-    "hash": "281e06a2cb",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAjEAACAQEIAwEAAAAAAAAAAAABAgMABAUGERITIWEHFCKB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABwRAAEEAwEAAAAAAAAAAAAAAAEAAgMREiKR0f/aAAwDAQACEQMRAD8AmGx1d6CL27DPI+X2sQIH4WFG3/5N2FdMMQCB2biW1AMUHQ4BPdQV6zyRDSjHgKc+yBREAEsc24NRVhlQNj2yBPT6mdJbaocC/9k=",
-    "width": 640
-  },
   "id": "t3_8cm9na",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/0pynleeco8s01.jpg?auto=webp&s=0be01186aa8a4bb3dff7565c282a380eb1dae23d",
-    "preview": "https://preview.redd.it/0pynleeco8s01.jpg?width=640&crop=smart&auto=webp&s=d251af7c4b95f6f5a75749febdedbcc19e85f8bf",
-    "thumbnail": "https://b.thumbs.redditmedia.com/l0TQzZ2hlGTDFMi27xPx4FN-2_64gioZZbxsgQ-eCUE.jpg"
+    "filesize": 47345,
+    "fullUrl": "https://preview.redd.it/0pynleeco8s01.jpg?auto=webp&s=0be01186aa8a4bb3dff7565c282a380eb1dae23d",
+    "hash": "281e06a2cb",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAjEAACAQEIAwEAAAAAAAAAAAABAgMABAUGERITIWEHFCKB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABwRAAEEAwEAAAAAAAAAAAAAAAEAAgMREiKR0f/aAAwDAQACEQMRAD8AmGx1d6CL27DPI+X2sQIH4WFG3/5N2FdMMQCB2biW1AMUHQ4BPdQV6zyRDSjHgKc+yBREAEsc24NRVhlQNj2yBPT6mdJbaocC/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/l0TQzZ2hlGTDFMi27xPx4FN-2_64gioZZbxsgQ-eCUE.jpg",
+    "url": "https://preview.redd.it/0pynleeco8s01.jpg?width=640&crop=smart&auto=webp&s=d251af7c4b95f6f5a75749febdedbcc19e85f8bf",
+    "width": 640
   },
   "score": {
     "comments": 2,

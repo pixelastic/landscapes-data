@@ -9,21 +9,19 @@
     "month": 1567296000,
     "week": 1568505600
   },
-  "displayPicture": {
-    "filesize": 202771,
-    "hash": "86ec88d0be",
-    "height": 853,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIH/8QAKBAAAQQABAMJAAAAAAAAAAAAAgEDBBEABRIhBxNhBhUiJDFCUVJx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABsRAQACAgMAAAAAAAAAAAAAAAEAAwIEEiEx/9oADAMBAAIRAxEAPwCM34kZrHBCEoBJtaCCuIA/axWt7wZL4kdp+eSRpEQGvb5IvF1pbVPzD8qD3zlJZRmhAJMwCkySbStxrRaptqve+mMyh8qM2TDz81OWWkUZiuuIgp6Wo7X84Fe1yO/YWkMkJ//Z",
-    "width": 640
-  },
   "id": "t3_d60sub",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/lk20vl8rwdn31.jpg?auto=webp&s=f02c00ea38470be90d10848369f8d03022581492",
-    "preview": "https://preview.redd.it/lk20vl8rwdn31.jpg?width=640&crop=smart&auto=webp&s=10c5ddd7f648c29179cb11fe3648b4e74885abfb",
-    "thumbnail": "https://b.thumbs.redditmedia.com/o73NgrFCK49f6YcrEHdPS8HyI5AAx1mmHrvSkOdl04U.jpg"
+    "filesize": 202771,
+    "fullUrl": "https://preview.redd.it/lk20vl8rwdn31.jpg?auto=webp&s=f02c00ea38470be90d10848369f8d03022581492",
+    "hash": "86ec88d0be",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIH/8QAKBAAAQQABAMJAAAAAAAAAAAAAgEDBBEABRIhBxNhBhUiJDFCUVJx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABsRAQACAgMAAAAAAAAAAAAAAAEAAwIEEiEx/9oADAMBAAIRAxEAPwCM34kZrHBCEoBJtaCCuIA/axWt7wZL4kdp+eSRpEQGvb5IvF1pbVPzD8qD3zlJZRmhAJMwCkySbStxrRaptqve+mMyh8qM2TDz81OWWkUZiuuIgp6Wo7X84Fe1yO/YWkMkJ//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/o73NgrFCK49f6YcrEHdPS8HyI5AAx1mmHrvSkOdl04U.jpg",
+    "url": "https://preview.redd.it/lk20vl8rwdn31.jpg?width=640&crop=smart&auto=webp&s=10c5ddd7f648c29179cb11fe3648b4e74885abfb",
+    "width": 640
   },
   "score": {
     "comments": 2,

@@ -9,21 +9,19 @@
     "month": 1588291200,
     "week": 1588464000
   },
-  "displayPicture": {
-    "filesize": 104702,
-    "hash": "18b64c8143",
-    "height": 800,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACUQAAEDAwMDBQAAAAAAAAAAAAECAwQFBhEAEiEUMXETIlGBof/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQACAwAAAAAAAAAAAAAAAAABIQACA//aAAwDAQACEQMRAD8ALdtSgyXvQkUV9sJGd/UFRVx2xxrNXlVWqNU+kp1AjR2UjhD7ZdV5Kio/moke9Kq3GLS5rjaWj7lpXncD8Y++3OkJF2ylSHVrkqe3rKgsk4PjPIHnTzsAgoEYWLs5/9k=",
-    "width": 640
-  },
   "id": "t3_geu3ve",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/4pualzag08x41.jpg?auto=webp&s=bb7c4d7e5e79b20a7ff147898eecd2a34b5b41c2",
-    "preview": "https://preview.redd.it/4pualzag08x41.jpg?width=640&crop=smart&auto=webp&s=4de2bb63bad5b855bae065dcf9aa01e67710b972",
-    "thumbnail": "https://b.thumbs.redditmedia.com/qiTl3gI4SoDDWo-MjLqDkHIjCqLryDrH2Mvtj-qc3Mc.jpg"
+    "filesize": 104702,
+    "fullUrl": "https://preview.redd.it/4pualzag08x41.jpg?auto=webp&s=bb7c4d7e5e79b20a7ff147898eecd2a34b5b41c2",
+    "hash": "18b64c8143",
+    "height": 800,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA0DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EACUQAAEDAwMDBQAAAAAAAAAAAAECAwQFBhEAEiEUMXETIlGBof/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQACAwAAAAAAAAAAAAAAAAABIQACA//aAAwDAQACEQMRAD8ALdtSgyXvQkUV9sJGd/UFRVx2xxrNXlVWqNU+kp1AjR2UjhD7ZdV5Kio/moke9Kq3GLS5rjaWj7lpXncD8Y++3OkJF2ylSHVrkqe3rKgsk4PjPIHnTzsAgoEYWLs5/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/qiTl3gI4SoDDWo-MjLqDkHIjCqLryDrH2Mvtj-qc3Mc.jpg",
+    "url": "https://preview.redd.it/4pualzag08x41.jpg?width=640&crop=smart&auto=webp&s=4de2bb63bad5b855bae065dcf9aa01e67710b972",
+    "width": 640
   },
   "score": {
     "comments": 123,

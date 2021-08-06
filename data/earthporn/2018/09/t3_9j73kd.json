@@ -9,21 +9,19 @@
     "month": 1535760000,
     "week": 1537660800
   },
-  "displayPicture": {
-    "filesize": 126120,
-    "hash": "7808b539d5",
-    "height": 960,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAjEAACAQMDBAMAAAAAAAAAAAABAgMEBRIAESEGFjFRIjKR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAbEQACAwADAAAAAAAAAAAAAAABAwACESFh4f/aAAwDAQACEQMRAD8ANx1l+6utcrO0VPLCGDQM5gDL5JGXseOfPGjDI8JMfbdQuHx2KSMf3bnTe1XKtvMc1VX2aqljgBGAjyWViCAOGH1OxPI9au0HUN4pqOGBqS8qY1CYwUcCoNuNgM9Q1lDbTye/YqRYDAMn/9k=",
-    "width": 640
-  },
   "id": "t3_9j73kd",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/t88ykroppno11.jpg?auto=webp&s=bfaf24bba7c7fcf59e829883af8ac411e4f11d08",
-    "preview": "https://preview.redd.it/t88ykroppno11.jpg?width=640&crop=smart&auto=webp&s=01f72281fa5691760156fa39627e5674c74d12a0",
-    "thumbnail": "https://b.thumbs.redditmedia.com/6IY619VOna5iakTlmTif_MRuythdMjtyICmDuaftBoA.jpg"
+    "filesize": 126120,
+    "fullUrl": "https://preview.redd.it/t88ykroppno11.jpg?auto=webp&s=bfaf24bba7c7fcf59e829883af8ac411e4f11d08",
+    "hash": "7808b539d5",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAjEAACAQMDBAMAAAAAAAAAAAABAgMEBRIAESEGFjFRIjKR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAbEQACAwADAAAAAAAAAAAAAAABAwACESFh4f/aAAwDAQACEQMRAD8ANx1l+6utcrO0VPLCGDQM5gDL5JGXseOfPGjDI8JMfbdQuHx2KSMf3bnTe1XKtvMc1VX2aqljgBGAjyWViCAOGH1OxPI9au0HUN4pqOGBqS8qY1CYwUcCoNuNgM9Q1lDbTye/YqRYDAMn/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/6IY619VOna5iakTlmTif_MRuythdMjtyICmDuaftBoA.jpg",
+    "url": "https://preview.redd.it/t88ykroppno11.jpg?width=640&crop=smart&auto=webp&s=01f72281fa5691760156fa39627e5674c74d12a0",
+    "width": 640
   },
   "score": {
     "comments": 15,

@@ -9,21 +9,19 @@
     "month": 1512086400,
     "week": 1514073600
   },
-  "displayPicture": {
-    "filesize": 145995,
-    "hash": "a356d5af41",
-    "height": 960,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJRAAAgIABQIHAAAAAAAAAAAAAQIDEQAEBQYhE1EHEhUiMUKB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABcRAAMBAAAAAAAAAAAAAAAAAAABAjH/2gAMAwEAAhEDEQA/AMz4TehTHUBrQbLxKFakZgGajRbnkD4rvgVt1aCksqTZaOd1kcdQQimHmNfbtWJ9jNndK25uCWOFXVkgEbSRgAN1OSLrmiRzgDM6NDPmJJWyht2J98i3+1gVzC0REt4f/9k=",
-    "width": 640
-  },
   "id": "t3_7mr3z8",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/r2ws13lvmr601.jpg?auto=webp&s=fed97169bc308c77fc6c01262c0df73b98f4b0b4",
-    "preview": "https://preview.redd.it/r2ws13lvmr601.jpg?width=640&crop=smart&auto=webp&s=91352f9b25411570b5f2556d61e16964eb6199b5",
-    "thumbnail": "https://a.thumbs.redditmedia.com/0hJvuO0rUikcS_n9uA26J5y-0MIsP5T6iB4EY65NTR0.jpg"
+    "filesize": 145995,
+    "fullUrl": "https://preview.redd.it/r2ws13lvmr601.jpg?auto=webp&s=fed97169bc308c77fc6c01262c0df73b98f4b0b4",
+    "hash": "a356d5af41",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJRAAAgIABQIHAAAAAAAAAAAAAQIDEQAEBQYhE1EHEhUiMUKB/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABcRAAMBAAAAAAAAAAAAAAAAAAABAjH/2gAMAwEAAhEDEQA/AMz4TehTHUBrQbLxKFakZgGajRbnkD4rvgVt1aCksqTZaOd1kcdQQimHmNfbtWJ9jNndK25uCWOFXVkgEbSRgAN1OSLrmiRzgDM6NDPmJJWyht2J98i3+1gVzC0REt4f/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/0hJvuO0rUikcS_n9uA26J5y-0MIsP5T6iB4EY65NTR0.jpg",
+    "url": "https://preview.redd.it/r2ws13lvmr601.jpg?width=640&crop=smart&auto=webp&s=91352f9b25411570b5f2556d61e16964eb6199b5",
+    "width": 640
   },
   "score": {
     "comments": 3,

@@ -9,21 +9,19 @@
     "month": 1559347200,
     "week": 1559433600
   },
-  "displayPicture": {
-    "filesize": 99465,
-    "hash": "75213392e3",
-    "height": 868,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJRAAAQMCBQQDAAAAAAAAAAAAAQIDBAURAAYSITEHEyNRMkFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQABBAMAAAAAAAAAAAAAAAABAAIEEQNBof/aAAwDAQACEQMRAD8ALdH5FTRmGEhluyo8db+lwEJU0BqUNxvq+v3B3MLVXrNYkzW4Mx0OK+RRzjSKNV8tUiNcyJofQyWg+255EpPNjaw9ccYiVKp5QlSO8lM9rWLlCXSANz6GEfFy0KIvinbIadFf/9k=",
-    "width": 640
-  },
   "id": "t3_bxj78o",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/410ipmyrpr231.jpg?auto=webp&s=398a8f54ab0024e0760099e880ff51cae4885ade",
-    "preview": "https://preview.redd.it/410ipmyrpr231.jpg?width=640&crop=smart&auto=webp&s=5b002c7e347b24ac383f89631ecd032fc5798e87",
-    "thumbnail": "https://b.thumbs.redditmedia.com/buIo8edigtEAM7Kjhld0F4IOmyMcfhLmvvMH3raJTuc.jpg"
+    "filesize": 99465,
+    "fullUrl": "https://preview.redd.it/410ipmyrpr231.jpg?auto=webp&s=398a8f54ab0024e0760099e880ff51cae4885ade",
+    "hash": "75213392e3",
+    "height": 868,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJRAAAQMCBQQDAAAAAAAAAAAAAQIDBAURAAYSITEHEyNRMkFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAbEQABBAMAAAAAAAAAAAAAAAABAAIEEQNBof/aAAwDAQACEQMRAD8ALdH5FTRmGEhluyo8db+lwEJU0BqUNxvq+v3B3MLVXrNYkzW4Mx0OK+RRzjSKNV8tUiNcyJofQyWg+255EpPNjaw9ccYiVKp5QlSO8lM9rWLlCXSANz6GEfFy0KIvinbIadFf/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/buIo8edigtEAM7Kjhld0F4IOmyMcfhLmvvMH3raJTuc.jpg",
+    "url": "https://preview.redd.it/410ipmyrpr231.jpg?width=640&crop=smart&auto=webp&s=5b002c7e347b24ac383f89631ecd032fc5798e87",
+    "width": 640
   },
   "score": {
     "comments": 1,

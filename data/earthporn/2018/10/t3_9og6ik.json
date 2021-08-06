@@ -9,21 +9,19 @@
     "month": 1538352000,
     "week": 1539475200
   },
-  "displayPicture": {
-    "filesize": 118722,
-    "hash": "971f24b9a7",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIF/8QAJBAAAgEDAgYDAAAAAAAAAAAAAQIDBAURACEGBxITMWEVQYH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABoRAAMAAwEAAAAAAAAAAAAAAAECAwARIYH/2gAMAwEAAhEDEQA/AMjg1prXKgtdbJDEyEYnJyuAWH142x+6vi6/Xbiahqqa4t3QioVeGYFn3wQBscADJJ9aLcvKda+piWreSQEAnLe/GkXNZVtEEXxw7C9BHSp220dFXXB3J8r0dyCBr3P/2Q==",
-    "width": 640
-  },
   "id": "t3_9og6ik",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/51loxei6nes11.jpg?auto=webp&s=9dc45a23ad4dae1f8a53cb5450e11b623ba286f0",
-    "preview": "https://preview.redd.it/51loxei6nes11.jpg?width=640&crop=smart&auto=webp&s=4703b9512e9a8864465e30d7e3ffc84ddd8d9375",
-    "thumbnail": "https://b.thumbs.redditmedia.com/dgkE7gz78cs9QWBMQ_hdeCnJuPF5zNV-OEPXkj9Puhc.jpg"
+    "filesize": 118722,
+    "fullUrl": "https://preview.redd.it/51loxei6nes11.jpg?auto=webp&s=9dc45a23ad4dae1f8a53cb5450e11b623ba286f0",
+    "hash": "971f24b9a7",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIF/8QAJBAAAgEDAgYDAAAAAAAAAAAAAQIDBAURACEGBxITMWEVQYH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABoRAAMAAwEAAAAAAAAAAAAAAAECAwARIYH/2gAMAwEAAhEDEQA/AMjg1prXKgtdbJDEyEYnJyuAWH142x+6vi6/Xbiahqqa4t3QioVeGYFn3wQBscADJJ9aLcvKda+piWreSQEAnLe/GkXNZVtEEXxw7C9BHSp220dFXXB3J8r0dyCBr3P/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/dgkE7gz78cs9QWBMQ_hdeCnJuPF5zNV-OEPXkj9Puhc.jpg",
+    "url": "https://preview.redd.it/51loxei6nes11.jpg?width=640&crop=smart&auto=webp&s=4703b9512e9a8864465e30d7e3ffc84ddd8d9375",
+    "width": 640
   },
   "score": {
     "comments": 0,

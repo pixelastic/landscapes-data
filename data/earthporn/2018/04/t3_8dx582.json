@@ -9,21 +9,19 @@
     "month": 1522540800,
     "week": 1523750400
   },
-  "displayPicture": {
-    "filesize": 134627,
-    "hash": "1b75eab50b",
-    "height": 960,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBv/EACYQAAEEAAUDBQEAAAAAAAAAAAECAwQRAAUGEiEHFFEiMmFxgbH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAQACAwAAAAAAAAAAAAAAAAEAESExQv/aAAwDAQACEQMRAD8AmmdaNbiItpTUBJsAyW4JJQSL28kpsX4xl5vVTV0mSt3v0IsAU00Ep4AF181eFZZmWeZqx20qTKjFK1FKAgMbCqq5ULr+fuCdBNq9T2qMrbcPuRsdc2nxuAo/Ywt8sgzsn//Z",
-    "width": 640
-  },
   "id": "t3_8dx582",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/xl3vr78tpat01.jpg?auto=webp&s=6dda612645cf2a388370a8f7a57b8de3e3e4e5c4",
-    "preview": "https://preview.redd.it/xl3vr78tpat01.jpg?width=640&crop=smart&auto=webp&s=4b201d7cad1973fed800a2824d0c8f7c6e4c5951",
-    "thumbnail": "https://b.thumbs.redditmedia.com/LbSSdWesU6ztzX2Eennx33DIVnvwn_O7LfePE7qzzEM.jpg"
+    "filesize": 134627,
+    "fullUrl": "https://preview.redd.it/xl3vr78tpat01.jpg?auto=webp&s=6dda612645cf2a388370a8f7a57b8de3e3e4e5c4",
+    "hash": "1b75eab50b",
+    "height": 960,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBv/EACYQAAEEAAUDBQEAAAAAAAAAAAECAwQRAAUGEiEHFFEiMmFxgbH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAQACAwAAAAAAAAAAAAAAAAEAESExQv/aAAwDAQACEQMRAD8AmmdaNbiItpTUBJsAyW4JJQSL28kpsX4xl5vVTV0mSt3v0IsAU00Ep4AF181eFZZmWeZqx20qTKjFK1FKAgMbCqq5ULr+fuCdBNq9T2qMrbcPuRsdc2nxuAo/Ywt8sgzsn//Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/LbSSdWesU6ztzX2Eennx33DIVnvwn_O7LfePE7qzzEM.jpg",
+    "url": "https://preview.redd.it/xl3vr78tpat01.jpg?width=640&crop=smart&auto=webp&s=4b201d7cad1973fed800a2824d0c8f7c6e4c5951",
+    "width": 640
   },
   "score": {
     "comments": 0,

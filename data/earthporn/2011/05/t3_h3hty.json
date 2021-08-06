@@ -9,21 +9,19 @@
     "month": 1304208000,
     "week": 1304208000
   },
-  "displayPicture": {
-    "filesize": 41317,
-    "hash": "51bc5a6960",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYI/8QAIhAAAQMDAwUAAAAAAAAAAAAAAQIDBAAFEQYykQcSIUFR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECA//aAAwDAQACEQMRAD8AobPry1OMJUlIS3jdgAcigX7qnp+O2ttLD0leDtSAOTWbI1ylpjEB09o8AeqNMmPuNLK15P2oz0TcgXUP/9k=",
-    "width": 640
-  },
   "id": "t3_h3hty",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://external-preview.redd.it/RgOdBRN6rsK2P2NijwE4e8hLoY02pf-8vs-kiOSrocg.jpg?auto=webp&s=4aa123d36030fe853fc22958501a371166ceb30e",
-    "preview": "https://external-preview.redd.it/RgOdBRN6rsK2P2NijwE4e8hLoY02pf-8vs-kiOSrocg.jpg?width=640&crop=smart&auto=webp&s=95320fb8d50738458da0c8215dd046dd0c41ddeb",
-    "thumbnail": "https://a.thumbs.redditmedia.com/W6GMlCZhFdqSgc3j2VEh5muh31U_DdCV2U_zVBtRJR8.jpg"
+    "filesize": 41317,
+    "fullUrl": "https://external-preview.redd.it/RgOdBRN6rsK2P2NijwE4e8hLoY02pf-8vs-kiOSrocg.jpg?auto=webp&s=4aa123d36030fe853fc22958501a371166ceb30e",
+    "hash": "51bc5a6960",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAYI/8QAIhAAAQMDAwUAAAAAAAAAAAAAAQIDBAAFEQYykQcSIUFR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQADAQEAAAAAAAAAAAAAAAAAARECA//aAAwDAQACEQMRAD8AobPry1OMJUlIS3jdgAcigX7qnp+O2ttLD0leDtSAOTWbI1ylpjEB09o8AeqNMmPuNLK15P2oz0TcgXUP/9k=",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/W6GMlCZhFdqSgc3j2VEh5muh31U_DdCV2U_zVBtRJR8.jpg",
+    "url": "https://external-preview.redd.it/RgOdBRN6rsK2P2NijwE4e8hLoY02pf-8vs-kiOSrocg.jpg?width=640&crop=smart&auto=webp&s=95320fb8d50738458da0c8215dd046dd0c41ddeb",
+    "width": 640
   },
   "score": {
     "comments": 0,

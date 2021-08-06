@@ -9,21 +9,19 @@
     "month": 1543622400,
     "week": 1543708800
   },
-  "displayPicture": {
-    "filesize": 54822,
-    "hash": "55f53aee4f",
-    "height": 495,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMGCP/EACQQAAEEAQMDBQAAAAAAAAAAAAECAwQRBQAGIRIxYQcTMkFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAYEQEBAQEBAAAAAAAAAAAAAAABAgAREv/aAAwDAQACEQMRAD8AvfTzPTsqqOqdBhJjLbJU7Fd6ylQAokH6VzVdtHvPfGKwyZDTycl1IB+LZBv9IIrzrKmLzEvHtSfYUCCmqVfFnvwQb0pO6s2iUXWsg+0pZpXQqroEc+eTzqUlvq8lYOTv/9k=",
-    "width": 640
-  },
   "id": "t3_a32zrp",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/aab97hauta221.jpg?auto=webp&s=6fb80454e27843c37064b4799cf5cf579c4dc820",
-    "preview": "https://preview.redd.it/aab97hauta221.jpg?width=640&crop=smart&auto=webp&s=3f3c61d75c8d8bb98e4191fab55459dffd27202d",
-    "thumbnail": "https://b.thumbs.redditmedia.com/_jUk0Ou62XDlareXlrY3NkaR3mjQ79mxqNbmqk_jrco.jpg"
+    "filesize": 54822,
+    "fullUrl": "https://preview.redd.it/aab97hauta221.jpg?auto=webp&s=6fb80454e27843c37064b4799cf5cf579c4dc820",
+    "hash": "55f53aee4f",
+    "height": 495,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMGCP/EACQQAAEEAQMDBQAAAAAAAAAAAAECAwQRBQAGIRIxYQcTMkFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAYEQEBAQEBAAAAAAAAAAAAAAABAgAREv/aAAwDAQACEQMRAD8AvfTzPTsqqOqdBhJjLbJU7Fd6ylQAokH6VzVdtHvPfGKwyZDTycl1IB+LZBv9IIrzrKmLzEvHtSfYUCCmqVfFnvwQb0pO6s2iUXWsg+0pZpXQqroEc+eTzqUlvq8lYOTv/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/_jUk0Ou62XDlareXlrY3NkaR3mjQ79mxqNbmqk_jrco.jpg",
+    "url": "https://preview.redd.it/aab97hauta221.jpg?width=640&crop=smart&auto=webp&s=3f3c61d75c8d8bb98e4191fab55459dffd27202d",
+    "width": 640
   },
   "score": {
     "comments": 1,

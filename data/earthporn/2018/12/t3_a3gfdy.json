@@ -9,21 +9,19 @@
     "month": 1543622400,
     "week": 1543708800
   },
-  "displayPicture": {
-    "filesize": 105255,
-    "hash": "a436323baa",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQIRAwQFAAYSIQcTQVH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABoRAAEFAQAAAAAAAAAAAAAAAAEAAhEhURL/2gAMAwEAAhEDEQA/ADdmbetsxsy9q2qWQuvUSeLVGrlgZBCg8WeAeh+/NZ7unFXGLu6dHIXVG5t1QcGghGJiAZgqe+/ojVH4sjH76trdB7aKcrkJVJI9gQwdEeTKxbHKiqiIW5wqxBgnr81O4a9oq9TiYIxf/9k=",
-    "width": 640
-  },
   "id": "t3_a3gfdy",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/xz544kxlui221.jpg?auto=webp&s=741707a4561c660d2c0eda49c31e8cd51a36156d",
-    "preview": "https://preview.redd.it/xz544kxlui221.jpg?width=640&crop=smart&auto=webp&s=276ef6a6c3e78148c3475a061b1cfa300cf51536",
-    "thumbnail": "https://b.thumbs.redditmedia.com/zql5vcAapQrIbsLDTTnb9EE-BcvrpTGAAeFK1Vh5Tdw.jpg"
+    "filesize": 105255,
+    "fullUrl": "https://preview.redd.it/xz544kxlui221.jpg?auto=webp&s=741707a4561c660d2c0eda49c31e8cd51a36156d",
+    "hash": "a436323baa",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQIRAwQFAAYSIQcTQVH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABoRAAEFAQAAAAAAAAAAAAAAAAEAAhEhURL/2gAMAwEAAhEDEQA/ADdmbetsxsy9q2qWQuvUSeLVGrlgZBCg8WeAeh+/NZ7unFXGLu6dHIXVG5t1QcGghGJiAZgqe+/ojVH4sjH76trdB7aKcrkJVJI9gQwdEeTKxbHKiqiIW5wqxBgnr81O4a9oq9TiYIxf/9k=",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/zql5vcAapQrIbsLDTTnb9EE-BcvrpTGAAeFK1Vh5Tdw.jpg",
+    "url": "https://preview.redd.it/xz544kxlui221.jpg?width=640&crop=smart&auto=webp&s=276ef6a6c3e78148c3475a061b1cfa300cf51536",
+    "width": 640
   },
   "score": {
     "comments": 32,

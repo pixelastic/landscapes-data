@@ -9,21 +9,19 @@
     "month": 1525132800,
     "week": 1524960000
   },
-  "displayPicture": {
-    "filesize": 111042,
-    "hash": "6afc75cfa1",
-    "height": 702,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA8DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAlEAACAgECBAcAAAAAAAAAAAABAgMRBAAFEhMxUQYHFSEjQcH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EAB0RAAEEAgMAAAAAAAAAAAAAAAIAAQQRA5EiwfD/2gAMAwEAAhEDEQA/AFdn8V5mJly4m4xO5hUuxePjpbq761pk+Y2yQsUydt+RTRpQP3U6zt13OZMnL5nqGQ7U6xqYzGCfoDqO46++hJ5IMxZ+UUBj4Yw0k3CS1k2o70CDenBmgbUZe2opWExfgDVvpf/Z",
-    "width": 640
-  },
   "id": "t3_8gsc94",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/sx023ff4jov01.jpg?auto=webp&s=7ab4e544775cd420b7376008a88ce3a9f1a60386",
-    "preview": "https://preview.redd.it/sx023ff4jov01.jpg?width=640&crop=smart&auto=webp&s=91b29c43428f40c4a757322162485213e88a6663",
-    "thumbnail": "https://b.thumbs.redditmedia.com/L1ES24PE0ABLdK_avUYmxzvibfHvB1q5FU1st2vMsZs.jpg"
+    "filesize": 111042,
+    "fullUrl": "https://preview.redd.it/sx023ff4jov01.jpg?auto=webp&s=7ab4e544775cd420b7376008a88ce3a9f1a60386",
+    "hash": "6afc75cfa1",
+    "height": 702,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA8DASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAlEAACAgECBAcAAAAAAAAAAAABAgMRBAAFEhMxUQYHFSEjQcH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EAB0RAAEEAgMAAAAAAAAAAAAAAAIAAQQRA5EiwfD/2gAMAwEAAhEDEQA/AFdn8V5mJly4m4xO5hUuxePjpbq761pk+Y2yQsUydt+RTRpQP3U6zt13OZMnL5nqGQ7U6xqYzGCfoDqO46++hJ5IMxZ+UUBj4Yw0k3CS1k2o70CDenBmgbUZe2opWExfgDVvpf/Z",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/L1ES24PE0ABLdK_avUYmxzvibfHvB1q5FU1st2vMsZs.jpg",
+    "url": "https://preview.redd.it/sx023ff4jov01.jpg?width=640&crop=smart&auto=webp&s=91b29c43428f40c4a757322162485213e88a6663",
+    "width": 640
   },
   "score": {
     "comments": 3,

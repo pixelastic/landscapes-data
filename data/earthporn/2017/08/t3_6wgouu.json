@@ -9,21 +9,19 @@
     "month": 1501545600,
     "week": 1503792000
   },
-  "displayPicture": {
-    "filesize": 67592,
-    "hash": "710ac8af45",
-    "height": 360,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAJRAAAQQCAAQHAAAAAAAAAAAAAQIEBREAAwYSEyEiMjNBcYHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAdEQABBAIDAAAAAAAAAAAAAAABAAIDIQQSFaGx/9oADAMBAAIRAxEAPwCw+4oiNkSlvFcPsdWpZSq+VBSo9iD3AJIq8HvkIyYedV9GQ7NwoeJzqbK2rGqqASi+W69yMzxPrJ+BjGvnT9/mDy84ds2u/bVQwYiNXWv/2Q==",
-    "width": 640
-  },
   "id": "t3_6wgouu",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/givu3lhr8eiz.jpg?auto=webp&s=22a05a0aab248a5128c551dcb04d3b1dab77c11c",
-    "preview": "https://preview.redd.it/givu3lhr8eiz.jpg?width=640&crop=smart&auto=webp&s=7a01e5ea3ce33eb9893201bb5e9c7791112ade3c",
-    "thumbnail": "https://b.thumbs.redditmedia.com/tPlmLvuZh2knOp1_g3EoKQuoXe7ybU5GC6ZXYsVgTGc.jpg"
+    "filesize": 67592,
+    "fullUrl": "https://preview.redd.it/givu3lhr8eiz.jpg?auto=webp&s=22a05a0aab248a5128c551dcb04d3b1dab77c11c",
+    "hash": "710ac8af45",
+    "height": 360,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAJRAAAQQCAAQHAAAAAAAAAAAAAQIEBREAAwYSEyEiMjNBcYHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAdEQABBAIDAAAAAAAAAAAAAAABAAIDIQQSFaGx/9oADAMBAAIRAxEAPwCw+4oiNkSlvFcPsdWpZSq+VBSo9iD3AJIq8HvkIyYedV9GQ7NwoeJzqbK2rGqqASi+W69yMzxPrJ+BjGvnT9/mDy84ds2u/bVQwYiNXWv/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/tPlmLvuZh2knOp1_g3EoKQuoXe7ybU5GC6ZXYsVgTGc.jpg",
+    "url": "https://preview.redd.it/givu3lhr8eiz.jpg?width=640&crop=smart&auto=webp&s=7a01e5ea3ce33eb9893201bb5e9c7791112ade3c",
+    "width": 640
   },
   "score": {
     "comments": 0,

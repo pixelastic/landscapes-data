@@ -9,21 +9,19 @@
     "month": 1501545600,
     "week": 1501977600
   },
-  "displayPicture": {
-    "filesize": 19529,
-    "hash": "d5c5618581",
-    "height": 243,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAGABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAIBAAAQMEAgMAAAAAAAAAAAAAAQACAwQFESEGIzJBof/EABUBAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIAAwQRMf/aAAwDAQACEQMRAD8Aym5c5gqiXUdnbRsHkBUufk+8ZGlFl5XPIehhGNkPOviIrEyrlq0GMPWpfgn/2Q==",
-    "width": 640
-  },
   "id": "t3_6sqtci",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/ig3f0hju1uez.jpg?auto=webp&s=0055250da090f7499753d58f22d92edd52b3dc49",
-    "preview": "https://preview.redd.it/ig3f0hju1uez.jpg?width=640&crop=smart&auto=webp&s=4c2199ad2e691f4ef75e3a246bb810787a04427a",
-    "thumbnail": "https://b.thumbs.redditmedia.com/34xLnnSVfmbRoOACQtjIeXtvFiCoQVIxnLYRjv0EcZg.jpg"
+    "filesize": 19529,
+    "fullUrl": "https://preview.redd.it/ig3f0hju1uez.jpg?auto=webp&s=0055250da090f7499753d58f22d92edd52b3dc49",
+    "hash": "d5c5618581",
+    "height": 243,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAGABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUH/8QAIBAAAQMEAgMAAAAAAAAAAAAAAQACAwQFESEGIzJBof/EABUBAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIAAwQRMf/aAAwDAQACEQMRAD8Aym5c5gqiXUdnbRsHkBUufk+8ZGlFl5XPIehhGNkPOviIrEyrlq0GMPWpfgn/2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/34xLnnSVfmbRoOACQtjIeXtvFiCoQVIxnLYRjv0EcZg.jpg",
+    "url": "https://preview.redd.it/ig3f0hju1uez.jpg?width=640&crop=smart&auto=webp&s=4c2199ad2e691f4ef75e3a246bb810787a04427a",
+    "width": 640
   },
   "score": {
     "comments": 0,

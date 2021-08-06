@@ -9,21 +9,19 @@
     "month": 1535760000,
     "week": 1536451200
   },
-  "displayPicture": {
-    "filesize": 49155,
-    "hash": "e21e24e9f1",
-    "height": 853,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAKRAAAQMCBAMJAAAAAAAAAAAAAQIDBAUSAAYREwchJAgiMUFRUoGRof/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAAxEy/9oADAMBAAIRAxEAPwBtlmo5TnzrYjlScetJT0DzaQNPdaR+4gP9oDLlIecgwqPVC0yop1NrJJ8+6o3D554yiNxMrrTw650oJ5pJuH0cL6fnxiXFS5VKVGlSfDd2ELuHrqRrh7XZ+jsmrZRyMn//2Q==",
-    "width": 640
-  },
   "id": "t3_9f4gj3",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/ls80622keql11.jpg?auto=webp&s=692265b1ebf5427c791db51a252c3f7164c7abf4",
-    "preview": "https://preview.redd.it/ls80622keql11.jpg?width=640&crop=smart&auto=webp&s=5b3d33cbf6596114910240135e9294145b170e3c",
-    "thumbnail": "https://b.thumbs.redditmedia.com/kah3OMoDMcxl7gbPjNkpiVuq4Sye4wI6s6zA6O31HSQ.jpg"
+    "filesize": 49155,
+    "fullUrl": "https://preview.redd.it/ls80622keql11.jpg?auto=webp&s=692265b1ebf5427c791db51a252c3f7164c7abf4",
+    "hash": "e21e24e9f1",
+    "height": 853,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAKRAAAQMCBAMJAAAAAAAAAAAAAQIDBAUSAAYREwchJAgiMUFRUoGRof/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAAxEy/9oADAMBAAIRAxEAPwBtlmo5TnzrYjlScetJT0DzaQNPdaR+4gP9oDLlIecgwqPVC0yop1NrJJ8+6o3D554yiNxMrrTw650oJ5pJuH0cL6fnxiXFS5VKVGlSfDd2ELuHrqRrh7XZ+jsmrZRyMn//2Q==",
+    "thumbnailUrl": "https://b.thumbs.redditmedia.com/kah3OMoDMcxl7gbPjNkpiVuq4Sye4wI6s6zA6O31HSQ.jpg",
+    "url": "https://preview.redd.it/ls80622keql11.jpg?width=640&crop=smart&auto=webp&s=5b3d33cbf6596114910240135e9294145b170e3c",
+    "width": 640
   },
   "score": {
     "comments": 0,

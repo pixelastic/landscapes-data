@@ -9,21 +9,19 @@
     "month": 1548979200,
     "week": 1550361600
   },
-  "displayPicture": {
-    "filesize": 64748,
-    "hash": "5f069f95b3",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAiEAACAQMEAwEBAAAAAAAAAAABAgMEBREABiExEmGBIkH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAAIDAQEAAAAAAAAAAAAAAAECABFBAwT/2gAMAwEAAhEDEQA/AGtx70poI4hTJEzyAHwk8lZTz3jgjjsHQtPu+nnVomtc7T4yTCwZcfSPmmdg2i3XK819TWUNPJI6ZwU/KnjlV6Hf81U0e2LOyy1S0MMckhKSCNQocDIB9H2uNUV9BVa2AbgC15P/2Q==",
-    "width": 640
-  },
   "id": "t3_at49q2",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/roodyhrguxh21.jpg?auto=webp&s=55847658a5479ac6aaebfb0abf0cc084547371c2",
-    "preview": "https://preview.redd.it/roodyhrguxh21.jpg?width=640&crop=smart&auto=webp&s=f660c2e240c4cc7e163a17753ef8f76d0fe7d200",
-    "thumbnail": "https://a.thumbs.redditmedia.com/hvxiOI_lP495oDXXiUM1uep_LIf7vzHm_oCzTb8atp0.jpg"
+    "filesize": 64748,
+    "fullUrl": "https://preview.redd.it/roodyhrguxh21.jpg?auto=webp&s=55847658a5479ac6aaebfb0abf0cc084547371c2",
+    "hash": "5f069f95b3",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAiEAACAQMEAwEBAAAAAAAAAAABAgMEBREABiExEmGBIkH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAAIDAQEAAAAAAAAAAAAAAAECABFBAwT/2gAMAwEAAhEDEQA/AGtx70poI4hTJEzyAHwk8lZTz3jgjjsHQtPu+nnVomtc7T4yTCwZcfSPmmdg2i3XK819TWUNPJI6ZwU/KnjlV6Hf81U0e2LOyy1S0MMckhKSCNQocDIB9H2uNUV9BVa2AbgC15P/2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/hvxiOI_lP495oDXXiUM1uep_LIf7vzHm_oCzTb8atp0.jpg",
+    "url": "https://preview.redd.it/roodyhrguxh21.jpg?width=640&crop=smart&auto=webp&s=f660c2e240c4cc7e163a17753ef8f76d0fe7d200",
+    "width": 640
   },
   "score": {
     "comments": 2,

@@ -9,21 +9,19 @@
     "month": 1535760000,
     "week": 1537056000
   },
-  "displayPicture": {
-    "filesize": 112563,
-    "hash": "00d0b650fe",
-    "height": 480,
-    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJBAAAQMEAQMFAAAAAAAAAAAAAQIDBAAFESExBxNRBhIiMkH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABwRAAEEAwEAAAAAAAAAAAAAAAEAAgMhBRESYf/aAAwDAQACEQMRAD8AQs3VS8RLZHjzIUJ0s4CpEdeCoY5UnGN+RUnqDqc9ce8iLbQlpHBU+PzZBGOKzVntEOcxODyFDsNtIR7FkfZYBJ8mgZM2QkPQi4FR4+ShKkg5+RG9b0anMyErmdVfiUQDdlf/2Q==",
-    "width": 640
-  },
   "id": "t3_9gentn",
   "misc": {
     "postHint": "image"
   },
   "picture": {
-    "full": "https://preview.redd.it/htmt42hwbom11.jpg?auto=webp&s=370f44960d88fcd10b9dead1d387183cb7d3014e",
-    "preview": "https://preview.redd.it/htmt42hwbom11.jpg?width=640&crop=smart&auto=webp&s=f0ccfee2660b40c78a1d250eae586000c33213f1",
-    "thumbnail": "https://a.thumbs.redditmedia.com/b3UPO8H1z-mDMNk2Iw57Rwn72CsJBxfh10EDDeTFXW4.jpg"
+    "filesize": 112563,
+    "fullUrl": "https://preview.redd.it/htmt42hwbom11.jpg?auto=webp&s=370f44960d88fcd10b9dead1d387183cb7d3014e",
+    "hash": "00d0b650fe",
+    "height": 480,
+    "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAJBAAAQMEAQMFAAAAAAAAAAAAAQIDBAAFESExBxNRBhIiMkH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABwRAAEEAwEAAAAAAAAAAAAAAAEAAgMhBRESYf/aAAwDAQACEQMRAD8AQs3VS8RLZHjzIUJ0s4CpEdeCoY5UnGN+RUnqDqc9ce8iLbQlpHBU+PzZBGOKzVntEOcxODyFDsNtIR7FkfZYBJ8mgZM2QkPQi4FR4+ShKkg5+RG9b0anMyErmdVfiUQDdlf/2Q==",
+    "thumbnailUrl": "https://a.thumbs.redditmedia.com/b3UPO8H1z-mDMNk2Iw57Rwn72CsJBxfh10EDDeTFXW4.jpg",
+    "url": "https://preview.redd.it/htmt42hwbom11.jpg?width=640&crop=smart&auto=webp&s=f0ccfee2660b40c78a1d250eae586000c33213f1",
+    "width": 640
   },
   "score": {
     "comments": 2,
