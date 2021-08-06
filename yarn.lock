@@ -5332,10 +5332,10 @@ node-object-hash@2.0.0:
   resolved "https://registry.npmjs.org/node-object-hash/-/node-object-hash-2.0.0.tgz#9971fcdb7d254f05016bd9ccf508352bee11116b"
   integrity sha512-VZR0zroAusy1ETZMZiGeLkdu50LGjG5U1KHZqTruqtTyQ2wfWhHG2Ow4nsUbfTFGlaREgNHcCWoM/OzEm6p+NQ==
 
-node-object-hash@2.3.7:
-  version "2.3.7"
-  resolved "https://registry.npmjs.org/node-object-hash/-/node-object-hash-2.3.7.tgz#f60b767944be41bdfc62b3cfaa38f9cf6f90149a"
-  integrity sha512-ybV3ZKZZoHJPSelxgRY5LYRHQToMtxvJxNbkY8WtWCy5Z/t3V0gyy/6O6kGoh0PrzZIATxVVDG2q+eM6iZMjKQ==
+node-object-hash@2.3.8:
+  version "2.3.8"
+  resolved "https://registry.yarnpkg.com/node-object-hash/-/node-object-hash-2.3.8.tgz#d19927ebbdb27019d2260de419cc62598a1721e7"
+  integrity sha512-hg/4TUqBOFdEhKjLF4jnn64utX3OWPVPWunVaDsaKxY+TVoViOFyW4lu34DES8yAqAqULSFm2jFL9SqVGes0Zg==
 
 node-releases@^1.1.71:
   version "1.1.73"
@@ -6181,16 +6181,17 @@ readdirp@~3.6.0:
   dependencies:
     picomatch "^2.2.1"
 
-reddinx@1.0.1:
-  version "1.0.1"
-  resolved "https://registry.npmjs.org/reddinx/-/reddinx-1.0.1.tgz#c7c077e311247e01288565ecfd33fff63b331724"
-  integrity sha512-baTsqJlp3lz87Uq+VUbAHgu3YXDuJMy0zVipfjahRS6VHCiv8r9a/XHEuiQT8WZprT4QPnXuryn9NUBGv0Dw+A==
+reddinx@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/reddinx/-/reddinx-2.0.0.tgz#6d4e51c81be55b6aae6e0690b6fedd4fbbe326c3"
+  integrity sha512-3hu0ibrKf4Y6xTat1Msn+/e7QrQJfZykIicFWV3VUCpBCJg9I9K0eCUcJ/1On9zfsFxFPwjLZSfT169ahxhYag==
   dependencies:
     firost "2.16.2"
     golgoth "2.0.0"
     he "1.2.0"
+    imoen "1.1.1"
     minimist "1.2.5"
-    node-object-hash "2.3.7"
+    node-object-hash "2.3.8"
 
 redent@^3.0.0:
   version "3.0.0"
