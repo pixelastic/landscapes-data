@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "aberlaas": "1.24.6",
+    "aberlaas": "1.25.0",
     "on-circle": "1.0.3"
   },
   "engines": {
@@ -28,7 +28,7 @@
   "dependencies": {
     "algolia-indexing": "1.3.0",
     "firost": "2.16.2",
-    "golgoth": "2.0.0",
-    "reddinx": "2.1.0"
+    "golgoth": "2.1.0",
+    "reddinx": "2.2.0"
   }
 }
