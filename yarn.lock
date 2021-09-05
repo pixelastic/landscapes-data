@@ -700,7 +700,7 @@
   dependencies:
     "@octokit/types" "^6.0.3"
 
-"@octokit/core@^3.5.0":
+"@octokit/core@^3.5.0", "@octokit/core@^3.5.1":
   version "3.5.1"
   resolved "https://registry.npmjs.org/@octokit/core/-/core-3.5.1.tgz#8601ceeb1ec0e1b1b8217b960a413ed8e947809b"
   integrity sha512-omncwpLVxMP+GLpLPgeGJBF6IWJFjXDS5flY5VbppePYX9XehevbDykRH9PdCdvqt9TS5AOTiDide7h0qrkHjw==
@@ -731,6 +731,11 @@
     "@octokit/types" "^6.0.3"
     universal-user-agent "^6.0.0"
 
+"@octokit/openapi-types@^10.1.0":
+  version "10.1.0"
+  resolved "https://registry.yarnpkg.com/@octokit/openapi-types/-/openapi-types-10.1.0.tgz#43c2ce1ad0ad711869f0a366dfa04d48e06f2fa2"
+  integrity sha512-Nq5TMBwijRXco+Bm/Rq1n5maxxXsHLwd/Cm3lyNeOxbjyzAOSD0qmr4TwKCD4TN4rHZ7lq/tARuqSv/WJHF7IA==
+
 "@octokit/openapi-types@^9.1.1":
   version "9.1.1"
   resolved "https://registry.npmjs.org/@octokit/openapi-types/-/openapi-types-9.1.1.tgz#fb87f2e2f44b95a5720d61dee409a9f1fbc59217"
@@ -741,6 +746,13 @@
   resolved "https://registry.yarnpkg.com/@octokit/openapi-types/-/openapi-types-9.3.0.tgz#160347858d727527901c6aae7f7d5c2414cc1f2e"
   integrity sha512-oz60hhL+mDsiOWhEwrj5aWXTOMVtQgcvP+sRzX4C3cH7WOK9QSAoEtjWh0HdOf6V3qpdgAmUMxnQPluzDWR7Fw==
 
+"@octokit/plugin-paginate-rest@^2.16.0":
+  version "2.16.0"
+  resolved "https://registry.yarnpkg.com/@octokit/plugin-paginate-rest/-/plugin-paginate-rest-2.16.0.tgz#09dbda2e5fbca022e3cdf76b63618f7b357c9f0c"
+  integrity sha512-8YYzALPMvEZ35kgy5pdYvQ22Roz+BIuEaedO575GwE2vb/ACDqQn0xQrTJR4tnZCJn7pi8+AWPVjrFDaERIyXQ==
+  dependencies:
+    "@octokit/types" "^6.26.0"
+
 "@octokit/plugin-paginate-rest@^2.6.2":
   version "2.14.0"
   resolved "https://registry.npmjs.org/@octokit/plugin-paginate-rest/-/plugin-paginate-rest-2.14.0.tgz#f469cb4a908792fb44679c5973d8bba820c88b0f"
@@ -748,7 +760,7 @@
   dependencies:
     "@octokit/types" "^6.18.0"
 
-"@octokit/plugin-request-log@^1.0.2":
+"@octokit/plugin-request-log@^1.0.2", "@octokit/plugin-request-log@^1.0.4":
   version "1.0.4"
   resolved "https://registry.npmjs.org/@octokit/plugin-request-log/-/plugin-request-log-1.0.4.tgz#5e50ed7083a613816b1e4a28aeec5fb7f1462e85"
   integrity sha512-mLUsMkgP7K/cnFEw07kWqXGF5LKrOkD+lhCrKvPHXWDywAwuDUeDwWBpc69XK3pNX0uKiVt8g5z96PJ6z9xCFA==
@@ -761,12 +773,12 @@
     "@octokit/types" "^6.18.1"
     deprecation "^2.3.1"
 
-"@octokit/plugin-rest-endpoint-methods@5.5.2":
-  version "5.5.2"
-  resolved "https://registry.yarnpkg.com/@octokit/plugin-rest-endpoint-methods/-/plugin-rest-endpoint-methods-5.5.2.tgz#c8bdb3065a9725e30802295f10a31b3ff434830c"
-  integrity sha512-1ArooY7AYQdUd2zyqWLFHQ6gver9PvZSiuM+EPAsDplv1Y6u8zHl6yZ7yGIgaf7xvWupwUkJS2WttGYyb1P0DQ==
+"@octokit/plugin-rest-endpoint-methods@^5.9.0":
+  version "5.10.0"
+  resolved "https://registry.yarnpkg.com/@octokit/plugin-rest-endpoint-methods/-/plugin-rest-endpoint-methods-5.10.0.tgz#8058acf408d518defa2dc59a46777adbcd7ee8e8"
+  integrity sha512-HiUZliq5wNg15cevJlTo9zDnPXAD0BMRhLxbRNPnq9J3HELKesDTOiou56ax2jC/rECUkK/uJTugrizYKSo/jg==
   dependencies:
-    "@octokit/types" "^6.22.0"
+    "@octokit/types" "^6.27.0"
     deprecation "^2.3.1"
 
 "@octokit/request-error@^2.0.5", "@octokit/request-error@^2.1.0":
@@ -790,6 +802,16 @@
     node-fetch "^2.6.1"
     universal-user-agent "^6.0.0"
 
+"@octokit/rest@18.10.0":
+  version "18.10.0"
+  resolved "https://registry.yarnpkg.com/@octokit/rest/-/rest-18.10.0.tgz#8a0add9611253e0e31d3ed5b4bc941a3795a7648"
+  integrity sha512-esHR5OKy38bccL/sajHqZudZCvmv4yjovMJzyXlphaUo7xykmtOdILGJ3aAm0mFHmMLmPFmDMJXf39cAjNJsrw==
+  dependencies:
+    "@octokit/core" "^3.5.1"
+    "@octokit/plugin-paginate-rest" "^2.16.0"
+    "@octokit/plugin-request-log" "^1.0.4"
+    "@octokit/plugin-rest-endpoint-methods" "^5.9.0"
+
 "@octokit/rest@18.6.7":
   version "18.6.7"
   resolved "https://registry.yarnpkg.com/@octokit/rest/-/rest-18.6.7.tgz#89b8ecd13edd9603f00453640d1fb0b4175d4b31"
@@ -800,16 +822,6 @@
     "@octokit/plugin-request-log" "^1.0.2"
     "@octokit/plugin-rest-endpoint-methods" "5.4.1"
 
-"@octokit/rest@18.7.2":
-  version "18.7.2"
-  resolved "https://registry.yarnpkg.com/@octokit/rest/-/rest-18.7.2.tgz#8239b5acd40fccb3f5d074e7a4386980f3770821"
-  integrity sha512-TAedgLqNRS+rdGqS9v00sqBeS6IgyLSoqqCDu6pmoadAB7xSjFHShxzaXUAbxxJjyHtb7mencRGzgH4W/V6Myg==
-  dependencies:
-    "@octokit/core" "^3.5.0"
-    "@octokit/plugin-paginate-rest" "^2.6.2"
-    "@octokit/plugin-request-log" "^1.0.2"
-    "@octokit/plugin-rest-endpoint-methods" "5.5.2"
-
 "@octokit/types@^6.0.3", "@octokit/types@^6.16.1", "@octokit/types@^6.18.0":
   version "6.21.1"
   resolved "https://registry.npmjs.org/@octokit/types/-/types-6.21.1.tgz#d0f2b7598c88e13d0bd87e330d975e3fb2a90180"
@@ -817,12 +829,19 @@
   dependencies:
     "@octokit/openapi-types" "^9.1.1"
 
-"@octokit/types@^6.18.1", "@octokit/types@^6.22.0":
+"@octokit/types@^6.18.1":
   version "6.23.0"
   resolved "https://registry.yarnpkg.com/@octokit/types/-/types-6.23.0.tgz#b39f242b20036e89fa8f34f7962b4e9b7ff8f65b"
   integrity sha512-eG3clC31GSS7K3oBK6C6o7wyXPrkP+mu++eus8CSZdpRytJ5PNszYxudOQ0spWZQ3S9KAtoTG6v1WK5prJcJrA==
   dependencies:
     "@octokit/openapi-types" "^9.3.0"
+
+"@octokit/types@^6.26.0", "@octokit/types@^6.27.0":
+  version "6.27.0"
+  resolved "https://registry.yarnpkg.com/@octokit/types/-/types-6.27.0.tgz#2ffcd4d1cf344285f4151978c6fd36a2edcdf922"
+  integrity sha512-ha27f8DToxXBPEJdzHCCuqpw7AgKfjhWGdNf3yIlBAhAsaexBXTfWw36zNSsncALXGvJq4EjLy1p3Wz45Aqb4A==
+  dependencies:
+    "@octokit/openapi-types" "^10.1.0"
 
 "@samverschueren/stream-to-observable@^0.3.0", "@samverschueren/stream-to-observable@^0.3.1":
   version "0.3.1"
@@ -3164,19 +3183,14 @@ get-value@^2.0.3, get-value@^2.0.6:
   resolved "https://registry.npmjs.org/get-value/-/get-value-2.0.6.tgz#dc15ca1c672387ca76bd37ac0a395ba2042a2c28"
   integrity sha1-3BXKHGcjh8p2vTesCjlbogQqLCg=
 
-git-remote-origin-url@3.1.0:
-  version "3.1.0"
-  resolved "https://registry.npmjs.org/git-remote-origin-url/-/git-remote-origin-url-3.1.0.tgz#c90c1cb0f66658566bbc900509ab093a1522d2b3"
-  integrity sha512-yVSfaTMO7Bqk6Xx3696ufNfjdrajX7Ig9GuAeO2V3Ji7stkDoBNFldnWIAsy0qviUd0Z+X2P6ziJENKztW7cBQ==
+gilmore@0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/gilmore/-/gilmore-0.1.0.tgz#ced4729716df9ee0bcbebaf576cd81ca03d2b021"
+  integrity sha512-dMl5JRwfAPe5sHJkZCWGVoHmeA4yfvcCMMyBuVAHKyOh7bM4v8wt+hrgXdASKahs3hWtkP+oFISx+iotkDzpIw==
   dependencies:
-    gitconfiglocal "^2.1.0"
-
-gitconfiglocal@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.npmjs.org/gitconfiglocal/-/gitconfiglocal-2.1.0.tgz#07c28685c55cc5338b27b5acbcfe34aeb92e43d1"
-  integrity sha512-qoerOEliJn3z+Zyn1HW2F6eoYJqKwS6MgC9cztTLUB/xLWX8gD/6T60pKn4+t/d6tP7JlybI7Z3z+I572CR/Vg==
-  dependencies:
-    ini "^1.3.2"
+    firost "2.16.4"
+    golgoth "2.1.0"
+    parse-github-repo-url "1.4.1"
 
 github-from-package@0.0.0:
   version "0.0.0"
@@ -3680,7 +3694,7 @@ ini@2.0.0:
   resolved "https://registry.npmjs.org/ini/-/ini-2.0.0.tgz#e5fd556ecdd5726be978fa1001862eacb0a94bc5"
   integrity sha512-7PnF4oN3CvZF23ADhA5wRaYEQpJ8qygSkbtTXWBeXWXmEVRXK+1ITciHWwHhsjv1TmW0MgacIv6hEi5pX5NQdA==
 
-ini@^1.3.0, ini@^1.3.2, ini@^1.3.5, ini@~1.3.0:
+ini@^1.3.0, ini@^1.3.5, ini@~1.3.0:
   version "1.3.8"
   resolved "https://registry.npmjs.org/ini/-/ini-1.3.8.tgz#a29da425b48806f34767a4efce397269af28432c"
   integrity sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==
@@ -5593,17 +5607,16 @@ object.pick@^1.3.0:
   dependencies:
     isobject "^3.0.1"
 
-on-circle@1.0.3:
-  version "1.0.3"
-  resolved "https://registry.npmjs.org/on-circle/-/on-circle-1.0.3.tgz#77bc4a4d5c86479b02747234651dbf8736a126c7"
-  integrity sha512-6cpixvo9mwZNqcIvwGpi0RJg4h/PDvrGxAwe77taG5NVKUXBu3bcI+11KW2sF7Xr3QGKkW8mTGrMzpsQX03VPw==
+on-circle@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/on-circle/-/on-circle-2.0.0.tgz#8a1212ce669f496b9b58567dac43e4837949faa6"
+  integrity sha512-cq9+jduM9HeXMrx04d4lIVevq/GcSyum06PPIAlm9RRSvrZ0ymiy5jxAwB2kgIsq4TgZJ6WrdFX43Pv/6DqxLA==
   dependencies:
-    "@octokit/rest" "18.7.2"
-    firost "2.16.2"
-    git-remote-origin-url "3.1.0"
-    golgoth "2.0.0"
+    "@octokit/rest" "18.10.0"
+    firost "2.16.4"
+    gilmore "0.1.0"
+    golgoth "2.1.0"
     minimist "1.2.5"
-    parse-github-repo-url "1.4.1"
 
 once@^1.3.0, once@^1.3.1, once@^1.4.0:
   version "1.4.0"
